@@ -9,7 +9,7 @@ const Footer = () => {
     <div className="container p-4">
       
       <section>
-        <a className="btn btn-outline-light btn-floating m-1" href="https://github.com/PL-Kenshin/" target="_blank" rel="noreferrer" role="button">
+        <a className="btn btn-outline-light btn-floating" href="https://github.com/PL-Kenshin/" target="_blank" rel="noreferrer" role="button">
           <i className="fa fa-github"></i>
         </a>
       </section>
