@@ -55,21 +55,6 @@ const ComponentQuiz = (props) => {
         markAnswer({ key: -1, variant: '' });
     };
 
-
-    const handlePrevQuestion = () => {
-        index--;
-        const prevValue = currentIndex - 1;
-        if (prevValue < 0) {
-            setIndex(0);
-            return;
-        }
-        setIndex(prevValue);
-        setQuestion(quiz[id-1].questions[prevValue]);
-        changePermission(true);
-        markAnswer({ key: -1, variant: '' });
-    };
-
-
     const handleCheckAnswer = (chosenOption, key) => {
         if (!answeredQuestions.includes(currentIndex)) {
             console.log(answeredQuestions);
@@ -80,7 +65,7 @@ const ComponentQuiz = (props) => {
                 if (!allowToChoose) {
                     return;
                 }
-                if (currentQuestion.correct_answer === chosenOption) {
+                if (chosenOption) {
                     const points = currentPoints + 1;
                     setPoints(points);
                     changePermission(false);
@@ -92,8 +77,6 @@ const ComponentQuiz = (props) => {
             }
         }
     };
-
-    // wyświetlenie zawartości
 
     return (
         <div style={styles}>
@@ -110,9 +93,7 @@ const ComponentQuiz = (props) => {
                     markedAnswer={markedAnswer}/>
             <Results points={currentPoints}/>
             <Actions
-                disablePrev={currentIndex > 0}
                 disableNext={currentIndex !== quiz[id-1].questions.length - 1}
-                prev={handlePrevQuestion}
                 next={handleNextQuestion}/>
             </div>}
         </div>

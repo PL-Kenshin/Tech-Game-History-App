@@ -14,12 +14,12 @@ const Navbar = (props) => {
           <a className="btn btn-outline-light btn-floating" href="#" role="button">
             <i className="fa fa-eye"></i>
           </a>
-          <div className="btn-group ms-lg-2 ms-0" role="group">
+          <div className="btn-group ms-2" role="group">
             <button type="button" className="btn btn-outline-light">A+</button>
             <button type="button" className="btn btn-outline-light">A</button>
             <button type="button" className="btn btn-outline-light">A-</button>
           </div>
-          <div className="btn-group ms-lg-2 ms-0" role="group">
+          <div className="btn-group ms-2" role="group">
             <button type="button" className="btn btn-outline-light"><img src="/flag_us.png"></img></button>
             <button type="button" className="btn btn-outline-light"><img src="/flag_pl.png"></img></button>
             <button type="button" className="btn btn-outline-light"><img src="/flag_tr.png"></img></button>
