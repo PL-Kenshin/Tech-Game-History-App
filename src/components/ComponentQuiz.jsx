@@ -40,7 +40,17 @@ const ComponentQuiz = (props) => {
     const [allowToChoose, changePermission] = useState(true);
     const [markedAnswer, markAnswer] = useState({ key: -1, variant: '' });
 
-
+    useEffect(() => {
+        return () => {
+            setIndex(0)
+            setQuestion(null)
+            setPoints(0)
+            changePermission(true)
+            markAnswer({ key: -1, variant: '' })
+            answeredQuestions = []
+            
+        }
+    },[])
 
     const handleNextQuestion = () => {
         index++;
