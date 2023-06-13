@@ -3,6 +3,35 @@ import {Link } from "react-router-dom";
 
 const Navbar = (props) => {
 
+  const handleContrastChange = (event) => {
+    let contrast = localStorage.getItem("isHighContrastOn")
+    if(contrast){
+      contrast = JSON.parse(contrast)
+      localStorage.setItem("isHighContrastOn",!contrast)
+    } else{
+      localStorage.setItem("isHighContrastOn","true")
+    }
+    window.dispatchEvent(new Event("contrast"));
+  }
+
+  const handleFontChange = (size) => {
+    let font = localStorage.getItem("fontSize")
+    if(font){
+      if(size == font) {
+        return
+      } else{
+        localStorage.setItem("fontSize",size)
+      }
+    } else{
+      if(size == 1){
+        return
+      } else {
+        localStorage.setItem("fontSize",size)
+      }
+    }
+    window.dispatchEvent(new Event("fontSize"));
+  }
+
    return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     <div className="container-fluid">
@@ -11,13 +40,13 @@ const Navbar = (props) => {
         <span className="navbar-toggler-icon"></span>
       </button>
       <section className="collapse navbar-collapse pt-4 pt-lg-0 flex-grow-1 justify-content-end" id="navbarSupportedContent">
-          <a className="btn btn-outline-light btn-floating" href="#" role="button">
+          <button className="btn btn-outline-light btn-floating" role="button" onClick={e => handleContrastChange(e)}>
             <i className="fa fa-eye"></i>
-          </a>
+          </button>
           <div className="btn-group ms-2" role="group">
-            <button type="button" className="btn btn-outline-light">A+</button>
-            <button type="button" className="btn btn-outline-light">A</button>
-            <button type="button" className="btn btn-outline-light">A-</button>
+            <button type="button" className="btn btn-outline-light" onClick={e => handleFontChange(3)}>A+</button>
+            <button type="button" className="btn btn-outline-light" onClick={e => handleFontChange(2)}>A</button>
+            <button type="button" className="btn btn-outline-light" onClick={e => handleFontChange(1)}>A-</button>
           </div>
           <div className="btn-group ms-2" role="group">
             <button type="button" className="btn btn-outline-light"><img src="/flag_us.png"></img></button>
