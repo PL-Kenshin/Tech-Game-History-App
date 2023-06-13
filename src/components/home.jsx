@@ -5,7 +5,6 @@ const quiz = require('../quiz.json')
 const Home = (props) => {
     
     let quizList = [...quiz]
-
     return (
         <div>
             <h1 className="text-center">Pick quiz Topic</h1>

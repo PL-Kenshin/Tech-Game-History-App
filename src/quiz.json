@@ -5,21 +5,8 @@
         "questions": [
             {
                 "questionId": 1,
-                "question": "A cause of The First World War was:",
-                "answers": [
-                    {
-                        "content": "the desire for expansion of the great powers",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "Assassination of the Crown Prince of Serbia",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "The launch of the atomic bomb",
-                        "isCorrect": false
-                    }
-                ]
+                "question": "A cause of The First World War was:"
+                
             },
             {
                 "questionId": 2,
