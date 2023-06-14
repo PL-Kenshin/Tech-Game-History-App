@@ -36,7 +36,7 @@ const ComponentQuiz = (props) => {
     const [currentQuestion, setQuestion] = useState(null);
     const [currentPoints, setPoints] = useState(0);
     const [allowToChoose, changePermission] = useState(true);
-    const [markedAnswer, markAnswer] = useState({ key: [-1], variant: '' });
+    const [markedAnswer, markAnswer] = useState([{ key: -1, variant: '' }]);
     const [correctNumber, setCorrectNumber] = useState(1)
     const [answerCount, setAnswerCount] = useState(0)
 
@@ -46,7 +46,7 @@ const ComponentQuiz = (props) => {
             setQuestion(null)
             setPoints(0)
             changePermission(true)
-            markAnswer({ key: [-1], variant: '' })
+            markAnswer([{ key: -1, variant: '' }])
 
         }
     }, [])
@@ -61,7 +61,7 @@ const ComponentQuiz = (props) => {
         setIndex(nextValue);
         setQuestion(quiz[id - 1].questions[nextValue]);
         changePermission(true);
-        markAnswer({ key: [-1], variant: '' });
+        markAnswer([{ key: -1, variant: '' }]);
         let number = quiz[id - 1].questions[nextValue].answers.filter((obj) => obj.isCorrect === true).length
         setCorrectNumber(number)
         setAnswerCount(0)
@@ -75,23 +75,27 @@ const ComponentQuiz = (props) => {
             }
             if (chosenOption) {
                 const points = currentPoints + 1;
-                setPoints(points);
                 setAnswerCount(answerCount + 1)
                 console.log("corr", correctNumber, "ans", answerCount)
                 if (correctNumber == answerCount) {
-                    console.log('block')
+                    console.log("corr",correctNumber,"answerCount",answerCount)
                     changePermission(false);
+                } else {
+                    setPoints(points);
+                    markAnswer([...markedAnswer, { key:key , variant: 'bg-success' }])
                 }
-                markAnswer({ key:[...markedAnswer.key, key] , variant: 'bg-success' })
+                
             } else {
                 console.log("corr", correctNumber, "ans", answerCount)
 
                 setAnswerCount(answerCount + 1)
-                if (correctNumber == answerCount+1) {
-                    console.log('block')
+                if (correctNumber == answerCount) {
+                    console.log("corr",correctNumber,"answerCount",answerCount)
                     changePermission(false);
+                } else {
+                    markAnswer([...markedAnswer, { key:key, variant: 'bg-danger' }])
                 }
-                markAnswer({ key:[...markedAnswer.key, key] , variant: 'bg-danger' })
+                
             }
         }
 
