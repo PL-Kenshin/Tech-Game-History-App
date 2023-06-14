@@ -1029,49 +1029,131 @@
             },
             {
                 "questionId": 7,
-                "question": "Match each word to its definition",
+                "question": "Match word to its definition.\nIt is the assembly formed by the representatives of the bourgeoisie who want to give France a constitution.",
                 "answers": [
                     {
                         "content": "States General",
-                        "match": 3
+                        "isCorrect":false
                     },
                     {
                         "content": "National Constituent Assembly",
-                        "match": 1
+                        "isCorrect":true
                     },
                     {
                         "content": "Consitutional monarchy",
-                        "match": 5
+                        "isCorrect":false
                     },
                     {
                         "content": "Period of Terror",
-                        "match": 2
+                        "isCorrect":false
                     },
                     {
                         "content": "Directory",
-                        "match": 4
+                        "isCorrect":false
                     }
-                ],
-                "matchingOptions": [
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Match word to its definition.\nIt is the period in which the revolutionaries killed Louis XVI.",
+                "answers": [
                     {
-                        "definition": "It is the assembly formed by the representatives of the bourgeoisie who want to give France a constitution.",
-                        "answerIndex": 1
+                        "content": "States General",
+                        "isCorrect":false
                     },
                     {
-                        "definition": "It is the period in which the revolutionaries killed Louis XVI.",
-                        "answerIndex": 2
+                        "content": "National Constituent Assembly",
+                        "isCorrect":false
                     },
                     {
-                        "definition": "It is the Assembly of representatives of the nobility, clergy and bourgeoisie.",
-                        "answerIndex": 3
+                        "content": "Consitutional monarchy",
+                        "isCorrect":false
                     },
                     {
-                        "definition": "It is the government of only five members to which the bourgeoisie entrusts power in 1795.",
-                        "answerIndex": 4
+                        "content": "Period of Terror",
+                        "isCorrect":true
                     },
                     {
-                        "definition": "It is the political system established by the Constitution of 1791, the king governs with the consent of the Assembly.",
-                        "answerIndex": 5
+                        "content": "Directory",
+                        "isCorrect":false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Match word to its definition.\nIt is the Assembly of representatives of the nobility, clergy and bourgeoisie.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect":true
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect":false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Match word to its definition.\nIt is the government of only five members to which the bourgeoisie entrusts power in 1795.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect":true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Match word to its definition.\nIt is the political system established by the Constitution of 1791, the king governs with the consent of the Assembly.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect":true
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect":false
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect":false
                     }
                 ]
             }
