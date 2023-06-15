@@ -1,24 +1,35 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from "react-router-dom";
+import { PDFDownloadLink } from '@react-pdf/renderer';
 
 import quiz from '../quiz.json';
 import Question from "./Question";
 import Answers from "./Answers";
-import Results from './Results';
+import Points from "./Points"
 import Actions from './Actions';
+import MyDoc from './document';
 
 const styles = {
     display: 'flex',
     justifyContent: 'center'
 };
-let index = 0;
 
 const ComponentQuiz = (props) => {
     const [isReady, setIsReady] = useState(false)
+    const [currentIndex, setIndex] = useState(0);
+    const [currentQuestion, setQuestion] = useState(null);
+    const [currentPoints, setPoints] = useState(0);
+    const [allowToChoose, changePermission] = useState(true);
+    const [markedAnswer, markAnswer] = useState([{ key: -1, variant: '' }]);
+    const [correctNumber, setCorrectNumber] = useState(1)
+    const [answerCount, setAnswerCount] = useState(0)
+    const [userAnswers, setUserAnswers] = useState([])
+    const [showResults, setShowResults] = useState(false)
 
-    //Stworzenie niezbędnych hook;ów
     let { id } = useParams();
     let nav = useNavigate()
+
+    console.log(id)
     useEffect(() => {
         console.log("us", id)
         if (!id || id > quiz.length || isNaN(id) || id < 1 || quiz.length < 1) {
@@ -29,16 +40,9 @@ const ComponentQuiz = (props) => {
             setIsReady(true)
         }
 
-    }, [id, nav])
+    },[id, nav, currentIndex])
 
-    console.log(id)
-    const [currentIndex, setIndex] = useState(0);
-    const [currentQuestion, setQuestion] = useState(null);
-    const [currentPoints, setPoints] = useState(0);
-    const [allowToChoose, changePermission] = useState(true);
-    const [markedAnswer, markAnswer] = useState([{ key: -1, variant: '' }]);
-    const [correctNumber, setCorrectNumber] = useState(1)
-    const [answerCount, setAnswerCount] = useState(0)
+
 
     useEffect(() => {
         return () => {
@@ -51,8 +55,8 @@ const ComponentQuiz = (props) => {
         }
     }, [])
 
+
     const handleNextQuestion = () => {
-        index++;
         const nextValue = currentIndex + 1;
         if (nextValue > quiz[id - 1].questions.length - 1) {
             setIndex(quiz[id - 1].questions.length - 1);
@@ -68,42 +72,45 @@ const ComponentQuiz = (props) => {
     };
 
     const handleCheckAnswer = (chosenOption, key) => {
-
+        console.log(currentQuestion.answers[key])
         if (currentPoints < 20) {
             if (!allowToChoose) {
                 return;
             }
+
+            setUserAnswers([...userAnswers, currentQuestion.answers[key]])
+
             if (chosenOption) {
                 const points = currentPoints + 1;
                 setAnswerCount(answerCount + 1)
                 console.log("corr", correctNumber, "ans", answerCount)
-                if (correctNumber == answerCount) {
-                    console.log("corr",correctNumber,"answerCount",answerCount)
+                if (correctNumber === answerCount) {
+                    console.log("corr", correctNumber, "answerCount", answerCount)
                     changePermission(false);
                 } else {
                     setPoints(points);
-                    markAnswer([...markedAnswer, { key:key , variant: 'bg-success' }])
+                    markAnswer([...markedAnswer, { key: key, variant: 'bg-success' }])
                 }
-                
+
             } else {
                 console.log("corr", correctNumber, "ans", answerCount)
 
                 setAnswerCount(answerCount + 1)
-                if (correctNumber == answerCount) {
-                    console.log("corr",correctNumber,"answerCount",answerCount)
+                if (correctNumber === answerCount) {
+                    console.log("corr", correctNumber, "answerCount", answerCount)
                     changePermission(false);
                 } else {
-                    markAnswer([...markedAnswer, { key:key, variant: 'bg-danger' }])
+                    markAnswer([...markedAnswer, { key: key, variant: 'bg-danger' }])
                 }
-                
+
             }
         }
 
     };
-
+    console.log(showResults)
     return (
         <div style={styles}>
-            {isReady && <div className="containter">
+            {isReady && !showResults?<div className="containter">
                 <Question
                     className="col-12"
                     currentQuestion={currentQuestion.question}
@@ -115,11 +122,18 @@ const ComponentQuiz = (props) => {
                     checkAnswer={handleCheckAnswer}
                     currentAnswers={currentQuestion.answers}
                     markedAnswer={markedAnswer} />
-                <Results points={currentPoints} />
+                <Points points={currentPoints} maxPoints={quiz[id-1].questions.reduce((acc, curr) => acc + curr.answers.filter((obj)=>obj.isCorrect===true).length, 0)} />
                 <Actions
                     disableNext={currentIndex !== quiz[id - 1].questions.length - 1}
-                    next={handleNextQuestion} />
-            </div>}
+                    next={handleNextQuestion}
+                    setShowResults={setShowResults} />
+                
+            </div>:<div>
+                    <div>a witam witam</div>
+                    <PDFDownloadLink document={<MyDoc quiz={quiz[id - 1]} answers={userAnswers} />} fileName="mydoc.pdf">
+                    {({ blob, url, loading, error }) => (loading ? 'Loading document...' : 'Download now!')}
+                  </PDFDownloadLink>
+                </div>}
         </div>
     )
 };

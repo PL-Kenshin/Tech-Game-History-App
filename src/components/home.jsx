@@ -7,7 +7,7 @@ const Home = (props) => {
     let quizList = [...quiz]
     return (
         <div>
-            <h1 className="text-center">Pick quiz Topic</h1>
+            <h1 className="text-center">Pick a quiz Topic</h1>
             <ul className="list-group mb-5">
                 {quizList.map((quiz, key) =>
                 (

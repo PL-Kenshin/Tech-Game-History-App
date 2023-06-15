@@ -9,7 +9,7 @@ const Table = (props) => {
                    return <TableRow
                        checkAnswer={props.checkAnswer}
                        key={key}
-                       question={elem}
+                       answer={elem}
                        currentKey={key}
                        markedAnswer={props.markedAnswer}/>
                })}

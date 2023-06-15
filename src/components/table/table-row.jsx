@@ -1,18 +1,30 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 const styles = {
     cursor: 'pointer'
  };
 
 const TableRow = (props) => {
-    console.log(props.markedAnswer)
-    console.log(props.currentKey, props.markedAnswer.filter((obj) => obj.key === props.currentKey)[0]?.variant)
-    console.log(props.markedAnswer.filter((obj) => obj.key === props.currentKey))
+    let fun = props.markedAnswer.filter((obj) => obj.key === props.currentKey)
+    let isMarked = fun.length
+    let currentContrast = JSON.parse(localStorage.getItem('isHighContrastOn'))
+    const [highContrast,setHighContrast] = useState(currentContrast)
+    useEffect(() => {
+        const listener = () => {
+            let contrast = JSON.parse(localStorage.getItem("isHighContrastOn"))
+            setHighContrast(contrast)
+        }
+
+        window.addEventListener('contrast',listener)
+        return () => {
+            window.removeEventListener('contrast',listener)
+        }
+    },[highContrast])
    return (
-    <li style={styles} onClick={() => props.checkAnswer(props.question.isCorrect, props.currentKey)}
-        className={"list-group-item " + (props.markedAnswer.filter((obj) => obj.key === props.currentKey).length>0 ? props.markedAnswer.filter((obj) => obj.key === props.currentKey)[0]?.variant : '')}>{props.question.content}
+    <li style={styles} onClick={() => props.checkAnswer(props.answer.isCorrect, props.currentKey)}
+        className={"list-group-item " + (isMarked>0 ? fun[0]?.variant : '')}>{props.answer.content} {highContrast?(isMarked>0?fun[0]?.variant==="bg-success"?"✓":"✗":""):""}
     </li>
-   )//do zrobienia poprawienie kluczy i odpowiadających im kolorom poprawności odpowiedzi
+   )//✓✗
 };
 
 export default TableRow;
