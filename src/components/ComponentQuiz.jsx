@@ -110,7 +110,7 @@ const ComponentQuiz = (props) => {
     console.log(showResults)
     return (
         <div style={styles}>
-            {isReady && !showResults?<div className="containter">
+            {isReady? !showResults?<div className="containter">
                 <Question
                     className="col-12"
                     currentQuestion={currentQuestion.question}
@@ -133,7 +133,7 @@ const ComponentQuiz = (props) => {
                     <PDFDownloadLink document={<MyDoc quiz={quiz[id - 1]} answers={userAnswers} />} fileName="mydoc.pdf">
                     {({ blob, url, loading, error }) => (loading ? 'Loading document...' : 'Download now!')}
                   </PDFDownloadLink>
-                </div>}
+                </div>:<div></div>}
         </div>
     )
 };
