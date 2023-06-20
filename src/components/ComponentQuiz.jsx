@@ -1,13 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from "react-router-dom";
-import { PDFDownloadLink } from '@react-pdf/renderer';
-
 import quiz from '../quiz.json';
 import Question from "./Question";
 import Answers from "./Answers";
 import Points from "./Points"
 import Actions from './Actions';
-import MyDoc from './document';
+import Results from './Results';
+
 
 const styles = {
     display: 'flex',
@@ -128,12 +127,7 @@ const ComponentQuiz = (props) => {
                     next={handleNextQuestion}
                     setShowResults={setShowResults} />
                 
-            </div>:<div>
-                    <div>a witam witam</div>
-                    <PDFDownloadLink document={<MyDoc quiz={quiz[id - 1]} answers={userAnswers} />} fileName="mydoc.pdf">
-                    {({ blob, url, loading, error }) => (loading ? 'Loading document...' : 'Download now!')}
-                  </PDFDownloadLink>
-                </div>:<div></div>}
+            </div>:<Results quiz={quiz[id - 1]} answers={userAnswers} points={currentPoints}/>:<div></div>}
         </div>
     )
 };

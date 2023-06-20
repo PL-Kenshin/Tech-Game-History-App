@@ -12,6 +12,7 @@ import { useEffect, useState } from 'react';
 function App() {
   let contrast = JSON.parse(localStorage.getItem("isHighContrastOn"))
   let fontSize = parseInt(localStorage.getItem("fontSize"))
+  let language = localStorage.getItem("language")
   let size = 100
     switch (fontSize) {
       case 3:
@@ -29,6 +30,7 @@ function App() {
     }
   const [hightContrast, setHighContrast] = useState(contrast?contrast:false)
   const [userfontSize, setUserFontSize] = useState(size)
+  const [userLanguage, setUserLanguage] = useState(language?language:"en")
 
 
   window.addEventListener('contrast', () => {
@@ -54,6 +56,12 @@ function App() {
     }
     setUserFontSize(size)
   })
+
+  window.addEventListener('language', () => {
+    language = localStorage.getItem("language")
+    setUserLanguage(language)
+  })
+
   return (
     <div className="container-fluid p-0">
       <Helmet>
@@ -74,7 +82,7 @@ function App() {
           `}
         </style>
       </Helmet>
-      <Navbar />
+      <Navbar language={userLanguage} contrast={hightContrast}/>
       <div className="container pt-5 min-vh-100">
       <ErrorBoundary>
         <Outlet />
