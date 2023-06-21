@@ -107,6 +107,10 @@ const ComponentQuiz = (props) => {
 
     };
     console.log(showResults)
+
+        throw new Error('Parameter is not a number!')
+
+   
     return (
         <div style={styles}>
             {isReady? !showResults?<div className="containter">

@@ -14,6 +14,12 @@ import ComponentQuiz from './components/ComponentQuiz';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
+console.log(process.env.NODE_ENV)
+
+if (process.env.NODE_ENV === 'production') {
+  window.addEventListener('error', e => e.preventDefault());
+}
+
 root.render(
     <BrowserRouter>
       <Routes>
