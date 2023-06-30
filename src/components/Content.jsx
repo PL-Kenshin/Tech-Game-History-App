@@ -16,6 +16,11 @@ const Content = (props) => {
             <div className='card-body'>
                 <h1 className='card-title text-center'>{content[id-1].title}</h1>
                 <div className='card-text' style={{whiteSpace:'pre-line'}} dangerouslySetInnerHTML={{__html:content[id-1].content}}></div>
+                
+                <h4 className='d-flex justify-content-center mt-4 text-center'>
+                    To pass the quiz you have to get 75% correct answers.
+                </h4>
+                
                 <div className='d-flex justify-content-center mt-4'>
                     <button className='btn btn-primary' onClick={e => clickHandler(e)}>Start quiz</button>
                 </div> 
