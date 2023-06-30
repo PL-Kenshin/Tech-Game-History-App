@@ -6,6 +6,7 @@ import Answers from "./Answers";
 import Points from "./Points"
 import Actions from './Actions';
 import Results from './Results';
+import Content from './Content';
 
 
 const styles = {
@@ -24,6 +25,7 @@ const ComponentQuiz = (props) => {
     const [answerCount, setAnswerCount] = useState(0)
     const [userAnswers, setUserAnswers] = useState([])
     const [showResults, setShowResults] = useState(false)
+    const [showContent, setShowContent] = useState(true)
 
     let { id } = useParams();
     let nav = useNavigate()
@@ -109,7 +111,7 @@ const ComponentQuiz = (props) => {
    
     return (
         <div style={styles}>
-            {isReady? !showResults?<div className="containter">
+            {isReady?showContent?<Content setContent={setShowContent}/>: !showResults?<div className="containter">
                 <Question
                     className="col-12"
                     currentQuestion={currentQuestion.question}

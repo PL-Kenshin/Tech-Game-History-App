@@ -1033,23 +1033,23 @@
                 "answers": [
                     {
                         "content": "States General",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "National Constituent Assembly",
-                        "isCorrect":true
+                        "isCorrect": true
                     },
                     {
                         "content": "Consitutional monarchy",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Period of Terror",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Directory",
-                        "isCorrect":false
+                        "isCorrect": false
                     }
                 ]
             },
@@ -1059,23 +1059,23 @@
                 "answers": [
                     {
                         "content": "States General",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "National Constituent Assembly",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Consitutional monarchy",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Period of Terror",
-                        "isCorrect":true
+                        "isCorrect": true
                     },
                     {
                         "content": "Directory",
-                        "isCorrect":false
+                        "isCorrect": false
                     }
                 ]
             },
@@ -1085,23 +1085,23 @@
                 "answers": [
                     {
                         "content": "States General",
-                        "isCorrect":true
+                        "isCorrect": true
                     },
                     {
                         "content": "National Constituent Assembly",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Consitutional monarchy",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Period of Terror",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Directory",
-                        "isCorrect":false
+                        "isCorrect": false
                     }
                 ]
             },
@@ -1111,23 +1111,23 @@
                 "answers": [
                     {
                         "content": "States General",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "National Constituent Assembly",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Consitutional monarchy",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Period of Terror",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Directory",
-                        "isCorrect":true
+                        "isCorrect": true
                     }
                 ]
             },
@@ -1137,23 +1137,23 @@
                 "answers": [
                     {
                         "content": "States General",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "National Constituent Assembly",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Consitutional monarchy",
-                        "isCorrect":true
+                        "isCorrect": true
                     },
                     {
                         "content": "Period of Terror",
-                        "isCorrect":false
+                        "isCorrect": false
                     },
                     {
                         "content": "Directory",
-                        "isCorrect":false
+                        "isCorrect": false
                     }
                 ]
             }
@@ -2815,100 +2815,6 @@
     },
     {
         "id": 21,
-        "topic": "The Digital Revolution: Soviet Union Launches Sputnik, First Man-Made Satellite: 10/4/1957 (Russia)",
-        "questions": [
-            {
-                "questionId": 1,
-                "question": "The Soviet Union kicked off the Space Race by launching what satellite into space?",
-                "answers": [
-                    {
-                        "content": "Kosmos",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "Spektr",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "Sputnik",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "YoutSat",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "Voyager",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "questionId": 2,
-                "question": "Is this Sputnik - the first artificial earth satellite?",
-                "answers": [
-                    {
-                        "content": "Yes",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "No",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "questionId": 3,
-                "question": "Look at the drawing and indicate the name of the object:",
-                "answers": [
-                    {
-                        "content": "Luna 10",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "Sojuz 4",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "Sputnik 1",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "Wostok 1",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "Gemini 8",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "questionId": 4,
-                "question": "When was the first earth satellite launched?",
-                "answers": [
-                    {
-                        "content": "December 14, 1903",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "May 8, 1945",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "October 4, 1957",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "July 20, 1969",
-                        "isCorrect": false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 22,
         "topic": "Yuri Gagarin Becomes the First Man in Space: 1961 (Russia)",
         "questions": [
             {
@@ -2984,7 +2890,7 @@
         ]
     },
     {
-        "id": 23,
+        "id": 22,
         "topic": "U.S. President John F. Kennedy Is assassinated in Dallas, Texas: 11/22/1963 (US)",
         "questions": [
             {
@@ -3032,7 +2938,7 @@
         ]
     },
     {
-        "id": 24,
+        "id": 23,
         "topic": "The Birth of the Internet: 1965-1995 (US)",
         "questions": [
             {
@@ -3180,7 +3086,7 @@
         ]
     },
     {
-        "id": 25,
+        "id": 24,
         "topic": "The Time of Hunters and Peasants (3000 B.C.)",
         "questions": [
             {
@@ -3542,7 +3448,7 @@
         ]
     },
     {
-        "id": 26,
+        "id": 25,
         "topic": "The Time of Greek and Romans (3000 B.C. - 500 A.D.)",
         "questions": [
             {
@@ -3656,103 +3562,7 @@
         ]
     },
     {
-        "id": 27,
-        "topic": "Education in Athens",
-        "questions": [
-            {
-                "questionId": 1,
-                "question": "Choose the correct answer: Athenian girls",
-                "answers": [
-                    {
-                        "content": "only looked after their children and house",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "could go out freely",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "could vote",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "questionId": 2,
-                "question": "Athenian boys:",
-                "answers": [
-                    {
-                        "content": "were trained to use weapons",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "were trained in domestic life",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "were trained to become fishermen",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "questionId": 3,
-                "question": "In the aristocratic polis the nobles",
-                "answers": [
-                    {
-                        "content": "could afford training",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "could take care of agriculture",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "could educate their children",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "questionId": 4,
-                "question": "The boys were educated",
-                "answers": [
-                    {
-                        "content": "by their grandmother or an educated slave up to the age of 18",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "by their mother or an educated slave up to the age of 6/7",
-                        "isCorrect": true
-                    },
-                    {
-                        "content": "by the oracle of the city",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "questionId": 5,
-                "question": "The private teacher was called",
-                "answers": [
-                    {
-                        "content": "musician",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "general",
-                        "isCorrect": false
-                    },
-                    {
-                        "content": "grammatist",
-                        "isCorrect": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 28,
+        "id": 26,
         "topic": "The Time of Monks and Knights (500 - 1000/2000)",
         "questions": [
             {
@@ -3970,7 +3780,153 @@
         ]
     },
     {
-        "id": 29,
+        "id": 27,
+        "topic": "The birth of Christianity: the Monasteries",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "In the High Middle Ages the Church had remained the only institution with a",
+                "answers": [
+                    {
+                        "content": "stable and ruthless organization",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "authoritarian and strict organization",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "which could guarantee safety and protection to the inhabitants of the territory, and for this reason it became very",
+                "answers": [
+                    {
+                        "content": "powerful",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "feared",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In the cities, it was present above all in the",
+                "answers": [
+                    {
+                        "content": "papal sees",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "episcopal sees",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "in the countryside in the monasteries, where the monks lived in",
+                "answers": [
+                    {
+                        "content": "community",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "isolation",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Monasteries had a very important function: they managed to protect and",
+                "answers": [
+                    {
+                        "content": "feed",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "enrich",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "the population, saved many lands from abandonment, preserved and spread",
+                "answers": [
+                    {
+                        "content": "culture",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "traditions",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "The first monasteries were founded by the order of the",
+                "answers": [
+                    {
+                        "content": "Franciscans",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Benedictines",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "The founder,",
+                "answers": [
+                    {
+                        "content": "Benedict of Nursia",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Francis of Assisi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "wrote a Rule, in which the monks were asked to undertake to obey",
+                "answers": [
+                    {
+                        "content": "the lord of the curtis",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "the abbot",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "to practice poverty and chastity, to follow the motto ora et labora, that is, to devote themselves",
+                "answers": [
+                    {
+                        "content": "to prayer and work",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "more to work than to prayer",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
         "topic": "Athens: Towards/An Example of Democracy",
         "questions": [
             {
@@ -4084,239 +4040,189 @@
         ]
     },
     {
-        "id": 30,
-        "topic": "The Civil War in the US",
+        "id": 29,
+        "topic": "Education in Athens",
         "questions": [
-          {
-            "questionId": 1,
-            "question": "When did Abraham Lincoln die (year)? 1865 or 1866?",
-            "answers": [
-              {
-                "content": "1865",
-                "isCorrect": true
-              },
-              {
-                "content": "1866",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 2,
-            "question": "When did the Civil War legally end? 1865 or 1866?",
-            "answers": [
-              {
-                "content": "1865",
-                "isCorrect": false
-              },
-              {
-                "content": "1866",
-                "isCorrect": true
-              }
-            ]
-          },
-          {
-            "questionId": 3,
-            "question": "What were the soldiers from the north called? The Unionists or the Confederates?",
-            "answers": [
-              {
-                "content": "The Unionists",
-                "isCorrect": true
-              },
-              {
-                "content": "The Confederates",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 4,
-            "question": "What were the soldiers from the South called? The Unionists or the Confederates?",
-            "answers": [
-              {
-                "content": "The Unionists",
-                "isCorrect": false
-              },
-              {
-                "content": "The Confederates",
-                "isCorrect": true
-              }
-            ]
-          },
-          {
-            "questionId": 5,
-            "question": "Who was the President of the Union? Abraham Lincoln or Jefferson Davis",
-            "answers": [
-              {
-                "content": "Abraham Lincoln",
-                "isCorrect": true
-              },
-              {
-                "content": "Jefferson Davis",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 6,
-            "question": "Who won the Civil War? The Unionists or the Confederates?",
-            "answers": [
-              {
-                "content": "The Unionists",
-                "isCorrect": true
-              },
-              {
-                "content": "The Confederates",
-                "isCorrect": false
-              }
-            ]
-          }
+            {
+                "questionId": 1,
+                "question": "Choose the correct answer: Athenian girls",
+                "answers": [
+                    {
+                        "content": "only looked after their children and house",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "could go out freely",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "could vote",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Athenian boys:",
+                "answers": [
+                    {
+                        "content": "were trained to use weapons",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "were trained in domestic life",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "were trained to become fishermen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In the aristocratic polis the nobles",
+                "answers": [
+                    {
+                        "content": "could afford training",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "could take care of agriculture",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "could educate their children",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The boys were educated",
+                "answers": [
+                    {
+                        "content": "by their grandmother or an educated slave up to the age of 18",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "by their mother or an educated slave up to the age of 6/7",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "by the oracle of the city",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The private teacher was called",
+                "answers": [
+                    {
+                        "content": "musician",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "general",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "grammatist",
+                        "isCorrect": true
+                    }
+                ]
+            }
         ]
     },
     {
-        "id": 31,
-        "topic": "The birth of Christianity: the Monasteries",
+        "id": 30,
+        "topic": "The Civil War in the US",
         "questions": [
-          {
-            "questionId": 1,
-            "question": "In the High Middle Ages the Church had remained the only institution with a",
-            "answers": [
-              {
-                "content": "stable and ruthless organization",
-                "isCorrect": true
-              },
-              {
-                "content": "authoritarian and strict organization",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 2,
-            "question": "which could guarantee safety and protection to the inhabitants of the territory, and for this reason it became very",
-            "answers": [
-              {
-                "content": "powerful",
-                "isCorrect": true
-              },
-              {
-                "content": "feared",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 3,
-            "question": "In the cities, it was present above all in the",
-            "answers": [
-              {
-                "content": "papal sees",
-                "isCorrect": false
-              },
-              {
-                "content": "episcopal sees",
-                "isCorrect": true
-              }
-            ]
-          },
-          {
-            "questionId": 4,
-            "question": "in the countryside in the monasteries, where the monks lived in",
-            "answers": [
-              {
-                "content": "community",
-                "isCorrect": true
-              },
-              {
-                "content": "isolation",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 5,
-            "question": "Monasteries had a very important function: they managed to protect and",
-            "answers": [
-              {
-                "content": "feed",
-                "isCorrect": true
-              },
-              {
-                "content": "enrich",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 6,
-            "question": "the population, saved many lands from abandonment, preserved and spread",
-            "answers": [
-              {
-                "content": "culture",
-                "isCorrect": true
-              },
-              {
-                "content": "traditions",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 7,
-            "question": "The first monasteries were founded by the order of the",
-            "answers": [
-              {
-                "content": "Franciscans",
-                "isCorrect": false
-              },
-              {
-                "content": "Benedictines",
-                "isCorrect": true
-              }
-            ]
-          },
-          {
-            "questionId": 8,
-            "question": "The founder,",
-            "answers": [
-              {
-                "content": "Benedict of Nursia",
-                "isCorrect": true
-              },
-              {
-                "content": "Francis of Assisi",
-                "isCorrect": false
-              }
-            ]
-          },
-          {
-            "questionId": 9,
-            "question": "wrote a Rule, in which the monks were asked to undertake to obey",
-            "answers": [
-              {
-                "content": "the lord of the curtis",
-                "isCorrect": false
-              },
-              {
-                "content": "the abbot",
-                "isCorrect": true
-              }
-            ]
-          },
-          {
-            "questionId": 10,
-            "question": "to practice poverty and chastity, to follow the motto ora et labora, that is, to devote themselves",
-            "answers": [
-              {
-                "content": "to prayer and work",
-                "isCorrect": true
-              },
-              {
-                "content": "more to work than to prayer",
-                "isCorrect": false
-              }
-            ]
-          }
+            {
+                "questionId": 1,
+                "question": "When did Abraham Lincoln die (year)? 1865 or 1866?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "When did the Civil War legally end? 1865 or 1866?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "What were the soldiers from the north called? The Unionists or the Confederates?",
+                "answers": [
+                    {
+                        "content": "The Unionists",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The Confederates",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What were the soldiers from the South called? The Unionists or the Confederates?",
+                "answers": [
+                    {
+                        "content": "The Unionists",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Confederates",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Who was the President of the Union? Abraham Lincoln or Jefferson Davis",
+                "answers": [
+                    {
+                        "content": "Abraham Lincoln",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Jefferson Davis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Who won the Civil War? The Unionists or the Confederates?",
+                "answers": [
+                    {
+                        "content": "The Unionists",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The Confederates",
+                        "isCorrect": false
+                    }
+                ]
+            }
         ]
-      }
+    }
 ]
