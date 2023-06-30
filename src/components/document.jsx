@@ -25,11 +25,11 @@ const MyDoc = (props) => {
                             return (
                                 <View key={key}>
                                     <View style={styles.tableRow}>
-                                        <View style={styles.tableColQuestion}><Text style={styles.tableCell}>{props.quiz.questions[key].question}</Text></View>
+                                        <View style={styles.tableColQuestion}><Text style={styles.tableCell}>{elem[0]}</Text></View>
                                     </View>
                                     <View style={styles.tableRow}>
-                                        <View style={styles.tableCol}><Text style={styles.tableCell}>{elem.content}</Text></View>
-                                        <View style={styles.tableCol}><Text style={styles.tableCell}>{elem.isCorrect ? "correct" : "wrong"}</Text></View>
+                                        <View style={styles.tableCol}><Text style={styles.tableCell}>{elem[1].content}</Text></View>
+                                        <View style={styles.tableCol}><Text style={styles.tableCell}>{elem[1].isCorrect ? "correct" : "wrong"}</Text></View>
                                     </View>
                                 </View>
                             )

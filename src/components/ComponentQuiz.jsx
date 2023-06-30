@@ -30,9 +30,7 @@ const ComponentQuiz = (props) => {
     let { id } = useParams();
     let nav = useNavigate()
 
-    console.log(id)
     useEffect(() => {
-        console.log("us", id)
         if (!id || id > quiz.length || isNaN(id) || id < 1 || quiz.length < 1) {
             setIsReady(false)
             nav("/")
@@ -75,36 +73,37 @@ const ComponentQuiz = (props) => {
     const handleCheckAnswer = (chosenOption, key) => {
         console.log(currentQuestion.answers[key])
         if (currentPoints < 20) {
-            if (!allowToChoose) {
-                return;
-            }
-
-            setUserAnswers([...userAnswers, currentQuestion.answers[key]])
-
-            if (chosenOption) {
-                const points = currentPoints + 1;
-                setAnswerCount(answerCount + 1)
-                console.log("corr", correctNumber, "ans", answerCount)
-                if (correctNumber === answerCount) {
-                    console.log("corr", correctNumber, "answerCount", answerCount)
-                    changePermission(false);
+            if (allowToChoose === false) {
+                return
+            } else{
+                console.log('yes')
+                setUserAnswers([...userAnswers, [currentQuestion.question, currentQuestion.answers[key]]])
+    
+                if (chosenOption) {
+                    const points = currentPoints + 1;
+                    setAnswerCount(answerCount + 1)
+                    console.log("corr", correctNumber, "ans", answerCount)
+                    if (correctNumber === answerCount+1) {
+                        console.log("corr", correctNumber, "answerCount", answerCount)
+                        changePermission(false);
+                    } //else {
+                        setPoints(points);
+                        markAnswer([...markedAnswer, { key: key, variant: 'bg-success' }])
+                    //}
+    
                 } else {
-                    setPoints(points);
-                    markAnswer([...markedAnswer, { key: key, variant: 'bg-success' }])
+    
+                    setAnswerCount(answerCount + 1)
+                    if (correctNumber === answerCount+1) {
+                        console.log("corr", correctNumber, "answerCount", answerCount)
+                        changePermission(false);
+                    } //else {
+                        markAnswer([...markedAnswer, { key: key, variant: 'bg-danger' }])
+                    //}
+    
                 }
-
-            } else {
-                console.log("corr", correctNumber, "ans", answerCount)
-
-                setAnswerCount(answerCount + 1)
-                if (correctNumber === answerCount) {
-                    console.log("corr", correctNumber, "answerCount", answerCount)
-                    changePermission(false);
-                } else {
-                    markAnswer([...markedAnswer, { key: key, variant: 'bg-danger' }])
-                }
-
-            }
+            } 
+            
         }
 
     };
@@ -123,7 +122,14 @@ const ComponentQuiz = (props) => {
                     checkAnswer={handleCheckAnswer}
                     currentAnswers={currentQuestion.answers}
                     markedAnswer={markedAnswer} />
-                {currentQuestion.id === markedAnswer.length? currentQuestion.answers[markedAnswer[markedAnswer.length-1].key]?.isCorrect === true? <div>Correct answer!</div>:<div>Wrong answer!</div>:<div></div>}
+                {markedAnswer.length >1 ? currentQuestion.answers[markedAnswer[markedAnswer.length-1].key]?.isCorrect === true? <div>Correct answer!</div>:<div>Wrong answer! {markedAnswer.length > correctNumber ? "Correct: " + currentQuestion.answers.map((elem, key) => {
+                    if(elem.isCorrect){
+                        return (key+1)+" "
+                    } else {
+                        return ""
+                    }
+                }
+                ):""}</div>:<div></div>}
                 <Points points={currentPoints} maxPoints={quiz[id-1].questions.reduce((acc, curr) => acc + curr.answers.filter((obj)=>obj.isCorrect===true).length, 0)} />
                 <Actions
                     disableNext={currentIndex !== quiz[id - 1].questions.length - 1}
