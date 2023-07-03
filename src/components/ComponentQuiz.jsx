@@ -122,7 +122,7 @@ const ComponentQuiz = (props) => {
                     checkAnswer={handleCheckAnswer}
                     currentAnswers={currentQuestion.answers}
                     markedAnswer={markedAnswer} />
-                {markedAnswer.length >1 ? currentQuestion.answers[markedAnswer[markedAnswer.length-1].key]?.isCorrect === true? <div>Correct answer! {markedAnswer.find(obj => obj.variant === 'bg-danger').length > 0 ? markedAnswer.length > correctNumber ? "Correct: " + currentQuestion.answers.map((elem, key) => {
+                {markedAnswer.length >1 ? currentQuestion.answers[markedAnswer[markedAnswer.length-1].key]?.isCorrect === true? <div>Correct answer! {markedAnswer.find(obj => obj.variant === 'bg-danger') ? markedAnswer.length > correctNumber ? "Correct: " + currentQuestion.answers.map((elem, key) => {
                     if(elem.isCorrect){
                         return (key+1)+" "
                     } else {
