@@ -17,7 +17,7 @@ const Footer = () => {
     </div>
 
     <div className="text-center p-3">
-      © {year} Copyright: Kenshin (MP), VeelQ (AW), Polibus (EL)
+      © {year} Copyright: Mateusz Ptak, Adrian Wilk, Eryk Łuszczkiewicz. All rights reserved.
     </div>
     
   </footer>

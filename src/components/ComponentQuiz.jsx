@@ -129,7 +129,7 @@ const ComponentQuiz = (props) => {
                         return ""
                     }
                 }
-                ):""}</div>:<div></div>}
+                ).join(''):""}</div>:<div></div>}
                 <Points points={currentPoints} maxPoints={quiz[id-1].questions.reduce((acc, curr) => acc + curr.answers.filter((obj)=>obj.isCorrect===true).length, 0)} />
                 <Actions
                     disableNext={currentIndex !== quiz[id - 1].questions.length - 1}
