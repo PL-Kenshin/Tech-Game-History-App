@@ -1,9 +1,11 @@
 import React from "react";
 import {Link } from "react-router-dom";
+import strings from '../locale/strings';
 
 const Navbar = (props) => {
 
-  console.log(props.language)
+  strings.setLanguage(localStorage.getItem("language"))
+  
   const handleContrastChange = (event) => {
     let contrast = localStorage.getItem("isHighContrastOn")
     if(contrast){
@@ -35,16 +37,19 @@ const Navbar = (props) => {
 
   const handleLanguageChange = (selectedLanguage) => {
     let language = localStorage.getItem("language")
+
     if(language){
       if(selectedLanguage === language) {
         return
       } else{
+        strings.setLanguage(selectedLanguage)
         localStorage.setItem("language",selectedLanguage)
       }
     } else{
       if(selectedLanguage === "en"){
         return
       } else {
+        strings.setLanguage(selectedLanguage)
         localStorage.setItem("language",selectedLanguage)
       }
     }
@@ -69,7 +74,7 @@ const Navbar = (props) => {
           </div>
           <ul className="navbar-nav">
             <li className="nav-item dropdown">
-              <a className="nav-link dropdown-toggle" href="/#" data-bs-toggle="dropdown" aria-expanded="false">Language</a>
+              <a className="nav-link dropdown-toggle" href="/#" data-bs-toggle="dropdown" aria-expanded="false">{strings.language}</a>
               <ul className="dropdown-menu dropdown-menu-dark bg-dark">
                 <li><button type="button" className={"dropdown-item " + (props.language==="en"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("en")}><img className="me-1" src="/flag_us.png" alt="flag_us"></img>English</button></li>
                 <li><button type="button" className={"dropdown-item " + (props.language==="it"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("it")}><img className="me-1" src="/flag_it.png" alt="flag_it"></img>Italiano</button></li>

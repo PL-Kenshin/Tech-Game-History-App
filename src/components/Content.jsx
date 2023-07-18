@@ -1,9 +1,12 @@
 import React, {useEffect, useState} from 'react';
 import { useParams } from "react-router-dom";
+import strings from '../locale/strings';
+
 const Content = (props) => {
     const [isReady, setIsReady] = useState(false)
     let { id } = useParams();
     const [content, setContent] = useState(null)
+    strings.setLanguage(localStorage.getItem("language"))
 
     const clickHandler = (event) => {
         event.preventDefault()
@@ -13,23 +16,25 @@ const Content = (props) => {
     }
 
     useEffect(() => {
-        console.log(props.language)
         const loadData = () => {
             let data
-            switch(localStorage.getItem("language")) {
+            switch(props.language) {
                 case "en":
                     data = require('../data/en/content.json')
                     setContent(data)
+                    strings.setLanguage(props.language)
                     setIsReady(true)
                     break;
                 case "it":
                     data = require('../data/it/content.json')
                     setContent(data)
+                    strings.setLanguage(props.language)
                     setIsReady(true)
                     break;
                 default:
                     data = require('../data/en/content.json')
                     setContent(data)
+                    strings.setLanguage(props.language)
                     setIsReady(true)
                     break;
             }
@@ -45,11 +50,11 @@ const Content = (props) => {
                 <div className='card-text' style={{whiteSpace:'pre-line'}} dangerouslySetInnerHTML={{__html:content[id-1].content}}></div>
                 
                 <h4 className='d-flex justify-content-center mt-4 text-center'>
-                    To pass the quiz you have to get 75% correct answers.
+                    {strings.requirement}
                 </h4>
                 
                 <div className='d-flex justify-content-center mt-4'>
-                    <button className='btn btn-primary' onClick={e => clickHandler(e)}>{props.started?"Continue":"Start quiz"}</button>
+                    <button className='btn btn-primary' onClick={e => clickHandler(e)}>{props.started?strings.continue:strings.startQuiz}</button>
                 </div> 
             </div>
         </div>}

@@ -6,19 +6,7 @@ import Points from "./Points"
 import Actions from './Actions';
 import Results from './Results';
 import Content from './Content';
-let quiz;
-
-switch(localStorage.getItem("language")) {
-    case "en":
-        quiz = require('../data/en/quiz.json')
-        break;
-    case "it":
-        quiz = require('../data/en/quiz.json')
-        break;
-    default:
-         quiz = require('../data/en/quiz.json')
-         break;
-}
+import strings from '../locale/strings';
 
 const styles = {
     display: 'flex',
@@ -26,6 +14,7 @@ const styles = {
 };
 
 const ComponentQuiz = (props) => {
+    const [quiz, setQuiz] = useState(require('../data/en/quiz.json'))
     const [isReady, setIsReady] = useState(false)
     const [currentIndex, setIndex] = useState(0);
     const [currentQuestion, setQuestion] = useState(null);
@@ -47,11 +36,36 @@ const ComponentQuiz = (props) => {
             setIsReady(false)
             nav("/")
         } else {
-            setQuestion(quiz[id - 1].questions[currentIndex])
-            setIsReady(true)
+            const loadData = () => {
+                let data
+                switch(language) {
+                    case "en":
+                        data = require('../data/en/quiz.json')
+                        setQuiz(data)
+                        strings.setLanguage(language)
+                        setQuestion(data[id - 1].questions[currentIndex])
+                        setIsReady(true)
+                        break;
+                    case "it":
+                        data = require('../data/it/quiz.json')
+                        setQuiz(data)
+                        strings.setLanguage(language)
+                        setQuestion(data[id - 1].questions[currentIndex])
+                        setIsReady(true)
+                        break;
+                    default:
+                        data = require('../data/en/quiz.json')
+                        setQuiz(data)
+                        strings.setLanguage(language)
+                        setQuestion(data[id - 1].questions[currentIndex])
+                        setIsReady(true)
+                        break;
+                }
+            }
+            loadData()
         }
 
-    }, [id, nav, currentIndex])
+    }, [id, nav, currentIndex, language])
 
 
 
@@ -62,7 +76,6 @@ const ComponentQuiz = (props) => {
             setPoints(0)
             changePermission(true)
             markAnswer([{ key: -1, variant: '' }])
-
         }
     }, [])
 
@@ -124,6 +137,7 @@ const ComponentQuiz = (props) => {
         <div style={styles}>
             {isReady ? showContent ? <Content language={language} setContent={setShowContent} setStarted={setStarted} started={started}/> : !showResults ? <div className="containter">
                 <Question
+                    language={language}
                     className="col-12"
                     currentQuestion={currentQuestion.question}
                     currentIndex={currentIndex + 1}
@@ -148,14 +162,15 @@ const ComponentQuiz = (props) => {
                         </div>
                 : <div></div>
                 }
-                <Points points={currentPoints} maxPoints={quiz[id - 1].questions.reduce((acc, curr) => acc + curr.answers.filter((obj) => obj.isCorrect === true).length, 0)} />
+                <Points language={language} points={currentPoints} maxPoints={quiz[id - 1].questions.reduce((acc, curr) => acc + curr.answers.filter((obj) => obj.isCorrect === true).length, 0)} />
                 <Actions
+                    language={language}
                     disableNext={currentIndex !== quiz[id - 1].questions.length - 1}
                     next={handleNextQuestion}
                     setShowResults={setShowResults}
                     setContent={setShowContent} />
 
-            </div> : <Results quiz={quiz[id - 1]} answers={userAnswers} points={currentPoints} /> : <div></div>}
+            </div> : <Results language={language} quiz={quiz[id - 1]} answers={userAnswers} points={currentPoints} /> : <div></div>}
         </div>
     )
 };
