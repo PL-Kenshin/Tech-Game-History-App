@@ -17,7 +17,7 @@ const Results = (props) => {
         {!passed && <h3 className='text-center'>You have failed the quiz with {props.points}/{maxPoints} points</h3>}
         {passed && <div className='text-center'>You can download confirmation document with your answers here:</div>}
         {!passed && <div className='text-center'>You can try again</div>}
-        {passed && <PDFDownloadLink document={<MyDoc quiz={props.quiz} answers={props.answers} points={props.points} maxPoints={maxPoints} />} fileName="mydoc.pdf">
+        {passed && <PDFDownloadLink document={<MyDoc quiz={props.quiz} answers={props.answers} points={props.points} maxPoints={maxPoints} />} fileName='Certificate_TechGame.pdf'>
         {({ loading }) => (loading ? 'Loading document...' : 'Download now!')}
         </PDFDownloadLink>}
         <button className='btn btn-primary mt-5' onClick={e => {e.preventDefault(); nav('/')}}>Go back</button>

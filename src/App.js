@@ -7,7 +7,7 @@ import { Outlet } from "react-router-dom";
 import Footer from "./components/footer"
 import ErrorBoundary from "./components/ErrorBoundary"
 import { Helmet } from 'react-helmet';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 function App() {
   let contrast = JSON.parse(localStorage.getItem("isHighContrastOn"))
@@ -85,7 +85,7 @@ function App() {
       <Navbar language={userLanguage} contrast={hightContrast}/>
       <div className="container pt-5 min-vh-100">
       <ErrorBoundary>
-        <Outlet />
+        <Outlet context={[userLanguage]}/>
       </ErrorBoundary>
       </div>
       <Footer/>

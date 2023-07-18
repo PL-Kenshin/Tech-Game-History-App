@@ -3,7 +3,7 @@ import Table from "./table/table";
 
 const Answers = (props) => {
    return (
-    <Table
+    <Table 
            markedAnswer={props.markedAnswer}
            checkAnswer={props.checkAnswer}
            answers={props.currentAnswers}

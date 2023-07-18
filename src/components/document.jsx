@@ -1,5 +1,5 @@
 import React from 'react';
-import { Document, Page, Text, StyleSheet, View, Font } from '@react-pdf/renderer';
+import { Document, Page, Text, StyleSheet, View, Font, Image } from '@react-pdf/renderer';
 import font from '../fonts/Roboto-Regular.ttf'
 
 Font.register({
@@ -15,6 +15,10 @@ const MyDoc = (props) => {
                     <Text style={styles.container}>Congratulations</Text>
                     <Text style={styles.text}>You have finished the quiz with {props.points}/{props.maxPoints} points</Text>
                     <Text style={styles.title}>{props.quiz.topic}</Text>
+                </View>
+                <View style={styles.between}>
+                        <Image src="/logo.png" style={{width:37, height:30}}></Image>
+                        <Image src="/erasmus_plus.png" style={{width:141, height:30}}></Image>
                 </View>
             </Page>
             <Page size="A4" style={styles.page} wrap>
@@ -73,6 +77,7 @@ const styles = StyleSheet.create({
     section: {
         margin: 10,
         padding: 10,
+        flex:10
     },
     table: {
         display: "table",
@@ -109,6 +114,12 @@ const styles = StyleSheet.create({
         textAlign:"center",
         fontSize: 10,
         marginVertical:5
+    },
+    between: {
+        flexDirection:'row',
+        justifyContent:'space-between',
+        flex:1,
+        marginHorizontal:40
     }
 });
 

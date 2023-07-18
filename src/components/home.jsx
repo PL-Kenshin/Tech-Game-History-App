@@ -1,12 +1,39 @@
-import React from "react";
-import {Link } from "react-router-dom";
-const quiz = require('../quiz.json')
+import React, { useEffect, useState } from "react";
+import { Link, useOutletContext } from "react-router-dom";
 
 const Home = (props) => {
+    const [language] = useOutletContext();
+    const [isReady, setIsReady] = useState(false)
+    const [quizList, setQuizList] = useState([])
+
+    useEffect(() => {
+        const loadData = async () => {
+            let data
+            switch(localStorage.getItem("language")) {
+                case "en":
+                    data = require('../data/en/quiz.json')
+                    setQuizList([...data])
+                    setIsReady(true)
+                    break;
+                case "it":
+                    data = require('../data/it/quiz.json')
+                    setQuizList([...data])
+                    setIsReady(true)
+                    break;
+                default:
+                    data = require('../data/en/quiz.json')
+                    setQuizList([...data])
+                    setIsReady(true)
+                    break;
+            }
+        }
+        loadData()
+    },[language])
     
-    let quizList = [...quiz]
+    // let quizList = [...quiz]
     return (
         <div>
+            {isReady && <div>
             <h1 className="text-center">Pick a quiz Topic</h1>
             <ul className="list-group mb-5">
                 {quizList.map((quiz, key) =>
@@ -19,6 +46,7 @@ const Home = (props) => {
                     </li>
                 ))}
             </ul>
+            </div>}
         </div>
     )
 

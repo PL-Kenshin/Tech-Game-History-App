@@ -1,0 +1,4228 @@
+[
+    {
+        "id": 1,
+        "topic": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "A cause of The First World War was:",
+                "answers": [
+                    {
+                        "content": "the desire for expansion of the great powers",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Assassination of the Crown Prince of Serbia",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The launch of the atomic bomb",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Another cause of the WWI was:",
+                "answers": [
+                    {
+                        "content": "the desire for expansion of the small powers",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The assassination of Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, in Sarajevo, was the spark",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The invention of the computer",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "What were the member states of The Entente?",
+                "answers": [
+                    {
+                        "content": "England, France, Russia",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Russia, France, Germany",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "England, Bulgaria, Netherlands",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What were the member states of Central Powers?",
+                "answers": [
+                    {
+                        "content": "England, France, Russia",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bulgaria, the Austro-Hungarian Empire, Germany, the Ottoman Empire",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Germany, Bulgaria, France",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The two main fronts of the war were:",
+                "answers": [
+                    {
+                        "content": "Western Front and Eastern Front",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The Northern Front and the Southern Front",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Day Front and Night Front",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "In 1916, two big battles took place on the western front, resulting in many casualties in both camps:",
+                "answers": [
+                    {
+                        "content": "Mărăști, Mărășești, and Oituz",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The battles of Verdun and the Somme",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Vienna and Berlin",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Answer true or false: In 1916, the United States entered the war.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Russia came out of the I World War in 1918 through",
+                "answers": [
+                    {
+                        "content": "The peace treaty of Brest-Litovsk",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The armistice of Compiègne",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Yalta peace",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "The First World War ends in:",
+                "answers": [
+                    {
+                        "content": "1818",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1918",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1718",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "topic": "World War II",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "One cause of World War II was:",
+                "answers": [
+                    {
+                        "content": "The struggle for territories and spheres of influence of totalitarian states",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Battle of Stalingrad",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Dropping the atomic bombs on Hiroshima and Nagasaki",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Another cause of World War II was:",
+                "answers": [
+                    {
+                        "content": "Japanese attack on Pearl Harbor, USA",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Normandy landings",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hitler's revisionist actions",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "What are the members of Axis Powers?",
+                "answers": [
+                    {
+                        "content": "Germany, Italy, Japan",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "United Kingdom, The Soviet Union, USA, France",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Italy, France, USA",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "USA, United Kingdom, Italy",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What are the members of United Nations Coalition?",
+                "answers": [
+                    {
+                        "content": "Germany, Italy, Japan",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "United Kingdom, The Soviet Union, USA, France",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Italy, France, USA",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "USA, United Kingdom, Italy",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The war began with the attack by Germany on Poland in the year:",
+                "answers": [
+                    {
+                        "content": "1839",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1939",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1739",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Through Operation Barbarossa, Germany attacks:",
+                "answers": [
+                    {
+                        "content": "USA",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "USSR",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Great Britain",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "The event that causes the USA to enter the war was:",
+                "answers": [
+                    {
+                        "content": "The outbreak of the second world war",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Attacking the American base at Pearl Harbor",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Battle of Stalingrad",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "The major naval battle that changed the course of World War II in the Pacific Theater was:",
+                "answers": [
+                    {
+                        "content": "Pearl Harbor",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Midway",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Washington",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Answer true or false: The Battle of Stalingrad took place on the territory of URSS",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "The Normandy landings took place in:",
+                "answers": [
+                    {
+                        "content": "1944",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1744",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1844",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Answer true or false: The capture of Berlin by the United Nations will lead to the capitulation of Italy.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "The two atomic bombs that ended World War II were dropped on the Japanese cities of Hiroshima and Nagasaki.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "topic": "Cold War",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "The Cold War was a geopolitical rivalry between two countries: the USA and the Soviet Union.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Cold War begun around 1950, with the introduction of the Truman Doctrine and the Marshall Plan.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In 1949 the United States and its European allies formed the North Atlantic Treaty Organization (NATO) to protect each in case of attack.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The United States did not want communism to spread to other countries in Europe. The United States therefore gave money to those countries to rebuild after the war. This was called the Marshall Plan after George Marshall, the American who proposed the plan.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The Cold War ended in 1980, after the collapse and dissolution of the Soviet Union.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "topic": "The Industrial Revolution (part 1)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "What new type of sources for historical knowledge became available in the 19th Century?",
+                "answers": [
+                    {
+                        "content": "Colour television",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Civil registry",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Mass press",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Civil registry, mass press and audiovisual media",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "In the 18th Century, the ruling order everywhere in Western Europe still rests on the sovereign leadership of the monarch.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "This situation continued in the 19th Century.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Did people in France in the 19th Century accept the political situation in the 18th Century?",
+                "answers": [
+                    {
+                        "content": "accepted the political situation",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "accepted, but requested a few chances to improve daily life",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Did not accept and started a revolt",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Did not accept and did nothing about it",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "After the rights and offices became accessible to the citizenry, this has led to greater and lasting freedom for all.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "What happened after the last Napoleonic war?",
+                "answers": [
+                    {
+                        "content": "All European nations were free again and could once again make use of their acquired rights.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "All European nations were free and able again, but the old political situation came into force again.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "All European nations were free and able again, but the old political situation came into force again, but for a relative short period.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "In the 19th century, the countries began to colonise overseas territories.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Slavery was abolished in the 19th century because slaves were no longer needed.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "What triggered industrialisation in the 19th century?",
+                "answers": [
+                    {
+                        "content": "Abolition of slavery",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The use of looms",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The invention of the steam engine",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Construction of railway lines",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Characteristic of industrialisation is",
+                "answers": [
+                    {
+                        "content": "All production located at home",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "All production small scale",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Mass production that is centralised in cities",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Mass production that is centralised in factories",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Specialised industrial areas are created in certain industries, with large sales areas, resulting in a strong increase in goods traffic.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "How did industrialisation also slip into agriculture?",
+                "answers": [
+                    {
+                        "content": "New animals were introduced into the herds",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "New crops were grown to feed more people",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Farmers were replaced by robots for higher production food for the growing population",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The invention of new crops for higher production of staple food",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 13,
+                "question": "Industrialisation has had and has also positive consequences for the environment.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 14,
+                "question": "Industrialisation has and has had great influence on the landscape of urban and rural areas.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 15,
+                "question": "The industrial revolution immediately brought prosperity to everyone.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 16,
+                "question": "How did the industrial revolution help to give women equal rights?",
+                "answers": [
+                    {
+                        "content": "It created an awareness of a higher moral standard",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "There were not enough workers to do all the work",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Women are better for work in industry",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Women were no longer needed to care for the children",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "topic": "The Industrial Revolution (part 2)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "What was the Industrial Revolution?",
+                "answers": [
+                    {
+                        "content": "The birth of cars",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Spread of mass production",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The start of America",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The start of Walmart",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Where did the Industrial Revolution start?",
+                "answers": [
+                    {
+                        "content": "America",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Africa",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "France",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Great Britain",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Why is the Industrial Revolution important to history?",
+                "answers": [
+                    {
+                        "content": "It's not.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Because the inventions of the revolution led up to the inventions of today.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Because it made America better than France.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Because a lot of important things happened then.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What kind of work environment did factories supply?",
+                "answers": [
+                    {
+                        "content": "Air conditioned, clean, and fun",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hot, clean, and lots of breaks",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Damp, dusty, and good pay",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hot, dirty, bad air quality",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "What Vehicular device was a steam engine commonly found on?",
+                "answers": [
+                    {
+                        "content": "Car",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Train",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bus",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Airplane",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Which of the following helped start the Industrial Revolution?",
+                "answers": [
+                    {
+                        "content": "The Enclosure Movement",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Economic stimulus package Obama passed",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The constitution of the United States of America",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1883 Factory Act",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Renewable Energy Sources (RES):\n\nSun, wind, water, biofuels, biomass, nuclear energy - are these Renewable Energy Sources?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "topic": "The French Revolution",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Who enjoyed privileges in France in the eighteenth century?",
+                "answers": [
+                    {
+                        "content": "The bourgeois",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The nobles and the clergy",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The people",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Pope",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "What assembly was convened in France to solve the economic crisis?",
+                "answers": [
+                    {
+                        "content": "The Assembly of Regional States",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Assembly of the regional provinces",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Assembly of the General Provinces",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Assembly of the States General",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In which year was the Bastille attacked and taken?",
+                "answers": [
+                    {
+                        "content": "In 1787",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In 1789",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In 1798",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In 1889",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What was the French monarchy transformed into?",
+                "answers": [
+                    {
+                        "content": "Into a presidential monarchy",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Into a constitutional monarchy",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Into a Republic",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Into a federation",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "What happened to the French king during the revolution?",
+                "answers": [
+                    {
+                        "content": "He escaped",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "He allied with the Pope",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "He organized street protests with the soldiers help",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "He was sentenced to death",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "What was Robespierre's period called?",
+                "answers": [
+                    {
+                        "content": "Peace",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Truce",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Enlightenment",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Terror",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Match word to its definition.\nIt is the assembly formed by the representatives of the bourgeoisie who want to give France a constitution.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Match word to its definition.\nIt is the period in which the revolutionaries killed Louis XVI.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Match word to its definition.\nIt is the Assembly of representatives of the nobility, clergy and bourgeoisie.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Match word to its definition.\nIt is the government of only five members to which the bourgeoisie entrusts power in 1795.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Match word to its definition.\nIt is the political system established by the Constitution of 1791, the king governs with the consent of the Assembly.",
+                "answers": [
+                    {
+                        "content": "States General",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "National Constituent Assembly",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Consitutional monarchy",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Period of Terror",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Directory",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "topic": "The Life of Jesus and the Birth of Christianity",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Who is the founder of Christianity?",
+                "answers": [
+                    {
+                        "content": "Jesus Christ",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Judea",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Allah",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Who is Jesus Christ?",
+                "answers": [
+                    {
+                        "content": "Jesus Christ is the Son of Allah.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Jesus Christ is the Son of God.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Jesus Christ is the Son of Judea.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Christians believe that Jesus is the Son of God. They follow his teachings and those of the Christian church. (True/False)",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The Christian place of worship is called a Mosque. (True/False)",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The two main Christian festivals are Easter and Christmas. (True/False)",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "topic": "The Life of Muhammad and the Birth of Islam",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "The prophet Muhammad was born in A.D. 570 at Mecca.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "The Arabic word 'Islam' means submission and obedience, and derives from a word meaning 'peace'.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Islam is based on the ministry of a man named Jesus, and on the words that Judea gave to the world through Muhammad.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Allah is the name Muslims use for the supreme and unique God, who created and rules everything.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "topic": "The First Crusade: 1095-1099 (France, Turkey, Syria, Palestine, Israel)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Jerusalem was considered sacred by the Muslims because:",
+                "answers": [
+                    {
+                        "content": "Prophet Muhammad was born there.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Prophet Muhammad was buried there.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Prophet Muhammad was raised to Heaven there.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "The First Crusade started in 1096",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "One of the causes of the First Crusade was the very poor harvest from 1095",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The call to Holy War was launched by:",
+                "answers": [
+                    {
+                        "content": "Alexios Comnen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Peter the Hermit",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Pope Urban II",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The aim of the First Crusade was to free the holy city of:",
+                "answers": [
+                    {
+                        "content": "Jerusalem",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Rome",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Santiago",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "The call to Holy War was launched at Clermont",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "The first to start the crusade were the peasants. (True or False)",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Pope Urban II leads the siege of Jerusalem. (True or False)",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "At the end of the First Crusade, Jerusalem returned under Christian rule. (True or False)",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "The crusader states formed after the First Crusade were:",
+                "answers": [
+                    {
+                        "content": "Jerusalem, Edessa, Tripoli, Antioch",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Byzantium, Jerusalem, Palestina, Egypt, Nicea, Constantinople, Selgiuk, Fatimid.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "The word 'crusader' means:",
+                "answers": [
+                    {
+                        "content": "Participant in the crusades wearing a sign of the cross on the chest",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Historian who studies the causes, events, and consequences of the crusades",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "One of the pieces of a knight's armor, shaped like a cross",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "topic": "The Rise and Fall of the Aztec Civilization",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "The Aztecs lived in present-day Mexico.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "The Aztecs had a lunar calendar.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Cortez was of Aztec origin.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The Aztec Empire collapsed in 1521.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The Spanish took over the Aztec Empire.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "topic": "The Black Death (Bubonic Plague) Devastates Europe",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "What was the Black Death?",
+                "answers": [
+                    {
+                        "content": "A plague that came to Europe",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "A plague that came to Asia",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "A plague that came to Australia",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Where did it come from?",
+                "answers": [
+                    {
+                        "content": "Europe and Africa",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Eastern and Central Asia",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "North and South America",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "What years were the plague worst in Europe?",
+                "answers": [
+                    {
+                        "content": "1175-1184",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1251-1256",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1347-1353",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1410-1416",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The Black Death was sometimes called what?",
+                "answers": [
+                    {
+                        "content": "Spanish",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bubonic Plague",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Russian Flu",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "COVID-19",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The Black Death killed about what percentage of the population in Europe?",
+                "answers": [
+                    {
+                        "content": "One second",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "One Third",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Quarter",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "One fifth",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "What were the main problem during the \"Black Death\"?",
+                "answers": [
+                    {
+                        "content": "Peasants - There was a shortage of people to work in the fields",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Nobles - had to work their fields (they weren't used to it or good enough)",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Approximately what percentage of Europeans died from the plague?",
+                "answers": [
+                    {
+                        "content": "30%",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "40%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "50%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "60%",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "During the Black Death, there were plague doctors who cared for the sick.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "topic": "The Renaissance",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Copernicus confirms the ancient belief that the Sun revolves around the Earth",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Michelangelo paints the Mona Lisa",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Leonardo da Vinci decorates the Sistine Chapel",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The culture of the Renaissance places man and his existence at the centre",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Artists, philosophers, poets are hosted in the courts",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Castles become places of cultural production",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "When was the cultural movement of Humanism?",
+                "answers": [
+                    {
+                        "content": "Renaissance",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Enlightenment",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Middle Ages",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Techno-practical knowledge rejected Middle Ages traditions",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "An Important aspect in the diffusion of the Renaissance was called - Signorie",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "What did the artists and scientists receive from lords for their work?",
+                "answers": [
+                    {
+                        "content": "Protection",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Care",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Guardianship",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Patronage",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "What made the culture spread more?",
+                "answers": [
+                    {
+                        "content": "Invention of pen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Movable-type printing",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Greater access to books",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Who invented movable-type printing?",
+                "answers": [
+                    {
+                        "content": "Muller",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bohte",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Gutenberg",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Peutinger",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "topic": "Late Renaissance",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Which helped us most to get to know the New Age?",
+                "answers": [
+                    {
+                        "content": "Excavations and remains",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The invention of printing books",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "All kinds of buildings and objects",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Archaeological finds",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "The voyages of discovery lead to:",
+                "answers": [
+                    {
+                        "content": "All the way better shipping",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Better crafts and science",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Spread of cultures",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Contacts between continents that influenced nature in different parts of the world",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "The main center of trade and industry in the New Age was in the Netherlands",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What happened to the indigenous people on the voyages of discovery?",
+                "answers": [
+                    {
+                        "content": "They were converted to Christianity",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "They felt prey to slavery",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "They became very rich",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "What nations opened new areas in the New Age?",
+                "answers": [
+                    {
+                        "content": "England and Spain",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Portugal and the Netherlands",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Germany and Belgium",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "topic": "The Boston Tea Party: American Colonists Protest New British Taxes by Throwing Tea in Boston Harbor: 12/16/1773",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "The American colonists didn't want to pay the tea taxes because:",
+                "answers": [
+                    {
+                        "content": "They opposed taxation without representation",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "They thought they could grow their own tea",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The price of the tea would become too high",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "The East India Company needed help to sell a large quantity of tea.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "After the end of the 7 year war, Great Britain needed new sources of money.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The price of the tea was raised by the new law.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The organization that was involved with the preparations for the Boston destruction of the tea was:",
+                "answers": [
+                    {
+                        "content": "Brothers at Arms",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sons of Liberty",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boston Celtics",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "The number of ships that brought a tea cargo in the Boston Harbor at the end of 1773 was:",
+                "answers": [
+                    {
+                        "content": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "5",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "The ships could have left the Boston Harbor and took their tea cargo to another American port or back to England.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "The damages caused during the Boston Tea Party were:",
+                "answers": [
+                    {
+                        "content": "Many people were injured or killed",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "About 46 tons of tea were destroyed",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The almost 100 guns that guarded the port entrance were thrown into the sea",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "After the events in Boston, the British Parliament reconsidered their position and decided to receive a delegation from the colonies.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "The Boston Tea Party is considered one of the events that lead to the American War of Independence.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "The British Parliament adopted the Coercive Acts, named also:",
+                "answers": [
+                    {
+                        "content": "Intolerable Acts",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Restrictive Acts",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Oppressive Acts",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "topic": "The American Revolution: 1775-1783",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "One of the causes of the American Revolution was:",
+                "answers": [
+                    {
+                        "content": "Taxation without representation",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Condemnation without investigation",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Deportation without condemnation",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "During the Boston Tea Party, the tea cargo of three ships was:",
+                "answers": [
+                    {
+                        "content": "Thrown into the sea",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Confiscated by the patriots",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sold at very high prices",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Choose the variant with the correct order of the events:",
+                "answers": [
+                    {
+                        "content": "The First Continental Congress, The Boston Tea Party, The Lexington skirmish",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Boston Tea Party, The First Continental Congress, The Lexington skirmish",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The Lexington skirmish, The First Continental Congress, The Boston Tea Party",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The First Continental Congress proclaimed the Independence of the 13 colonies.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The Independence of the colonies was proclaimed in the year:",
+                "answers": [
+                    {
+                        "content": "1776",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1781",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1783",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "The main ally of the Colonies was Canada.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "The leader of the American army was:",
+                "answers": [
+                    {
+                        "content": "Benjamin Franklin",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Thomas Jefferson",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "George Washington",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "France declared war on Great Britain after the American victory at:",
+                "answers": [
+                    {
+                        "content": "Delaware",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yorktown",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Saratoga",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "The decisive victory for the American army was at:",
+                "answers": [
+                    {
+                        "content": "Yorktown",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boston",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Lexington",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "The peace treaty that ended the American Revolutionary War was signed in:",
+                "answers": [
+                    {
+                        "content": "Versailles",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Philadelphia",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "London",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "The victory of the colonies had positive consequences for the native tribes of North America.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "A colony is:",
+                "answers": [
+                    {
+                        "content": "A group of ships that transported tea from the port of Cologne, traveling together",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "A country or territory that is under the full or partial political control of another country and occupied by settlers from that country",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "A formal meeting or series of meetings for discussion between delegates, especially those from a political party or upholding the same political ideas",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "topic": "The Suffrage Movement: Women Fight For the Right to Vote: 1893-1928",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Suffrage from the Latin word suffragium refers to…",
+                "answers": [
+                    {
+                        "content": "Those who suffered to obtain the right to vote",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "A vote given in deciding a controversial question",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The sacrifices which must be made for representative government",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "What is the difference between the word suffragist and suffragette?",
+                "answers": [
+                    {
+                        "content": "Suffragist refers to males and suffragette refers to females.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Suffragist was used to refer to women seeking the right to vote, whereas these women referred to themselves as suffragettes.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Suffragette is a derogatory term while suffragist is not.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "The Women's Rights Convention was held in Seneca Falls in 1848. The document drafted at this convention was called…",
+                "answers": [
+                    {
+                        "content": "“The Inalienable Rights for Women”",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "“The Declaration of the Rights of Women”",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "“The Declaration of Sentiments”",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Was the 19th Amendment of the US Constitution ratified on August 18, 1920?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Is this a symbol of the feminist movement?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "topic": "The Russian Revolution: 1917-1922",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Before the revolution, Russia was ruled by a powerful monarch called the Tsar. The Tsar had total power in Russia.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Russian revolution was led by Vladimir Lenin and a group of revolutionaries called the Bolsheviks.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "A major event leading to the Russian Revolution took place on January 22, 1925. This day is called Bloody Sunday.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "From 1918 to 1920, Russia experienced a civil war between the Bolsheviks (also called the Red Army) and the anti-Bolsheviks (the White Army). The Bolsheviks won and the new country was called the USSR (Union of Soviet Socialist Republics).",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The people of Russia first revolted in early 1927.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "topic": "The United Nations Is Formed: 1945-1946 (Europe, N. & S. America, Asia, Africa, Australia)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "UN was established in 1845",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "UN originally aimed at peacekeeping",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "There are 93 countries in the UN",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Nowadays UN aims at poverty reduction",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Nowadays UN aims at human rights",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "topic": "The Digital Revolution: The Invention of the Digital Electric Computer",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Did the invention of microelectronics (transistors, integrated circuits) usher in the digital revolution?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Wi-Fi is used for wireless communication of mobile devices?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "We can observe a very rapid development of electronic banking. Is Bitcoin a virtual currency?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Is a 3D printer used to print on paper?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Virtual reality and artificial intelligence - do they mean the same thing?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "topic": "Soviet Union Launches Sputnik, First Man-Made Satellite: 10/4/1957 (Russia)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "The Soviet Union kicked off the Space Race by launching what satellite into space?",
+                "answers": [
+                    {
+                        "content": "Kosmos",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Spektr",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sputnik",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "YoutSat",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Voyager",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Is this Sputnik - the first artificial earth satellite?",
+                "answers": [
+                    {
+                        "content": "Yes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "No",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Look at the drawing and indicate the name of the object:",
+                "answers": [
+                    {
+                        "content": "Luna 10",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sojuz 4",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sputnik 1",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Wostok 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Gemini 8",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "When was the first earth satellite launched?",
+                "answers": [
+                    {
+                        "content": "December 14, 1903",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "May 8, 1945",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "October 4, 1957",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "July 20, 1969",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "topic": "Yuri Gagarin Becomes the First Man in Space: 1961 (Russia)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Yuri Alexeyevich Gagarin was a Russian cosmonaut (astronaut). He became the first human in space on April 1. (true)",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "On 12 April 1981, Gagarin became the first man to travel into space, launching to orbit aboard the Vostok 3KA-3 (Vostok 1).",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Western people claimed that Gagarin, during his space flight, had made the comment, \"I don't see any God up here.\"",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "In 1982, he began serving as a deputy to the Supreme Soviet of the Soviet Union.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The reason for the crash is unknown, but the turbulence from a Su-11 'Fish-pot-C' interceptor using its afterburners could have caused it.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "topic": "U.S. President John F. Kennedy Is assassinated in Dallas, Texas: 11/22/1963 (US)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Is this John Fitzgerald Kennedy, the 35th president of the USA?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "One of the most famous photos from the day of the assassination. Was JFK killed in New York?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "A Soviet transport ship sailed to one of the islands in North America. Was it Haiti?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "topic": "The Birth of the Internet: 1965-1995 (US)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "The English word \"windows\" also means the name of the operating system for computers?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "These programs give you access to content posted on the Internet. Are they web browsers?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Social media use programs that facilitate contact between their users (short information, photos, text messages). Are the ones presented above communicators?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "We also use the Internet as a source of entertainment - we watch movies or listen to music. Do the companies presented below allow you to listen to music?",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Seeds of the internet were planted in",
+                "answers": [
+                    {
+                        "content": "1969",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1970",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1960",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1980",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "The original ARPANET was shut down in",
+                "answers": [
+                    {
+                        "content": "1990",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1995",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1980",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1970",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "The Internet gives us access to many resources we couldn't otherwise come in contact with.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Information on the Internet can always be trusted to be factual. It wouldn't be online if it wasn't true.",
+                "answers": [
+                    {
+                        "content": "True",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "False",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "What percentage of households in the European Union had access to the Internet?",
+                "answers": [
+                    {
+                        "content": "above 50%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "above 80%",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "topic": "The Time of Hunters and Peasants (3000 B.C.)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "How did we learn about what happened in the time of the first humans?",
+                "answers": [
+                    {
+                        "content": "Songs and poems",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Stories told",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Findings in the ground",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Excavated graves",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Could the first humans write?",
+                "answers": [
+                    {
+                        "content": "Sometimes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "No",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "How did the first humans get their food?",
+                "answers": [
+                    {
+                        "content": "In a shop",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "On the market",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "By hunting",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "From farming",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Where did the first humans live?",
+                "answers": [
+                    {
+                        "content": "In castles",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In wooden houses",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "On the fields",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In the woods",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In caves",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "What were their utensils made of?",
+                "answers": [
+                    {
+                        "content": "Iron",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Clay",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bronze",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Other metal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "What did the first humans use to catch animals?",
+                "answers": [
+                    {
+                        "content": "A hand axe",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "A spearhead",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "A scraper",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "People in prehistoric times sometimes made petroglyphs. Did they make it with a pencil?",
+                "answers": [
+                    {
+                        "content": "Yes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "No",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "What did the first humans draw most on the rocks?",
+                "answers": [
+                    {
+                        "content": "Portraits",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Fishes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Wild animals",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boats",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "How did the first farmers get most of their food?",
+                "answers": [
+                    {
+                        "content": "From fishing",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From hunting",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From their cattle",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "From their land",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Why did having a permanent place become important?",
+                "answers": [
+                    {
+                        "content": "To be with their family",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "To be able to house cattle",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "To cultivate the land",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "To control the area",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Why was fire so important to the early farmers?",
+                "answers": [
+                    {
+                        "content": "To defend themselves against wild animals",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "To burn forests for farmland",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "To keep warm in the winter",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "To cook",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Where did the first farmers live?",
+                "answers": [
+                    {
+                        "content": "In caves",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In castles",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In houses of wood and mud",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In flats",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 13,
+                "question": "What did the farmers do with the wild animals?",
+                "answers": [
+                    {
+                        "content": "They killed them",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "They hunted them",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "They sold them to the zoo",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "They domesticated them",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 14,
+                "question": "From what materials did the first farmers make their tools and utensils?",
+                "answers": [
+                    {
+                        "content": "From gold",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From iron",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From bronze",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From stone",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "From clay",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "From wood",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 15,
+                "question": "From what materials did the farmers later make their tools?",
+                "answers": [
+                    {
+                        "content": "From gold",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From iron",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "From bronze",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "From stone",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From clay",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From wood",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 16,
+                "question": "The hunters lived in groups, in tribes. How did the peasants begin to live together?",
+                "answers": [
+                    {
+                        "content": "In castles",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In cities",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In villages",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In caves",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "topic": "The Time of Greek and Romans (3000 B.C. - 500 A.D.)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Greece and Athens flourished by trading overseas. Writing thinking and the arts also developed. How do we know all this?",
+                "answers": [
+                    {
+                        "content": "From preserved writings and remains",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "By stories told",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "From excavated graves",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "How did the growing cities differ from the first peasant settlements, especially in appearance?",
+                "answers": [
+                    {
+                        "content": "The cities had buildings made out of stone and not only for housing, but also adapted to crafts and trade, as temples or army barracks",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The cities had skyscrapers",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The cities had castles in the air",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Why did the Greeks and the Romans begin to expand their territories by conquest?",
+                "answers": [
+                    {
+                        "content": "When they had boats",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "When they needed more space",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "When they wanted more land and more power",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What is the main difference between Christianity and the ancient pagan religions?",
+                "answers": [
+                    {
+                        "content": "Christianity has more saints",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Pagan religions usually had a lot of gods",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Christianity had smarter priests",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "How was civilization and culture spread by the Romans in their conquered territories?",
+                "answers": [
+                    {
+                        "content": "By books",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "By war and conquests",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "By Roman settlements",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Why didn't Roman influence remain permanent in all their conquered territories?",
+                "answers": [
+                    {
+                        "content": "Due to climate change",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Due to corruption and bad governance",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Due to hostile raids",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "topic": "The Time of Monks and Knights (500 - 1000/2000)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "What happened in Western Europe when the Roman era was over?",
+                "answers": [
+                    {
+                        "content": "The Germanic tribes took over power",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Romans left, leaving chaos behind",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Germanic tribes began to fight against each other",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "How did Christianity affect daily life during the Migration Period?",
+                "answers": [
+                    {
+                        "content": "People started to pray for each meal",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Christianity forced people to pray three times a day",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Christianity was the only stable factor",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "People had to go to mass on Sundays",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "The Middle Ages lasted from about 500 to 1500 AD. How many years is that?",
+                "answers": [
+                    {
+                        "content": "950",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1100",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1000",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Most people in the Middle Ages practiced agriculture. Some of those people acquired estates in this way, leasing land to others who were poor. In this way, more and more tenants came. Were these people free? What did they have to do for their liege?",
+                "answers": [
+                    {
+                        "content": "They were free, but had to serve also as soldiers in the lord's army",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "They were free but had to pay in kind for the use of the land",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "They were not completely free and had to work and serve for the lords",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The serf needed the lord and the lord needed the serf. Explain that.",
+                "answers": [
+                    {
+                        "content": "This kind of game needs two players",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "For having land, one needs workers to produce crops and to keep cattle, for food and housing one needs land.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Only serfs can bake bread and the landlord has an army for protection",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In the circumstances of those days, they need each other to survive",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "The houses of the landlords got bigger and bigger. What material were the larger houses mainly built of? Why?",
+                "answers": [
+                    {
+                        "content": "They were built of stone for better defense",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "They were made of wood because that is easier",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "They were made of metal because it is stronger",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "What three rules did a knight have to follow?",
+                "answers": [
+                    {
+                        "content": "He had to own a castle.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "He had to keep his promises.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "He had to protect the people.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "He must have been a farmer.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "He had to be loyal to his lord.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Some landlords got ever larger estates and eventually also armies with knights and soldiers. They became the masters of ever larger territories and were called nobles. How is the biggest boss of them all called?",
+                "answers": [
+                    {
+                        "content": "Emperor",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "King",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Duke",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Count",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Charlemagne was:",
+                "answers": [
+                    {
+                        "content": "a notorious knight",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "a famous king",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "a gentleman farmer",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "a great poet and writer",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "a famous troubadour",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "What threat from the sea was known in the Middle Ages?",
+                "answers": [
+                    {
+                        "content": "The Romans came back",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Attacks from big sea animals",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Looting of Normans",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Looting of Monks",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "topic": "The birth of Christianity: the Monasteries",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "In the High Middle Ages the Church had remained the only institution with a",
+                "answers": [
+                    {
+                        "content": "stable and ruthless organization",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "authoritarian and strict organization",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "which could guarantee safety and protection to the inhabitants of the territory, and for this reason it became very",
+                "answers": [
+                    {
+                        "content": "powerful",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "feared",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In the cities, it was present above all in the",
+                "answers": [
+                    {
+                        "content": "papal sees",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "episcopal sees",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "in the countryside in the monasteries, where the monks lived in",
+                "answers": [
+                    {
+                        "content": "community",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "isolation",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Monasteries had a very important function: they managed to protect and",
+                "answers": [
+                    {
+                        "content": "feed",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "enrich",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "the population, saved many lands from abandonment, preserved and spread",
+                "answers": [
+                    {
+                        "content": "culture",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "traditions",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "The first monasteries were founded by the order of the",
+                "answers": [
+                    {
+                        "content": "Franciscans",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Benedictines",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "The founder,",
+                "answers": [
+                    {
+                        "content": "Benedict of Nursia",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Francis of Assisi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "wrote a Rule, in which the monks were asked to undertake to obey",
+                "answers": [
+                    {
+                        "content": "the lord of the curtis",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "the abbot",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "to practice poverty and chastity, to follow the motto ora et labora, that is, to devote themselves",
+                "answers": [
+                    {
+                        "content": "to prayer and work",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "more to work than to prayer",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "topic": "Athens: Towards/An Example of Democracy",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Ostracism is:",
+                "answers": [
+                    {
+                        "content": "a sacred image",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "a Greek dish",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "exile from the city",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Who could participate in the political life of the polis?",
+                "answers": [
+                    {
+                        "content": "women",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "only the elderly",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "men",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Solon's reform had as its main effect:",
+                "answers": [
+                    {
+                        "content": "the birth of democracy",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "the birth of monarchy",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "the end of aristocracy",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The first Athenian legislator was:",
+                "answers": [
+                    {
+                        "content": "Clisthenes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Solon",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Pericles",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The city of Athens loved:",
+                "answers": [
+                    {
+                        "content": "war",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "agriculture",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "art, culture, and education",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Athenian women took care of:",
+                "answers": [
+                    {
+                        "content": "their children",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "politics",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "amusements",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "topic": "Education in Athens",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Choose the correct answer: Athenian girls",
+                "answers": [
+                    {
+                        "content": "only looked after their children and house",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "could go out freely",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "could vote",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Athenian boys:",
+                "answers": [
+                    {
+                        "content": "were trained to use weapons",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "were trained in domestic life",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "were trained to become fishermen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In the aristocratic polis the nobles",
+                "answers": [
+                    {
+                        "content": "could afford training",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "could take care of agriculture",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "could educate their children",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "The boys were educated",
+                "answers": [
+                    {
+                        "content": "by their grandmother or an educated slave up to the age of 18",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "by their mother or an educated slave up to the age of 6/7",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "by the oracle of the city",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "The private teacher was called",
+                "answers": [
+                    {
+                        "content": "musician",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "general",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "grammatist",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "topic": "The Civil War in the US",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "When did Abraham Lincoln die (year)? 1865 or 1866?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "When did the Civil War legally end? 1865 or 1866?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "What were the soldiers from the north called? The Unionists or the Confederates?",
+                "answers": [
+                    {
+                        "content": "The Unionists",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The Confederates",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "What were the soldiers from the South called? The Unionists or the Confederates?",
+                "answers": [
+                    {
+                        "content": "The Unionists",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Confederates",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Who was the President of the Union? Abraham Lincoln or Jefferson Davis",
+                "answers": [
+                    {
+                        "content": "Abraham Lincoln",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Jefferson Davis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Who won the Civil War? The Unionists or the Confederates?",
+                "answers": [
+                    {
+                        "content": "The Unionists",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "The Confederates",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -18,13 +18,13 @@ const Navbar = (props) => {
   const handleFontChange = (size) => {
     let font = localStorage.getItem("fontSize")
     if(font){
-      if(size == font) {
+      if(size === font) {
         return
       } else{
         localStorage.setItem("fontSize",size)
       }
     } else{
-      if(size == 1){
+      if(size === 1){
         return
       } else {
         localStorage.setItem("fontSize",size)
@@ -52,14 +52,14 @@ const Navbar = (props) => {
   }
 
    return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-2 py-lg-0">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-2 py-lg-0" aria-hidden="true">
     <div className="container-fluid">
       <Link to="/" className="navbar-brand" ><img src="/logo.png" className="me-1" width="63" height="50" alt="Tech-Game History App"></img>History App</Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
         <span className="navbar-toggler-icon"></span>
       </button>
       <section className="collapse navbar-collapse pt-4 pt-lg-0 flex-grow-1 justify-content-end" id="navbarSupportedContent">
-          <button className="btn btn-sm btn-outline-light btn-floating" role="button" onClick={e => handleContrastChange(e)}>
+          <button className="btn btn-sm btn-outline-light btn-floating" onClick={e => handleContrastChange(e)}>
             <i className="fa fa-eye"></i>
           </button>
           <div className="btn-group btn-group-sm ms-2" role="group">
@@ -69,11 +69,15 @@ const Navbar = (props) => {
           </div>
           <ul className="navbar-nav">
             <li className="nav-item dropdown">
-              <a className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Language</a>
+              <a className="nav-link dropdown-toggle" href="/#" data-bs-toggle="dropdown" aria-expanded="false">Language</a>
               <ul className="dropdown-menu dropdown-menu-dark bg-dark">
-                <li><button type="button" className={"dropdown-item " + (props.language==="en"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("en")}><img className="me-1" src="/flag_us.png"></img>English</button></li>
-                <li><button type="button" className={"dropdown-item " + (props.language==="pl"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("pl")}><img className="me-1" src="/flag_pl.png"></img>Polski</button></li>
-                <li><button type="button" className={"dropdown-item " + (props.language==="tr"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("tr")}><img className="me-1" src="/flag_tr.png"></img>Türkçe</button></li>
+                <li><button type="button" className={"dropdown-item " + (props.language==="en"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("en")}><img className="me-1" src="/flag_us.png" alt="flag_us"></img>English</button></li>
+                <li><button type="button" className={"dropdown-item " + (props.language==="it"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("it")}><img className="me-1" src="/flag_it.png" alt="flag_it"></img>Italiano</button></li>
+                <li><button type="button" className={"dropdown-item " + (props.language==="mk"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("mk")}><img className="me-1" src="/flag_mk.png" alt="flag_mk"></img>Македонски</button></li>
+                <li><button type="button" className={"dropdown-item " + (props.language==="nl"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("nl")}><img className="me-1" src="/flag_nl.png" alt="flag_nl"></img>Nederlands</button></li>
+                <li><button type="button" className={"dropdown-item " + (props.language==="pl"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("pl")}><img className="me-1" src="/flag_pl.png" alt="flag_pl"></img>Polski</button></li>
+                <li><button type="button" className={"dropdown-item " + (props.language==="ro"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("ro")}><img className="me-1" src="/flag_ro.png" alt="flag_ro"></img>Română</button></li>
+                <li><button type="button" className={"dropdown-item " + (props.language==="tr"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("tr")}><img className="me-1" src="/flag_tr.png" alt="flag_tr"></img>Türkçe</button></li>
               </ul>
             </li>
           </ul>

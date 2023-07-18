@@ -1,13 +1,24 @@
 import React, { useEffect, useState } from 'react';
-import { useParams, useNavigate } from "react-router-dom";
-import quiz from '../quiz.json';
+import { useParams, useNavigate, useOutletContext } from "react-router-dom";
 import Question from "./Question";
 import Answers from "./Answers";
 import Points from "./Points"
 import Actions from './Actions';
 import Results from './Results';
 import Content from './Content';
+let quiz;
 
+switch(localStorage.getItem("language")) {
+    case "en":
+        quiz = require('../data/en/quiz.json')
+        break;
+    case "it":
+        quiz = require('../data/en/quiz.json')
+        break;
+    default:
+         quiz = require('../data/en/quiz.json')
+         break;
+}
 
 const styles = {
     display: 'flex',
@@ -26,7 +37,8 @@ const ComponentQuiz = (props) => {
     const [userAnswers, setUserAnswers] = useState([])
     const [showResults, setShowResults] = useState(false)
     const [showContent, setShowContent] = useState(true)
-
+    const [started,setStarted] = useState(false)
+    const [language] = useOutletContext();
     let { id } = useParams();
     let nav = useNavigate()
 
@@ -39,7 +51,7 @@ const ComponentQuiz = (props) => {
             setIsReady(true)
         }
 
-    },[id, nav, currentIndex])
+    }, [id, nav, currentIndex])
 
 
 
@@ -75,42 +87,42 @@ const ComponentQuiz = (props) => {
         if (currentPoints < 20) {
             if (allowToChoose === false) {
                 return
-            } else{
+            } else {
                 console.log('yes')
                 setUserAnswers([...userAnswers, [currentQuestion.question, currentQuestion.answers[key]]])
-    
+
                 if (chosenOption) {
                     const points = currentPoints + 1;
                     setAnswerCount(answerCount + 1)
                     console.log("corr", correctNumber, "ans", answerCount)
-                    if (correctNumber === answerCount+1) {
+                    if (correctNumber === answerCount + 1) {
                         console.log("corr", correctNumber, "answerCount", answerCount)
                         changePermission(false);
                     } //else {
-                        setPoints(points);
-                        markAnswer([...markedAnswer, { key: key, variant: 'bg-success' }])
+                    setPoints(points);
+                    markAnswer([...markedAnswer, { key: key, variant: 'bg-success' }])
                     //}
-    
+
                 } else {
-    
+
                     setAnswerCount(answerCount + 1)
-                    if (correctNumber === answerCount+1) {
+                    if (correctNumber === answerCount + 1) {
                         console.log("corr", correctNumber, "answerCount", answerCount)
                         changePermission(false);
                     } //else {
-                        markAnswer([...markedAnswer, { key: key, variant: 'bg-danger' }])
+                    markAnswer([...markedAnswer, { key: key, variant: 'bg-danger' }])
                     //}
-    
+
                 }
-            } 
-            
+            }
+
         }
 
     };
-   
+
     return (
         <div style={styles}>
-            {isReady?showContent?<Content setContent={setShowContent}/>: !showResults?<div className="containter">
+            {isReady ? showContent ? <Content language={language} setContent={setShowContent} setStarted={setStarted} started={started}/> : !showResults ? <div className="containter">
                 <Question
                     className="col-12"
                     currentQuestion={currentQuestion.question}
@@ -122,29 +134,28 @@ const ComponentQuiz = (props) => {
                     checkAnswer={handleCheckAnswer}
                     currentAnswers={currentQuestion.answers}
                     markedAnswer={markedAnswer} />
-                {markedAnswer.length >1 ? currentQuestion.answers[markedAnswer[markedAnswer.length-1].key]?.isCorrect === true? <div>Correct answer! {markedAnswer.find(obj => obj.variant === 'bg-danger') ? markedAnswer.length > correctNumber ? "Correct: " + currentQuestion.answers.map((elem, key) => {
-                    if(elem.isCorrect){
-                        return (key+1)+" "
-                    } else {
-                        return ""
-                    }
+                {markedAnswer.length > 1 ?
+                    currentQuestion.answers[markedAnswer[markedAnswer.length - 1].key]?.isCorrect === true ?
+                        <div>Correct answer! {markedAnswer.find(obj => obj.variant === 'bg-danger') ?
+                            markedAnswer.length > correctNumber ?
+                                "Correct: " + currentQuestion.answers.map((elem, key) => { return elem.isCorrect === true ? (key + 1) + " " : "" }).join('')
+                                : ""
+                            : ""}
+                        </div>
+                        : <div>Wrong answer! {markedAnswer.length > correctNumber ?
+                            "Correct: " + currentQuestion.answers.map((elem, key) => { return elem.isCorrect === true ? (key + 1) + " " : "" }).join('')
+                            : ""}
+                        </div>
+                : <div></div>
                 }
-                ).join(''):"":""}</div>:<div>Wrong answer! {markedAnswer.length > correctNumber ? "Correct: " + currentQuestion.answers.map((elem, key) => {
-                    if(elem.isCorrect){
-                        return (key+1)+" "
-                    } else {
-                        return ""
-                    }
-                }
-                ).join(''):""}</div>:<div></div>}
-                <Points points={currentPoints} maxPoints={quiz[id-1].questions.reduce((acc, curr) => acc + curr.answers.filter((obj)=>obj.isCorrect===true).length, 0)} />
+                <Points points={currentPoints} maxPoints={quiz[id - 1].questions.reduce((acc, curr) => acc + curr.answers.filter((obj) => obj.isCorrect === true).length, 0)} />
                 <Actions
                     disableNext={currentIndex !== quiz[id - 1].questions.length - 1}
                     next={handleNextQuestion}
                     setShowResults={setShowResults}
                     setContent={setShowContent} />
-                
-            </div>:<Results quiz={quiz[id - 1]} answers={userAnswers} points={currentPoints}/>:<div></div>}
+
+            </div> : <Results quiz={quiz[id - 1]} answers={userAnswers} points={currentPoints} /> : <div></div>}
         </div>
     )
 };
