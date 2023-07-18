@@ -22,7 +22,10 @@ const strings = new LocalizedStrings({
         certificate:'Certificate',
         question:"Question: ",
         outOf:'out of',
-        multipleSelection:"(more than one correct answer)"
+        multipleSelection:"(more than one correct answer)",
+        correct:"Correct answer!",
+        wrong:"Wrong answer!",
+        corr:"Correct: ",
     },
     it: {
         start:"inizio",
@@ -45,7 +48,10 @@ const strings = new LocalizedStrings({
         certificate:'Certificato',
         question:'Domanda: ',
         outOf:'su',
-        multipleSelection:"(più di una risposta corretta)"
+        multipleSelection:"(più di una risposta corretta)",
+        correct:"Risposta corretta!",
+        wrong:"Risposta sbagliata!",
+        corr:"Corretto:",
     }
 });
 
