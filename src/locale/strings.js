@@ -26,6 +26,11 @@ const strings = new LocalizedStrings({
         correct:"Correct answer!",
         wrong:"Wrong answer!",
         corr:"Correct: ",
+        loadDoc:"Loading document...",
+        dldNow:"Download now!",
+        yourAnswers: "Your answers",
+        corrShort:"correct",
+        wrongShort:"wrong"
     },
     it: {
         start:"inizio",
@@ -52,6 +57,11 @@ const strings = new LocalizedStrings({
         correct:"Risposta corretta!",
         wrong:"Risposta sbagliata!",
         corr:"Corretto:",
+        loadDoc:"Caricamento documento...",
+        dldNow:"Scarica ora!",
+        yourAnswers:"Le tue risposte",
+        corrShort:"corretto",
+        wrongShort:"sbagliato"
     }
 });
 

@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Document, Page, Text, StyleSheet, View, Font, Image } from '@react-pdf/renderer';
 import font from '../fonts/Roboto-Regular.ttf'
+import strings from '../locale/strings';
 
 Font.register({
     family: "Roboto",
@@ -8,12 +9,19 @@ Font.register({
 });
 
 const MyDoc = (props) => {
+
+    strings.setLanguage(localStorage.getItem("language"))
+    
+    useEffect(() => {
+        strings.setLanguage(props.language)
+    },[props.language])
+
     return (
         <Document>
             <Page size="A5" orientation="landscape" style={styles.page} wrap>
                 <View style={styles.section}>
-                    <Text style={styles.container}>Congratulations</Text>
-                    <Text style={styles.text}>You have finished the quiz with {props.points}/{props.maxPoints} points</Text>
+                    <Text style={styles.container}>{strings.congratulations}</Text>
+                    <Text style={styles.text}>{strings.passed} {props.points}/{props.maxPoints} {strings.points}</Text>
                     <Text style={styles.title}>{props.quiz.topic}</Text>
                 </View>
                 <View style={styles.between}>
@@ -23,7 +31,7 @@ const MyDoc = (props) => {
             </Page>
             <Page size="A4" style={styles.page} wrap>
                 <View style={styles.section}>
-                    <Text>Your answers</Text>
+                    <Text>{strings.yourAnswers}</Text>
                     <View style={styles.table}>
                         {props.answers.map((elem, key) => {
                             return (
@@ -33,7 +41,7 @@ const MyDoc = (props) => {
                                     </View>
                                     <View style={styles.tableRow}>
                                         <View style={styles.tableCol}><Text style={styles.tableCell}>{elem[1].content}</Text></View>
-                                        <View style={styles.tableCol}><Text style={styles.tableCell}>{elem[1].isCorrect ? "correct" : "wrong"}</Text></View>
+                                        <View style={styles.tableCol}><Text style={styles.tableCell}>{elem[1].isCorrect ? strings.corrShort : strings.wrongShort}</Text></View>
                                     </View>
                                 </View>
                             )
