@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         flexDirection: 'column',
         backgroundColor: '#FFF',
         paddingVertical:25,
-
+        fontFamily: "Roboto"
     },
     container: {
         textAlign: "center",
@@ -67,6 +67,7 @@ const styles = StyleSheet.create({
         padding: 10,
         fontWeight: "bold",
         fontSize: 44,
+        fontFamily: "Roboto"
     },
     title: {
         textAlign: "center",
@@ -74,6 +75,7 @@ const styles = StyleSheet.create({
         padding: 10,
         fontWeight: "bold",
         fontSize: 20,
+        fontFamily: "Roboto"
     },
     text: {
         textAlign: "center",
@@ -81,11 +83,13 @@ const styles = StyleSheet.create({
         padding: 10,
         fontWeight: "bold",
         fontSize: 14,
+        fontFamily: "Roboto"
     },
     section: {
         margin: 10,
         padding: 10,
-        flex:10
+        flex:10,
+        fontFamily: "Roboto"
     },
     table: {
         display: "table",
@@ -99,7 +103,8 @@ const styles = StyleSheet.create({
     },
     tableRow: {
         margin: "auto",
-        flexDirection: "row"
+        flexDirection: "row",
+        fontFamily: "Roboto"
     },
     tableCol: {
         width: "50%",
@@ -107,7 +112,8 @@ const styles = StyleSheet.create({
         borderWidth: 1,
         borderLeftWidth: 0,
         borderTopWidth: 0,
-        justifyContent:"center"
+        justifyContent:"center",
+        fontFamily: "Roboto"
     },
     tableColQuestion: {
         width: "100%",
@@ -116,18 +122,21 @@ const styles = StyleSheet.create({
         borderLeftWidth: 0,
         borderTopWidth: 0,
         justifyContent:"center",
-        backgroundColor:"#DDDDDD"
+        backgroundColor:"#DDDDDD",
+        fontFamily: "Roboto"
     },
     tableCell: {
         textAlign:"center",
         fontSize: 10,
-        marginVertical:5
+        marginVertical:5,
+        fontFamily: "Roboto"
     },
     between: {
         flexDirection:'row',
         justifyContent:'space-between',
         flex:1,
-        marginHorizontal:40
+        marginHorizontal:40,
+        fontFamily: "Roboto"
     }
 });
 

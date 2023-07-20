@@ -3,6 +3,7 @@ import LocalizedStrings from 'react-localization';
 const strings = new LocalizedStrings({
     en:{
         start:"start",
+        quiz:"Quiz:",
         pick:"Pick a quiz Topic",
         language:'Language',
         requirement:"To pass the quiz you have to get 75% correct answers.",
@@ -34,6 +35,7 @@ const strings = new LocalizedStrings({
     },
     it: {
         start:"inizio",
+        quiz:"Quiz:",
         pick:"Scegli un argomento del quiz",
         language:'Lingua',
         requirement:"Per superare il quiz, devi ottenere il 75% di risposte corrette.",
@@ -62,6 +64,38 @@ const strings = new LocalizedStrings({
         yourAnswers:"Le tue risposte",
         corrShort:"corretto",
         wrongShort:"sbagliato"
+    },
+    mk: {
+        start: "почеток",
+        quiz:"Квиз:",
+        pick: "Изберете тема на квиз",
+        language: "Јазик",
+        requirement: "За полагање на квизот морате да добиете 75% точни одговори.",
+        startQuiz: "Започнете квиз",
+        continue: "Продолжете",
+        content: "содржина",
+        next: "следно",
+        finish: "Заврши",
+        goBack: "Врати се",
+        congratulations: "Честитки",
+        unfortunately: "За жал",
+        points: "поени",
+        passed: "Успешно го положивте квизот со",
+        failed: "Не го положивте квизот со",
+        download: "Можете да го преземете документот со потврда со вашите одговори тука:",
+        tryAgain: "Можете да обидете повторно",
+        certificate: "Сертификат",
+        question: "Прашање: ",
+        outOf: "од",
+        multipleSelection: "(повеќе точни одговори)",
+        correct: "Точен одговор!",
+        wrong: "Неточен одговор!",
+        corr: "Точни: ",
+        loadDoc: "Вчитување на документот...",
+        dldNow: "Преземете сега!",
+        yourAnswers: "Вашите одговори",
+        corrShort: "точни",
+        wrongShort: "неточни"
     }
 });
 

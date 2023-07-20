@@ -1,0 +1,4098 @@
+[
+  {
+    "id": 1,
+    "topic": "Прва Светска Војна",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Причина за Првата светска војна беше:",
+        "answers": [
+          {
+            "content": "желбата за проширување на големите сили",
+            "isCorrect": true
+          },
+          {
+            "content": "Убиство на престолонаследникот на Србија",
+            "isCorrect": false
+          },
+          {
+            "content": "Лансирањето на атомската бомба",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Друга причина за Првата светска војна беше:",
+        "answers": [
+          {
+            "content": "желбата за проширување на малите сили",
+            "isCorrect": false
+          },
+          {
+            "content": "Атентатот на надвојводата Франц Фердинанд, наследник на австроунгарскиот трон, во Сараево, беше искрата",
+            "isCorrect": true
+          },
+          {
+            "content": "Пронајдокот на компјутерот",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Кои беа земјите-членки на Антантата?",
+        "answers": [
+          {
+            "content": "Англија, Франција, Русија",
+            "isCorrect": true
+          },
+          {
+            "content": "Русија, Франција, Германија",
+            "isCorrect": false
+          },
+          {
+            "content": "Англија, Бугарија, Холандија",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Кои беа земјите-членки на Централните сили?",
+        "answers": [
+          {
+            "content": "Англија, Франција, Русија",
+            "isCorrect": false
+          },
+          {
+            "content": "Бугарија, Австроунгарската империја, Германија, Отоманската империја",
+            "isCorrect": true
+          },
+          {
+            "content": "Германија, Бугарија, Франција",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Двата главни фронта на војната беа:",
+        "answers": [
+          {
+            "content": "Западниот Фронт и Источниот Фронт",
+            "isCorrect": true
+          },
+          {
+            "content": "Северниот фронт и Јужниот фронт",
+            "isCorrect": false
+          },
+          {
+            "content": "Дневен и Ноќен фронт",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Во 1916 година се случија две големи битки на западниот фронт, што резултираше со многу жртви и двата табора:",
+        "answers": [
+          {
+            "content": "Марашти, Марашешти и Оитуз",
+            "isCorrect": false
+          },
+          {
+            "content": "Битките кај Верден и Сом",
+            "isCorrect": true
+          },
+          {
+            "content": "Виена и Берлин",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Одговорете со точно/неточно: Во 1916 година, САД влегоа во војната. (Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Русија излезе од Првата светска војна во 1918 година преку",
+        "answers": [
+          {
+            "content": "Мировниот договор од Брест-Литовск",
+            "isCorrect": true
+          },
+          {
+            "content": "Примирјето на Компиењ",
+            "isCorrect": false
+          },
+          {
+            "content": "Јалта мир",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Првата светска војна завршува во:",
+        "answers": [
+          {
+            "content": "1818",
+            "isCorrect": false
+          },
+          {
+            "content": "1918",
+            "isCorrect": true
+          },
+          {
+            "content": "1718",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "Втора Светска Војна",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Една од причините за Втората Светска војна беше:",
+        "answers": [
+          {
+            "content": "Борбата за територии и сфери на влијание на тоталитарните држави",
+            "isCorrect": true
+          },
+          {
+            "content": "Битката кај Сталинград",
+            "isCorrect": false
+          },
+          {
+            "content": "Фрлање атомски бомби на Хирошима и Нагасаки",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Друга причина за Втората светска војна беше:",
+        "answers": [
+          {
+            "content": "Јапонски напад на Перл Харбор, САД",
+            "isCorrect": false
+          },
+          {
+            "content": "Слетувањето во Нормандија",
+            "isCorrect": false
+          },
+          {
+            "content": "Хитлеровите ревизионистички акции",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Кои се членовите на Силите на Оската?",
+        "answers": [
+          {
+            "content": "Германија, Италија, Јапонија",
+            "isCorrect": true
+          },
+          {
+            "content": "Обединетото Кралство, Советскиот Сојуз, САД, Франција",
+            "isCorrect": false
+          },
+          {
+            "content": "Италија, Франција, САД",
+            "isCorrect": false
+          },
+          {
+            "content": "САД, Велика Британија, Италија",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Кои се членовите на Коалицијата на Обединетите нации?",
+        "answers": [
+          {
+            "content": "Германија, Италија, Јапонија",
+            "isCorrect": false
+          },
+          {
+            "content": "Велика Британија, Советскиот Сојуз, САД, Франција",
+            "isCorrect": true
+          },
+          {
+            "content": "Италија, Франција, САД",
+            "isCorrect": false
+          },
+          {
+            "content": "САД, Велика Британија, Италија",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Војната започна со нападот на Германија врз Полска во годината:",
+        "answers": [
+          {
+            "content": "1839",
+            "isCorrect": false
+          },
+          {
+            "content": "1939",
+            "isCorrect": true
+          },
+          {
+            "content": "1739",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Преку операцијата Барбароса, Германија напаѓа:",
+        "answers": [
+          {
+            "content": "САД",
+            "isCorrect": false
+          },
+          {
+            "content": "СССР",
+            "isCorrect": true
+          },
+          {
+            "content": "Велика Британија",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Настанот што предизвика САД да влезат во војна беше:",
+        "answers": [
+          {
+            "content": "Избувнувањето на втората светска војна",
+            "isCorrect": false
+          },
+          {
+            "content": "Напад на американската база во Перл Харбор",
+            "isCorrect": true
+          },
+          {
+            "content": "Битката кај Сталинград",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Главната поморска битка што го промени текот на Втората светска војна во Пацифичкиот театар беше:",
+        "answers": [
+          {
+            "content": "Перл Харбор",
+            "isCorrect": false
+          },
+          {
+            "content": "Мидвеј",
+            "isCorrect": true
+          },
+          {
+            "content": "Вашингтон",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Одговорете со точно или неточно: Битката за Сталинград се одржа на територијата на СССР (Точно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Слетувањето во Нормандија се случи во:",
+        "answers": [
+          {
+            "content": "1944",
+            "isCorrect": true
+          },
+          {
+            "content": "1744",
+            "isCorrect": false
+          },
+          {
+            "content": "1844",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 11,
+        "question": "Одговорете со точно или неточно: Заземањето на Берлин од страна на Обединетите нации ќе доведе до капитулација на Италија. (Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 12,
+        "question": "Двете атомски бомби со кои заврши Втората светска војна беа фрлени врз јапонските градови Хирошима и Нагасаки. (Точно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Студената војна",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Студената војна беше геополитичко ривалство меѓу две земји: САД и Советскиот Сојуз.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Студената војна започна околу 1950 година, со воведувањето на Труманската доктрина и Маршаловиот план.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Во 1949 година, Соединетите Држави и нивните европски сојузници ја формираа Организацијата на Северноатлантскиот договор (НАТО) за да го заштитат секој во случај на напад.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "САД не сакаа комунизмот да се прошири во другите земји во Европа. Затоа, САД им дадоа пари на тие земји за обнова по војната. Ова беше наречено Маршалов план по Џорџ Маршал, Американецот кој го предложи планот.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Студената војна заврши во 1980 година, по распадот и распадот на Советскиот Сојуз.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Индустриската Револуција (дел 1)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Каков нов тип на извори за историско знаење стана достапен во 19 век?",
+        "answers": [
+          {
+            "content": "Телевизија во боја",
+            "isCorrect": false
+          },
+          {
+            "content": "Граѓански регистар",
+            "isCorrect": false
+          },
+          {
+            "content": "Масовно пресување",
+            "isCorrect": false
+          },
+          {
+            "content": "Матични книги, масовен печат и аудиовизуелни медиуми",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Во 18 век, владејачкиот поредок насекаде во Западна Европа сè уште почива на сувереното раководство на монархот.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Оваа ситуација продолжила во 19 век.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Дали луѓето во Франција во 19 век ја прифатија политичката ситуација во 18 век?",
+        "answers": [
+          {
+            "content": "Ја прифати политичката ситуација",
+            "isCorrect": false
+          },
+          {
+            "content": "Прифати, но побара неколку шанси за подобрување на секојдневниот живот",
+            "isCorrect": false
+          },
+          {
+            "content": "Не прифати и почна бунт",
+            "isCorrect": true
+          },
+          {
+            "content": "Не прифати и не направи ништо за тоа",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Откако правата и канцелариите станаа достапни за граѓаните, ова доведе до поголема и трајна слобода за сите.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Што се случи по последната Наполеонова војна?",
+        "answers": [
+          {
+            "content": "Сите европски нации повторно беа слободни и можеа повторно да ги искористат своите стекнати права.",
+            "isCorrect": false
+          },
+          {
+            "content": "Сите европски народи повторно беа слободни и способни, но старата политичка ситуација повторно стапи на сила.",
+            "isCorrect": false
+          },
+          {
+            "content": "Сите европски народи беа повторно слободни и способни, но старата политичка ситуација повторно стапи на сила, но за релативно краток период.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Во 19 век, земјите почнаа да колонизираат прекуморски територии.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Ропството било укинато во 19 век бидејќи повеќе не биле потребни робови.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Што го поттикнало индустријализацијата во 19 век?",
+        "answers": [
+          {
+            "content": "Укинување на ропството",
+            "isCorrect": false
+          },
+          {
+            "content": "Употреба на разбои",
+            "isCorrect": false
+          },
+          {
+            "content": "Пронајдокот на парната машина",
+            "isCorrect": true
+          },
+          {
+            "content": "Изградба на железнички линии",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Карактеристики на индустријализацијата се",
+        "answers": [
+          {
+            "content": "Целото производство лоцирано дома",
+            "isCorrect": false
+          },
+          {
+            "content": "Цело производство во мал обем",
+            "isCorrect": false
+          },
+          {
+            "content": "Масовно производство кое е централизирано во градовите",
+            "isCorrect": false
+          },
+          {
+            "content": "Масовно производство кое е централизирано во фабриките",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 11,
+        "question": "Во одредени индустрии се создаваат специјализирани индустриски области, со големи продажни области, што резултира со силно зголемување на стоковниот сообраќај.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 12,
+        "question": "Како индустријализацијата се лизна и во земјоделството?",
+        "answers": [
+          {
+            "content": "Во стадата беа внесени нови животни",
+            "isCorrect": false
+          },
+          {
+            "content": "Се одгледуваа нови култури за да се нахранат повеќе луѓе",
+            "isCorrect": false
+          },
+          {
+            "content": "Земјоделците беа заменети со роботи за повисоко производство на храна за растечката популација",
+            "isCorrect": false
+          },
+          {
+            "content": "Пронајдок на нови култури за поголемо производство на основна храна",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 13,
+        "question": "Индустријализацијата имаше и има позитивни последици за животната средина.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 14,
+        "question": "Индустријализацијата имала и имала големо влијание врз пејсажот на урбаните и руралните средини.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 15,
+        "question": "Индустриската револуција веднаш им донесе просперитет на сите.",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 16,
+        "question": "Како индустриската револуција помогна да им се дадат еднакви права на жените?",
+        "answers": [
+          {
+            "content": "Создаде свест за повисок морален стандард",
+            "isCorrect": false
+          },
+          {
+            "content": "Немаше доволно работници за да ја завршат целата работа",
+            "isCorrect": true
+          },
+          {
+            "content": "Жените се подобри за работа во индустријата",
+            "isCorrect": false
+          },
+          {
+            "content": "Жените повеќе не се потребни само за да се грижат за децата",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Индустриската Револуција (дел 2)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Што била Индустриската револуција?",
+        "answers": [
+          {
+            "content": "Пронајдувањето на автомобилите",
+            "isCorrect": false
+          },
+          {
+            "content": "Ширење на масовно производство",
+            "isCorrect": true
+          },
+          {
+            "content": "Почетокот на Америка",
+            "isCorrect": false
+          },
+          {
+            "content": "Почетокот на Walmart",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Каде започна Индустриската револуција?",
+        "answers": [
+          {
+            "content": "Америка",
+            "isCorrect": false
+          },
+          {
+            "content": "Африка",
+            "isCorrect": false
+          },
+          {
+            "content": "Франција",
+            "isCorrect": false
+          },
+          {
+            "content": "Велика Британија",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Зошто индустриската револуција е важна за историјата?",
+        "answers": [
+          {
+            "content": "Не е важна.",
+            "isCorrect": false
+          },
+          {
+            "content": "Затоа што пронајдоците на револуцијата доведоа до пронајдоците на денешницата.",
+            "isCorrect": true
+          },
+          {
+            "content": "Затоа што ја направи Америка подобра од Франција.",
+            "isCorrect": false
+          },
+          {
+            "content": "Затоа што тогаш се случија многу важни работи.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Каква работна средина обезбедуваа фабриките?",
+        "answers": [
+          {
+            "content": "Климатизирана, чиста и забавна",
+            "isCorrect": false
+          },
+          {
+            "content": "Топла, чиста и со чести паузи",
+            "isCorrect": false
+          },
+          {
+            "content": "Влажна, прашина и добра плата",
+            "isCorrect": false
+          },
+          {
+            "content": "Топла, валкана, со лош квалитет на воздухот",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "На кој уред најчесто се наоѓал парната машина?",
+        "answers": [
+          {
+            "content": "Автомобил",
+            "isCorrect": false
+          },
+          {
+            "content": "Воз",
+            "isCorrect": true
+          },
+          {
+            "content": "Автобус",
+            "isCorrect": false
+          },
+          {
+            "content": "Авион",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Што од наведеното помогнало да започне Индустриската револуција?",
+        "answers": [
+          {
+            "content": "Движењето за затворање",
+            "isCorrect": false
+          },
+          {
+            "content": "Помина пакетот за економски стимулации Обома",
+            "isCorrect": false
+          },
+          {
+            "content": "Уставот на Соединетите Американски Држави",
+            "isCorrect": false
+          },
+          {
+            "content": "Законот на фабрики од 1883",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Обновливи извори на енергија:\n\nСонце, ветер, вода, биогорива, биомаса, нуклеарна енергија - се овие обновливи извори на енергија? Точно/Неточно",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "Француската револуција",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Одберете го точниот одговор\nКој уживал привилегии во Франција во XVIII век?",
+        "answers": [
+          {
+            "content": "Буржоазијата",
+            "isCorrect": false
+          },
+          {
+            "content": "благородниците и свештенството",
+            "isCorrect": true
+          },
+          {
+            "content": "Народот",
+            "isCorrect": false
+          },
+          {
+            "content": "Папата",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Какво собрание беше свикано во Франција за да се реши економската криза?",
+        "answers": [
+          {
+            "content": "Собрание на регионални држави",
+            "isCorrect": false
+          },
+          {
+            "content": "Собранието на регионалните покраини",
+            "isCorrect": false
+          },
+          {
+            "content": "Собранието на општите покраини",
+            "isCorrect": false
+          },
+          {
+            "content": "Собранието на генералните држави.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Во која година била нападната и одземена Бастилја?",
+        "answers": [
+          {
+            "content": "Во 1787",
+            "isCorrect": false
+          },
+          {
+            "content": "Во 1789",
+            "isCorrect": true
+          },
+          {
+            "content": "Во 1798",
+            "isCorrect": false
+          },
+          {
+            "content": "Во 1889",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Во што се трансформираше француската монархија?",
+        "answers": [
+          {
+            "content": "Во претседателска монархија",
+            "isCorrect": false
+          },
+          {
+            "content": "Во уставна монархија",
+            "isCorrect": true
+          },
+          {
+            "content": "Во Република",
+            "isCorrect": false
+          },
+          {
+            "content": "Во Федерација",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Што се случи со францускиот крал за време на револуцијата?",
+        "answers": [
+          {
+            "content": "Избегал",
+            "isCorrect": false
+          },
+          {
+            "content": "Се здружил со папата",
+            "isCorrect": false
+          },
+          {
+            "content": "Организирал улични протести со помош на војниците",
+            "isCorrect": false
+          },
+          {
+            "content": "Бил осуден на смрт",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Како се викаше периодот на Робеспјер?",
+        "answers": [
+          {
+            "content": "Мир",
+            "isCorrect": false
+          },
+          {
+            "content": "Примирје",
+            "isCorrect": false
+          },
+          {
+            "content": "Просветлување",
+            "isCorrect": false
+          },
+          {
+            "content": "Терор",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Животот на Исус и раѓањето на Христијанството",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Кој е основач на христијанството?",
+        "answers": [
+          {
+            "content": "Исус Христос",
+            "isCorrect": true
+          },
+          {
+            "content": "Јуда",
+            "isCorrect": false
+          },
+          {
+            "content": "Алах",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Кој е Исус Христос?",
+        "answers": [
+          {
+            "content": "Исус Христос е сина на Алах.",
+            "isCorrect": false
+          },
+          {
+            "content": "Исус Христос е син Божји.",
+            "isCorrect": true
+          },
+          {
+            "content": "Исус Христос е син на Јуда.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Христијаните веруваат дека Исус е Син Божји. Тие ги следат неговите учења и оние на христијанската црква (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Христијанското место за богослужба се нарекува Џамија. (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Двата главни христијански празници се Велигден и Божиќ. (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Животот на Мухамед и раѓањето на Исламот",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Пророкот Мухамед, е роден во 570 година во Мека. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Арапскиот збор „Ислам“ значи потчинување и послушност, а потекнува од збор што значи „мир“. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Исламот се заснова на службата на човекот по име Исус и на зборовите што Јудеја му ги дала на светот преку Мухамед. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Алах е името што го користат муслиманите за врховниот и единствен Бог, кој создал и владее со сè. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "Првата крстоносна војна: 1095-1099 година (Франција, Турција, Сирија, Палестина, Исраел)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Ерусалим муслиманите го сметале за свет затоа што:",
+        "answers": [
+          {
+            "content": "Пророкот Мухамед е роден таму",
+            "isCorrect": false
+          },
+          {
+            "content": "Пророкот Мухамед е закопан таму",
+            "isCorrect": false
+          },
+          {
+            "content": "Пророкот Мухамед таму бил подигнат на рајот",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Првата крстоносна војна започна во... (1096)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Една од причините за Првата крстоносна војна била многу лошата жетва од 1095 г. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Повикот до Светата војна беше лансиран од:",
+        "answers": [
+          {
+            "content": "Алексиос Комнен",
+            "isCorrect": false
+          },
+          {
+            "content": "Петар Пустиник",
+            "isCorrect": false
+          },
+          {
+            "content": "Папата Урбан II",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Целта на Првата крстоносна војна била да се ослободи светиот град:",
+        "answers": [
+          {
+            "content": "Ерусалим",
+            "isCorrect": true
+          },
+          {
+            "content": "Рим",
+            "isCorrect": false
+          },
+          {
+            "content": "Сантиаго",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Повикот до Светата војна беше започнат во... (Клермонт)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Први што ја започнаа крстоносната војна се селаните. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Папата Урбан II ја предводи опсадата на Ерусалим (Точно или Неточно).",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "На крајот на Првата крстоносна војна, Ерусалим се вратил под христијанска власт. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Крстоносните држави формирани по Првата крстоносна војна биле:\na. Ерусалим, Едеса, Триполи, Антиохија\nb. Византија, Ерусалим, Палестина, Египет, Никеја, Константинопол, Сел-гиук, Фатимид.",
+        "answers": [
+          {
+            "content": "a",
+            "isCorrect": true
+          },
+          {
+            "content": "b",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 11,
+        "question": "Зборот „крстоносец“ значи:",
+        "answers": [
+          {
+            "content": "Учесник во крстоносните војни носејќи знак на крст на градите",
+            "isCorrect": true
+          },
+          {
+            "content": "Историчар кој ги проучува причините, настаните и последиците од крстоносните војни",
+            "isCorrect": false
+          },
+          {
+            "content": "Едно од деловите на витешкиот оклоп, во облик на крст",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "Подемот и падот на цивилизацијата на Ацтеките",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Ацтеките живееле во денешно Мексико T/Н",
+        "answers": [
+          {
+            "content": "T",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Ацтеките имале лунарен календар T/Н",
+        "answers": [
+          {
+            "content": "T",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Кортез бил по потекло од Ацтеките T/Н",
+        "answers": [
+          {
+            "content": "T",
+            "isCorrect": false
+          },
+          {
+            "content": "Н",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Империјата на Ацтеките се распадна во 1521 година T/Н",
+        "answers": [
+          {
+            "content": "T",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Шпанците ја презедоа Ацтечката империја T/Н",
+        "answers": [
+          {
+            "content": "T",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "topic": "Црната смрт (Бабунска чума) ја уништува Европа",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Што била црната смрт?",
+        "answers": [
+          {
+            "content": "Чума што дошла во Европа",
+            "isCorrect": true
+          },
+          {
+            "content": "Чума што дошла во Азија",
+            "isCorrect": false
+          },
+          {
+            "content": "Чума што дојде во Австралија",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Од каде потекнувала?",
+        "answers": [
+          {
+            "content": "Европа и Африка",
+            "isCorrect": false
+          },
+          {
+            "content": "Источна и Централна Азија",
+            "isCorrect": true
+          },
+          {
+            "content": "Северна и Јужна Америка",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Во кои години била најлоша чумата во Европа?",
+        "answers": [
+          {
+            "content": "1175-1184",
+            "isCorrect": false
+          },
+          {
+            "content": "1251-1256",
+            "isCorrect": false
+          },
+          {
+            "content": "1347-1353",
+            "isCorrect": true
+          },
+          {
+            "content": "1410-1416",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Црната смрт понекогаш се нарекувала како?",
+        "answers": [
+          {
+            "content": "Шпанска",
+            "isCorrect": false
+          },
+          {
+            "content": "Бубонска Чума",
+            "isCorrect": true
+          },
+          {
+            "content": "Руски грип",
+            "isCorrect": false
+          },
+          {
+            "content": "COVID-19",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Црната смрт уби околу колкав процент од населението во Европа?",
+        "answers": [
+          {
+            "content": "Една половина",
+            "isCorrect": false
+          },
+          {
+            "content": "Една третина",
+            "isCorrect": true
+          },
+          {
+            "content": "четврт",
+            "isCorrect": false
+          },
+          {
+            "content": "една петина",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Дали недостигот од луѓе за работа на полињата беше проблем за селаните за време на Црната смрт?",
+        "answers": [
+          {
+            "content": "Селани - Имаше недостиг од луѓе за работа на нивите",
+            "isCorrect": true
+          },
+          {
+            "content": "Благородници - мораа да ги работат нивните ниви (не беа навикнати или доволно добри)",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Приближно колкав процент од Европејците умреле од чумата?",
+        "answers": [
+          {
+            "content": "30%",
+            "isCorrect": true
+          },
+          {
+            "content": "40%",
+            "isCorrect": false
+          },
+          {
+            "content": "50%",
+            "isCorrect": false
+          },
+          {
+            "content": "60%",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Дали благородниците мораа да ги работат своите ниви (не беа навикнати или доволно добри) за време на Црната смрт? (точно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "topic": "Ренесансата",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Коперник го потврдува древното верување дека Сонцето се врти околу Земјата (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Микеланџело ја насликал Мона Лиза (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Леонардо да Винчи ја украсува Систинската капела (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Културата на ренесансата го става човекот и неговото постоење во центарот (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Во судовите се угостени уметници, филозофи, поети (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Замоците стануваат места за културна продукција (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Кога беше културното движење на хуманизмот?",
+        "answers": [
+          {
+            "content": "Ренесанса",
+            "isCorrect": true
+          },
+          {
+            "content": "Просветлување",
+            "isCorrect": false
+          },
+          {
+            "content": "Средниот Век",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Технопрактичкото знаење ги отфрли средновековните традиции (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Важен аспект во дифузијата на ренесансата беше наречен - Сињорие (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Што добија уметниците и научниците од господарите за својата работа?",
+        "answers": [
+          {
+            "content": "Заштита",
+            "isCorrect": false
+          },
+          {
+            "content": "Грижа",
+            "isCorrect": false
+          },
+          {
+            "content": "Старателство",
+            "isCorrect": false
+          },
+          {
+            "content": "Покровителство",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 11,
+        "question": "Што ја натерало културата да се шири повеќе?",
+        "answers": [
+          {
+            "content": "Пронајдокот на пенкалото",
+            "isCorrect": false
+          },
+          {
+            "content": "Печатење од подвижен тип",
+            "isCorrect": true
+          },
+          {
+            "content": "Поголем пристап до книги",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 12,
+        "question": "Кој го измислил печатењето со подвижен тип?",
+        "answers": [
+          {
+            "content": "Мулер",
+            "isCorrect": false
+          },
+          {
+            "content": "Бохте",
+            "isCorrect": false
+          },
+          {
+            "content": "Гунтерберг",
+            "isCorrect": true
+          },
+          {
+            "content": "Пеутингер",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "topic": "Доцна Ренесанса",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Што ни помогна најмногу да го запознаеме Новата Ера?",
+        "answers": [
+          {
+            "content": "Ископувања и остатоци",
+            "isCorrect": false
+          },
+          {
+            "content": "Пронајдокот на печатење книги",
+            "isCorrect": true
+          },
+          {
+            "content": "Сите видови згради и објекти",
+            "isCorrect": false
+          },
+          {
+            "content": "Археолошки наоди",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Откривачките патувања довеле до:",
+        "answers": [
+          {
+            "content": "Сосема подобра испорака",
+            "isCorrect": false
+          },
+          {
+            "content": "Подобри занаети и наука",
+            "isCorrect": false
+          },
+          {
+            "content": "Ширењето на културите",
+            "isCorrect": false
+          },
+          {
+            "content": "Контакти меѓу континентите кои влијаеле на природата во различни делови на светот",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Главниот центар на трговијата и индустријата во Новата Ера бил во Холандија (T/Н)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Што се случи со домородното население на патувањата за откривање?",
+        "answers": [
+          {
+            "content": "Тие биле преобратени во христијанство",
+            "isCorrect": false
+          },
+          {
+            "content": "Се чувствувале плен на ропството",
+            "isCorrect": true
+          },
+          {
+            "content": "Тие станаа многу богати",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Кои народи отворија нови области во Новата Ера?",
+        "answers": [
+          {
+            "content": "Англија и Шпанија",
+            "isCorrect": true
+          },
+          {
+            "content": "Португалија и Холандија",
+            "isCorrect": true
+          },
+          {
+            "content": "Германија и Белгија",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "topic": "Бостонската чајанка: американските колонисти протестираат против новите британски даноци со фрлање чај во пристаништето во Бостон: 12/16/1773",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Американските колонисти не сакаа да ги платат даноците за чај затоа што:",
+        "answers": [
+          {
+            "content": "Тие се спротивставија на оданочувањето без застапеност",
+            "isCorrect": true
+          },
+          {
+            "content": "Мислеле дека можат сами да одгледуваат чај",
+            "isCorrect": false
+          },
+          {
+            "content": "Цената на чајот би станала висока",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Источноиндиската компанија имала потреба од помош за продажба на големо количество чај. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "По завршувањето на 7-годишната војна, на Велика Британија и беа потребни нови извори на пари. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Цената на чајот е покачена со новиот закон. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Организацијата која се занимавала со подготовките за бостонското уништување на чајот била:",
+        "answers": [
+          {
+            "content": "Браќа по оружје",
+            "isCorrect": false
+          },
+          {
+            "content": "Синови на слободата",
+            "isCorrect": true
+          },
+          {
+            "content": "Бостон Селтик",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Бројот на бродови што донесоа товар со чај во пристаништето во Бостон на крајот на 1773 година беше... (3)",
+        "answers": [
+          {
+            "content": "3",
+            "isCorrect": true
+          },
+          {
+            "content": "1",
+            "isCorrect": false
+          },
+          {
+            "content": "5",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Бродовите можеле да го напуштат пристаништето во Бостон и да ја однесат колата со чај до друго американско пристаниште или да се вратат во Англија. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Штетите предизвикани за време на бостонската чајна забава:",
+        "answers": [
+          {
+            "content": "Многу луѓе беа повредени или убиени",
+            "isCorrect": false
+          },
+          {
+            "content": "Околу 46 тони чај беа уништени",
+            "isCorrect": true
+          },
+          {
+            "content": "Речиси 100-те пиштоли што го чуваа влезот на пристаништето беа фрлени во морето",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "По настаните во Бостон, британскиот парламент го преиспита својот став и одлучи да прими делегација од колониите. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Бостонската чајна забава се смета за еден од настаните што доведоа до Американската војна за независност. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 11,
+        "question": "Британскиот парламент ги усвои Актите за принуда, именувани исто така:",
+        "answers": [
+          {
+            "content": "Неподносливи Дела",
+            "isCorrect": true
+          },
+          {
+            "content": "Ограничувачки акти",
+            "isCorrect": false
+          },
+          {
+            "content": "гнетечки акти",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "topic": "Американската револиција: 1775-1783",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Една од причините за американската револуција беше:",
+        "answers": [
+          {
+            "content": "Оданочување без застапување",
+            "isCorrect": true
+          },
+          {
+            "content": "осуда без истрага",
+            "isCorrect": false
+          },
+          {
+            "content": "депортација без осуда",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "За време на бостонската чајна забава, товарот со чај од три брода беше:",
+        "answers": [
+          {
+            "content": "исфрлен во морето",
+            "isCorrect": true
+          },
+          {
+            "content": "конфискуван од патриотите",
+            "isCorrect": false
+          },
+          {
+            "content": "продаден за многу висока цена",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Изберете ја варијантата со правилен редослед на настаните:",
+        "answers": [
+          {
+            "content": "Првиот континентален конгрес, Бостонската чајна забава, престрелката во Лексингтон",
+            "isCorrect": false
+          },
+          {
+            "content": "Бостонската чајна забава, Првиот континентален конгрес, престрелката во Лексингтон",
+            "isCorrect": true
+          },
+          {
+            "content": "Престрелката во Лексингтон, Првиот континентален конгрес, Бостонската чајна забава",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Првиот континентален конгрес ја прогласил независноста на 13-те колонии. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Во која година беше прогласена независноста на колониите (1776)",
+        "answers": [
+          {
+            "content": "1776",
+            "isCorrect": true
+          },
+          {
+            "content": "1781",
+            "isCorrect": false
+          },
+          {
+            "content": "1783",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Главниот сојузник на колониите беше Канада. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Водачот на американската армија беше:",
+        "answers": [
+          {
+            "content": "Бенџамин Френклин",
+            "isCorrect": false
+          },
+          {
+            "content": "Томас Џеферсон",
+            "isCorrect": false
+          },
+          {
+            "content": "George Washington",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Франција и објави војна на Велика Британија по американската победа во:",
+        "answers": [
+          {
+            "content": "Делавер",
+            "isCorrect": false
+          },
+          {
+            "content": "Јорктаун",
+            "isCorrect": false
+          },
+          {
+            "content": "Сарагота",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Решавачката победа за американската армија беше на… (Јорктаун)",
+        "answers": [
+          {
+            "content": "Јорктаун",
+            "isCorrect": true
+          },
+          {
+            "content": "Бостон",
+            "isCorrect": false
+          },
+          {
+            "content": "Лексингтон",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Беше потпишан мировниот договор со кој заврши американската револуционерна војна… (Версај)",
+        "answers": [
+          {
+            "content": "Версај",
+            "isCorrect": true
+          },
+          {
+            "content": "Филаделфија",
+            "isCorrect": false
+          },
+          {
+            "content": "Лондон",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 11,
+        "question": "Победата на колониите имаше позитивни последици за домородните племиња во Северна Америка. (Точно или Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 12,
+        "question": "Колонија е:",
+        "answers": [
+          {
+            "content": "група бродови кои превезувале чај од пристаништето во Келн, патувајќи заедно",
+            "isCorrect": false
+          },
+          {
+            "content": "земја или територија таа област под целосна или делумна политичка контрола на друга земја и окупирана од доселеници од таа земја",
+            "isCorrect": true
+          },
+          {
+            "content": "формален состанок или серија состаноци за дискусија помеѓу делегатите, особено оние од политичка партија или кои ги поддржуваат истите политички идеи",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "topic": "Движењето Suf-frage: Жените се борат за правото на глас: 1893-1928",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Право на глас од латинскиот збор suffragium се однесува на…",
+        "answers": [
+          {
+            "content": "Тие што настрадаа за да добијат право на глас",
+            "isCorrect": true
+          },
+          {
+            "content": "Даден глас при одлучување за контроверзно прашање",
+            "isCorrect": false
+          },
+          {
+            "content": "Жртвите што мора да се направат за претставничката влада",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Која е разликата помеѓу зборот суфражист и суф-фрагет?",
+        "answers": [
+          {
+            "content": "Суфражист се однесува на мажи, а суфражетка се однесува на жени.",
+            "isCorrect": false
+          },
+          {
+            "content": "Суфражистот се користел за да се однесува на жени кои бараат право на глас, додека овие жени се нарекувале себеси суф-фрагети.",
+            "isCorrect": true
+          },
+          {
+            "content": "Суфражетката е погрден термин додека суфражист не е.",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Конвенцијата за правата на жените беше одржана во Сенека Фолс во 1848 година. Документот подготвен на оваа конвенција беше наречен…",
+        "answers": [
+          {
+            "content": "“Неотуѓивите права за жените”",
+            "isCorrect": false
+          },
+          {
+            "content": "“Декларацијата за правата на жените”",
+            "isCorrect": false
+          },
+          {
+            "content": "“Декларација за чувствата”",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Дали 19-тиот амандман на Уставот на САД беше ратификуван на 18 август 1920 година? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Дали е ова симбол на феминистичкото движење? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "topic": "Руската револуција: 1917-1922",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Пред револуцијата, Русија беше управувана од моќен монарх наречен Цар. Царот имал целосна моќ во Русија.",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Руската револуција беше предводена од Владимир Ленин и група револуционери наречени болшевици.",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": false
+          },
+          {
+            "content": "Н",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Голем настан што доведе до Руската револуција се случи на 22 јануари 1925 година. Овој ден се нарекува крвава недела.",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": false
+          },
+          {
+            "content": "Н",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Од 1918 до 1920 година, Русија доживеа граѓанска војна помеѓу болшевиците (исто така наречени Црвена армија) и антиболшевиците (Белата армија). Болшевиците победија и новата земја беше наречена СССР (Сојуз на советските социјалистички републики).",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Народот на Русија првпат се побунил на почетокот на 1927 година.",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": false
+          },
+          {
+            "content": "Н",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "topic": "Обединетите нации се формирани: 1945-1946 година (Европа, Северна и Јужна Америка, Азија, Африка, Австралија)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "ООН е основан во 1845 година Т/Н",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": false
+          },
+          {
+            "content": "Н",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "ОН првично имаа за цел да го зачуваат мирот Т/Н",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Има 93 земји на ОН Т/Н",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": false
+          },
+          {
+            "content": "Н",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Денес ОН имаат за цел намалување на сиромаштијата Т/Н",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Во денешно време ОН цели кон човековите права Т/Н",
+        "answers": [
+          {
+            "content": "Т",
+            "isCorrect": true
+          },
+          {
+            "content": "Н",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "topic": "Дигиталната револуција: Изумот на Дигиталниот Електричен Компјутер",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Дали пронајдокот на микроелектрониката (транзистори, интегрирани кола) ја воведе дигиталната револуција? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Wi-Fi се користи за безжична комуникација на мобилни уреди? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Можеме да забележиме многу брз развој на електронското банкарство. Дали Bitcoin е виртуелна валута? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Дали се користи 3Д печатач за печатење на хартија? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Виртуелна реалност и вештачка интелигенција - дали тие значат исто? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "topic": "Советскиот Сојуз го лансираше Спутник, прв вештачки сателит: 4.10.1957 година (Русија)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Советскиот Сојуз ја започна вселенската трка со лансирање каков сателит во вселената?",
+        "answers": [
+          {
+            "content": "Kosmos",
+            "isCorrect": false
+          },
+          {
+            "content": "Spektr",
+            "isCorrect": false
+          },
+          {
+            "content": "Sputnik",
+            "isCorrect": true
+          },
+          {
+            "content": "YoutSat",
+            "isCorrect": false
+          },
+          {
+            "content": "Voyager",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Дали е ова Спутник - првиот вештачки земјен сателит? (Да или Не)",
+        "answers": [
+          {
+            "content": "Да",
+            "isCorrect": false
+          },
+          {
+            "content": "Не",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Погледнете го цртежот и наведете го името на објектот:",
+        "answers": [
+          {
+            "content": "Luna 10",
+            "isCorrect": false
+          },
+          {
+            "content": "Sojuz 4",
+            "isCorrect": false
+          },
+          {
+            "content": "Sputnik 1",
+            "isCorrect": true
+          },
+          {
+            "content": "Wostok 1",
+            "isCorrect": false
+          },
+          {
+            "content": "Gemini 8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Кога бил лансиран првиот земјен сателит?",
+        "answers": [
+          {
+            "content": "14ти декември 1903",
+            "isCorrect": false
+          },
+          {
+            "content": "8ми мај 1945",
+            "isCorrect": false
+          },
+          {
+            "content": "4ти октомври 1957",
+            "isCorrect": true
+          },
+          {
+            "content": "20ти јули 1969",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "topic": "Јуриј Гагарин станува првиот човек во вселената: 1961 година (Русија)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Јуриј Алексејевич Гагарин бил руски космонаут (астронаут). Тој стана првиот човек во вселената на 1 април. (точно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "На 12 април 1981 година, Гагарин стана првиот човек што отпатува во вселената, лансирајќи го „Восток 3КА-3“ (Восток 1). Т/Н",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Западните луѓе тврдеа дека Гагарин, за време на неговиот вселенски лет, дал коментар: „Не гледам никаков Бог овде горе“.T/Н",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Во 1982 година, тој започна да служи како заменик на Врховниот совет на Советскиот Сојуз.T/Н",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Причината за падот е непозната, но турбуленцијата од пресретнувачот Су-11 „Fish-pot-C“ со помош на неговите подочници може да ја предизвика",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "topic": "Американскиот претседател Џон Ф. Кенеди е убиен во атентат во Далас, Тексас: 22.11.1963 (САД)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Дали е ова Џон Фицџералд Кенеди, 35-тиот претседател на САД? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Една од најпознатите фотографии од денот на атентатот. Дали ЏФК е убиен во Њујорк? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Советски транспортен брод отплови до еден од островите во Северна Америка. Дали беше Хаити? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "topic": "Раѓањето на Интернетот: 1965-1995 година (САД)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Англискиот збор „windows“ значи и име на оперативниот систем за компјутери? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Овие програми ви даваат пристап до содржината објавена на Интернет. Дали се тие веб-прелистувачи? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Социјалните медиуми користат програми кои го олеснуваат контактот меѓу нивните корисници (кратки информации, фотографии, текстуални пораки-мудреци). Дали горенаведените се комуникатори? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Ние исто така користиме Интернет како извор на забава - гледаме филмови или слушаме музика. Дали компаниите претставени подолу ви дозволуваат да слушате музика? (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Зачетоците на интернетот беа во",
+        "answers": [
+          {
+            "content": "1969",
+            "isCorrect": true
+          },
+          {
+            "content": "1970",
+            "isCorrect": false
+          },
+          {
+            "content": "1960",
+            "isCorrect": false
+          },
+          {
+            "content": "1980",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Оригиналниот ARPANET беше исклучен во",
+        "answers": [
+          {
+            "content": "1990",
+            "isCorrect": true
+          },
+          {
+            "content": "1995",
+            "isCorrect": false
+          },
+          {
+            "content": "1980",
+            "isCorrect": false
+          },
+          {
+            "content": "1970",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Интернетот ни дава пристап до многу ресурси со кои инаку не би можеле да стапиме во контакт. (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": true
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Информациите на Интернет секогаш може да се веруваат дека се фактички. Немаше да биде онлајн ако не беше вистина. (Точно/Неточно)",
+        "answers": [
+          {
+            "content": "Точно",
+            "isCorrect": false
+          },
+          {
+            "content": "Неточно",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Колкав процент од домаќинствата во Европската унија имале пристап до Интернет?",
+        "answers": [
+          {
+            "content": "под 50%",
+            "isCorrect": false
+          },
+          {
+            "content": "над 80%",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "topic": "Времето на ловците и селаните-мравки (3000 B.C.)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Како дознавме за тоа што се случувало во времето на првите луѓе?",
+        "answers": [
+          {
+            "content": "Песни и поеми",
+            "isCorrect": false
+          },
+          {
+            "content": "Раскажани приказни",
+            "isCorrect": false
+          },
+          {
+            "content": "Пронајдоци во земјата",
+            "isCorrect": true
+          },
+          {
+            "content": "Ископани гробови",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Дали првите луѓе биле писмени?",
+        "answers": [
+          {
+            "content": "Понекогаш",
+            "isCorrect": false
+          },
+          {
+            "content": "Да",
+            "isCorrect": false
+          },
+          {
+            "content": "Не",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Како првите луѓе наоѓале храна?",
+        "answers": [
+          {
+            "content": "Во продавница",
+            "isCorrect": false
+          },
+          {
+            "content": "На пазар",
+            "isCorrect": false
+          },
+          {
+            "content": "Ловејќи",
+            "isCorrect": true
+          },
+          {
+            "content": "Одгледувајќи ги",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Каде живееле првите луѓе??",
+        "answers": [
+          {
+            "content": "Во замоци",
+            "isCorrect": false
+          },
+          {
+            "content": "Во дрвени куќи",
+            "isCorrect": false
+          },
+          {
+            "content": "На ливадите",
+            "isCorrect": false
+          },
+          {
+            "content": "Во шумите",
+            "isCorrect": true
+          },
+          {
+            "content": "Во пештери",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Од што биле направени нивните прибори?",
+        "answers": [
+          {
+            "content": "Железо",
+            "isCorrect": false
+          },
+          {
+            "content": "Глина",
+            "isCorrect": true
+          },
+          {
+            "content": "Бронза",
+            "isCorrect": false
+          },
+          {
+            "content": "Друг метал",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Што користеле првите луѓе за да ловат животни?",
+        "answers": [
+          {
+            "content": "Рачна секира",
+            "isCorrect": false
+          },
+          {
+            "content": "Копје",
+            "isCorrect": true
+          },
+          {
+            "content": "Стругалка",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Луѓето во праисторијата понекогаш правеле петроглифи. Дали тоа го правеле со молив?",
+        "answers": [
+          {
+            "content": "Да",
+            "isCorrect": false
+          },
+          {
+            "content": "Не",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Што најмногу цртале првите луѓе на карпите?",
+        "answers": [
+          {
+            "content": "Портрети",
+            "isCorrect": false
+          },
+          {
+            "content": "Риби",
+            "isCorrect": false
+          },
+          {
+            "content": "Диви животни",
+            "isCorrect": true
+          },
+          {
+            "content": "Бродови",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Како првите земјоделци се здобивале со поголемиот дел од својата храна?",
+        "answers": [
+          {
+            "content": "Од рибарење",
+            "isCorrect": false
+          },
+          {
+            "content": "Од ловење",
+            "isCorrect": false
+          },
+          {
+            "content": "Од своите стоки",
+            "isCorrect": true
+          },
+          {
+            "content": "Од својата земја",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Зошто имањето постојано живеалиште станало важно?",
+        "answers": [
+          {
+            "content": "За да се биде со семејството",
+            "isCorrect": false
+          },
+          {
+            "content": "За да се огледува стока",
+            "isCorrect": true
+          },
+          {
+            "content": "За да се обработува земјата",
+            "isCorrect": true
+          },
+          {
+            "content": "За да се контролира опкужувањето",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 11,
+        "question": "Зошто огнот бил толку важен за раните фармери?",
+        "answers": [
+          {
+            "content": "За да се одбранат од дивите животни",
+            "isCorrect": false
+          },
+          {
+            "content": "За да ги изгорат шумите за да се насади",
+            "isCorrect": true
+          },
+          {
+            "content": "За да се затоплуваат во зима",
+            "isCorrect": true
+          },
+          {
+            "content": "За готвење",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 12,
+        "question": "Каде живееле првите земјоделци?",
+        "answers": [
+          {
+            "content": "Во пештери",
+            "isCorrect": false
+          },
+          {
+            "content": "Во замоци",
+            "isCorrect": false
+          },
+          {
+            "content": "Во куќи од дрво и кал",
+            "isCorrect": true
+          },
+          {
+            "content": "Во станови",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 13,
+        "question": "Што правеле фармерите со дивите животни?",
+        "answers": [
+          {
+            "content": "Ги убивале",
+            "isCorrect": false
+          },
+          {
+            "content": "Ги ловеле",
+            "isCorrect": false
+          },
+          {
+            "content": "Ги продавале во зоолошка",
+            "isCorrect": false
+          },
+          {
+            "content": "Ги придомувале",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 14,
+        "question": "Од кои материјали првите земјоделци ги правеле своите алатки и прибор?",
+        "answers": [
+          {
+            "content": "Од злато",
+            "isCorrect": false
+          },
+          {
+            "content": "Од железо",
+            "isCorrect": false
+          },
+          {
+            "content": "Од бронза",
+            "isCorrect": false
+          },
+          {
+            "content": "Од камен",
+            "isCorrect": true
+          },
+          {
+            "content": "Од глина",
+            "isCorrect": true
+          },
+          {
+            "content": "Од дрво",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 15,
+        "question": "Од кои материјали земјоделците подоцна ги правеле своите алатки?",
+        "answers": [
+          {
+            "content": "Од злато",
+            "isCorrect": false
+          },
+          {
+            "content": "Од железо",
+            "isCorrect": true
+          },
+          {
+            "content": "Од бронза",
+            "isCorrect": true
+          },
+          {
+            "content": "Од камен",
+            "isCorrect": false
+          },
+          {
+            "content": "Од глина",
+            "isCorrect": false
+          },
+          {
+            "content": "Од дрво",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 16,
+        "question": "Ловците живееле во групи, во племиња. Како почнале да живеат селаните заедно?",
+        "answers": [
+          {
+            "content": "Во замоци",
+            "isCorrect": false
+          },
+          {
+            "content": "Во градови",
+            "isCorrect": false
+          },
+          {
+            "content": "Во села",
+            "isCorrect": true
+          },
+          {
+            "content": "Во пештери",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "topic": "Времето на Грците и Римјаните (3000 п.н.е. - 500 п.н.е.)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Грција и Атина процветаа преку тргување во странство. Развиле и размислувањето за пишување и уметноста. Како го знаеме сето ова?",
+        "answers": [
+          {
+            "content": "Од зачувани списи и остатоци",
+            "isCorrect": true
+          },
+          {
+            "content": "Од раскажаните приказни",
+            "isCorrect": false
+          },
+          {
+            "content": "Од ископаните гробници",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Како растечките градови се разликуваат од првите селски населби, карактеристики по изглед?",
+        "answers": [
+          {
+            "content": "Градовите имаа градби направени од камен и не само за домување, туку и приспособени за занаетчиство и трговија, како храмови или армиски касарни",
+            "isCorrect": true
+          },
+          {
+            "content": "Градовите имаа облакодери",
+            "isCorrect": false
+          },
+          {
+            "content": "Градовите имале замоци во воздухот",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Зошто Грците и Римјаните почнале да ги прошируваат своите територии со освојување?",
+        "answers": [
+          {
+            "content": "Кога имале бродови",
+            "isCorrect": false
+          },
+          {
+            "content": "Кога им требало повеќе простор",
+            "isCorrect": false
+          },
+          {
+            "content": "Кога сакале повеќе земја и повеќе моќ",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Која е главната разлика помеѓу христијанството и древните пагански религии?",
+        "answers": [
+          {
+            "content": "Христијанството има повеќе светци",
+            "isCorrect": false
+          },
+          {
+            "content": "Паганските религии обично имале многу богови",
+            "isCorrect": true
+          },
+          {
+            "content": "Христијанството имало попаметни свештеници",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Како цивилизацијата и културата ја ширеле Римјаните на нивните освоени територии?",
+        "answers": [
+          {
+            "content": "Преку книги",
+            "isCorrect": false
+          },
+          {
+            "content": "Преку војна и освојувања",
+            "isCorrect": false
+          },
+          {
+            "content": "По римски населби",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Зошто римското влијание не останало трајно на сите нивни освоени територии?",
+        "answers": [
+          {
+            "content": "Поради промените на климата",
+            "isCorrect": false
+          },
+          {
+            "content": "Поради корупција и лошото владеење",
+            "isCorrect": true
+          },
+          {
+            "content": "Поради непријателски напади",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "topic": "Времето на монасите и витезите (500 - 1000/2000)",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Што се случи во Западна Европа кога заврши римската ера?",
+        "answers": [
+          {
+            "content": "Германските племиња ја презедоа власта",
+            "isCorrect": false
+          },
+          {
+            "content": "Римјаните заминале, оставајќи хаос зад себе",
+            "isCorrect": false
+          },
+          {
+            "content": "Германските племиња почнаа да се борат едни против други",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Како влијаело христијанството врз секојдневниот живот за време на периодот на миграција?",
+        "answers": [
+          {
+            "content": "Луѓето почнаа да се молат пред секој оброк",
+            "isCorrect": false
+          },
+          {
+            "content": "Христијанството ги принудувало луѓето да се молат три пати на ден",
+            "isCorrect": false
+          },
+          {
+            "content": "Христијанството било единствениот стабилен фактор",
+            "isCorrect": true
+          },
+          {
+            "content": "Луѓето морале да одат на миса во неделите",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Средниот век траел од околу 500 до 1500 година од нашата ера. Колку години е тоа?",
+        "answers": [
+          {
+            "content": "950",
+            "isCorrect": false
+          },
+          {
+            "content": "1100",
+            "isCorrect": false
+          },
+          {
+            "content": "1000",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Повеќето луѓе во средниот век се занимавале со земјоделство. Некои од тие луѓе стекнале имоти на овој начин, давајќи под закуп земјиште на други кои биле сиромашни. На овој начин доаѓаа се повеќе станари. Дали овие луѓе беа слободни? Што требаше да направат за нивната лежалка?",
+        "answers": [
+          {
+            "content": "Тие беа слободни, но мораа да служат и како војници во господарската војска",
+            "isCorrect": false
+          },
+          {
+            "content": "Тие беа слободни, но мораа да плаќаат во натура за користење на земјиштето",
+            "isCorrect": false
+          },
+          {
+            "content": "Тие не беа целосно слободни и мораа да работат и да служат за господарите",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "На кметот му требал господарот, а на господарот кметот. Објаснете го тоа.",
+        "answers": [
+          {
+            "content": "За овој вид на игра потребни се двајца играчи",
+            "isCorrect": false
+          },
+          {
+            "content": "За да се има земја потребни се работници за да се произведуваат култури и да се чува говеда, за храна и домување потребна е земја.",
+            "isCorrect": true
+          },
+          {
+            "content": "Само кметовите можат да печат леб, а газдата има војска за заштита",
+            "isCorrect": false
+          },
+          {
+            "content": "Во околностите на тие денови тие треба еден на друг за да преживеат",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Куќите на станоиздавачите стануваа се поголеми и поголеми. Од каков материјал главно биле изградени поголемите куќи? Зошто?",
+        "answers": [
+          {
+            "content": "Тие биле изградени од камен за подобра одбрана",
+            "isCorrect": true
+          },
+          {
+            "content": "Беа направени од дрво бидејќи така е полесно",
+            "isCorrect": false
+          },
+          {
+            "content": "Тие беа направени од метал затоа што е поцврст",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Кои три правила требаше да ги следи еден витез?",
+        "answers": [
+          {
+            "content": "Морал да поседува замок.",
+            "isCorrect": false
+          },
+          {
+            "content": "Мораше да ги исполни своите ветувања.",
+            "isCorrect": true
+          },
+          {
+            "content": "Мораше да го заштити народот.",
+            "isCorrect": true
+          },
+          {
+            "content": "Мора да бил земјоделец.",
+            "isCorrect": false
+          },
+          {
+            "content": "Мораше да биде лојален на својот господар.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Некои земјопоседници добија уште поголеми имоти, а на крајот и војски со витези и војници. Тие станаа господари на сѐ поголеми територии и беа наречени благородници. Како се вика најголемиот газда од сите нив?",
+        "answers": [
+          {
+            "content": "Крал",
+            "isCorrect": true
+          },
+          {
+            "content": "Кралевиќ",
+            "isCorrect": false
+          },
+          {
+            "content": "Војвода",
+            "isCorrect": false
+          },
+          {
+            "content": "Граф",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "Карло Велики беше:",
+        "answers": [
+          {
+            "content": "Озогласен витез",
+            "isCorrect": false
+          },
+          {
+            "content": "Познат крал",
+            "isCorrect": true
+          },
+          {
+            "content": "Фармер",
+            "isCorrect": false
+          },
+          {
+            "content": "Голем поет и писател",
+            "isCorrect": false
+          },
+          {
+            "content": "Познат трубадур",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "Која закана од морето била позната во средниот век?",
+        "answers": [
+          {
+            "content": "Се вратиле Римјаните",
+            "isCorrect": false
+          },
+          {
+            "content": "Напади од големи морски животни",
+            "isCorrect": false
+          },
+          {
+            "content": "Ограбувањата на Норманите",
+            "isCorrect": true
+          },
+          {
+            "content": "Ограбувањата на Монасите",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "topic": "Раѓањето на Христијаството: Манастирите",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Во Високиот Среден Век, Црквата остана единствената институција со",
+        "answers": [
+          {
+            "content": "стабилна и безмилосна организација",
+            "isCorrect": true
+          },
+          {
+            "content": "авторитарна и строга организација",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "која можеше да гарантира безбедност и заштита на жителите на територијата, и затоа стана многу",
+        "answers": [
+          {
+            "content": "моќна",
+            "isCorrect": true
+          },
+          {
+            "content": "стравена",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Во градовите, таа беше присутна, пред сè во",
+        "answers": [
+          {
+            "content": "папските седишта",
+            "isCorrect": false
+          },
+          {
+            "content": "епископските седишта",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "на селата, во манастирите, каде што монасите живееја во",
+        "answers": [
+          {
+            "content": "заедница",
+            "isCorrect": true
+          },
+          {
+            "content": "изолација",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Манастирите имаа многу важна функција: успеаа да го заштитат и",
+        "answers": [
+          {
+            "content": "прехранат населението",
+            "isCorrect": true
+          },
+          {
+            "content": "збогатат населението",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "го спасуваа многу земји од напуштање, го зачувуваа и ширеање",
+        "answers": [
+          {
+            "content": "културата",
+            "isCorrect": true
+          },
+          {
+            "content": "традициите",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 7,
+        "question": "Првите манастири беа основани по наредба на",
+        "answers": [
+          {
+            "content": "Францисканците",
+            "isCorrect": false
+          },
+          {
+            "content": "Бенедиктинците",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 8,
+        "question": "Основателот,",
+        "answers": [
+          {
+            "content": "Бенедикт од Нурсија",
+            "isCorrect": true
+          },
+          {
+            "content": "Фрањо од Асизи",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 9,
+        "question": "напиша Правило, во кое монасите беа повикувани да се покоруваат на",
+        "answers": [
+          {
+            "content": "господарот на куртисот",
+            "isCorrect": false
+          },
+          {
+            "content": "игуменот",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 10,
+        "question": "да практикуваат сиромаштија и целомудрие, да го следат мотото 'ора и работи', тоа е, да се посветуваат на",
+        "answers": [
+          {
+            "content": "молитва и работа",
+            "isCorrect": true
+          },
+          {
+            "content": "повеќе на работа отколку на молитва",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "topic": "Атина: кон-напред /пример за демократија",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Острацизам е:",
+        "answers": [
+          {
+            "content": "Света слика",
+            "isCorrect": false
+          },
+          {
+            "content": "Грчко јадење",
+            "isCorrect": false
+          },
+          {
+            "content": "прогонство од градот",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Кој би можел да учествува во политичкиот живот на полисот?",
+        "answers": [
+          {
+            "content": "жени",
+            "isCorrect": false
+          },
+          {
+            "content": "само постарите",
+            "isCorrect": false
+          },
+          {
+            "content": "мажи",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Кој главен ефект го имала реформата на Солон?",
+        "answers": [
+          {
+            "content": "раѓањето на демократијата",
+            "isCorrect": true
+          },
+          {
+            "content": "раѓањето на монархијата",
+            "isCorrect": false
+          },
+          {
+            "content": "крајот на аристократијата",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Првиот атински законодавец бил?",
+        "answers": [
+          {
+            "content": "Клистен",
+            "isCorrect": false
+          },
+          {
+            "content": "Солон",
+            "isCorrect": true
+          },
+          {
+            "content": "Перикле",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Градот Атина сакал?",
+        "answers": [
+          {
+            "content": "војна",
+            "isCorrect": false
+          },
+          {
+            "content": "агрикултура",
+            "isCorrect": false
+          },
+          {
+            "content": "уметност, култура и едукација",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Атињанките се грижеле за?",
+        "answers": [
+          {
+            "content": "своите деца",
+            "isCorrect": true
+          },
+          {
+            "content": "политика",
+            "isCorrect": false
+          },
+          {
+            "content": "забава",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "topic": "Едукација во Атина",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Одберете го точниот одговор: Девојките од Атина",
+        "answers": [
+          {
+            "content": "Се грижеле само за домот и децата",
+            "isCorrect": true
+          },
+          {
+            "content": "Можеле слободно да излегуваат",
+            "isCorrect": false
+          },
+          {
+            "content": "Имале право на глас",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Мажите од Атина:",
+        "answers": [
+          {
+            "content": "Биле тренирани да користат оружје",
+            "isCorrect": true
+          },
+          {
+            "content": "Биле тренирани да извршуваат работи низ домот",
+            "isCorrect": false
+          },
+          {
+            "content": "Биле тренирани да станат риболовци",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Во аристократските полиси благородниците",
+        "answers": [
+          {
+            "content": "could afford training",
+            "isCorrect": true
+          },
+          {
+            "content": "could take care of agriculture",
+            "isCorrect": false
+          },
+          {
+            "content": "could educate their children",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Момчињата биле образовани од",
+        "answers": [
+          {
+            "content": "од нивната баба или образован роб до 18 години",
+            "isCorrect": false
+          },
+          {
+            "content": "од нивната мајка или образован роб до 6/7 години",
+            "isCorrect": true
+          },
+          {
+            "content": "од пророштвото на градот",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Приватниот учител го викале",
+        "answers": [
+          {
+            "content": "музичар",
+            "isCorrect": false
+          },
+          {
+            "content": "генерал",
+            "isCorrect": false
+          },
+          {
+            "content": "граматичар",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "topic": "Граѓанската Војна во САД",
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "Кога умрел Абрахам Линколн (година)? 1865 или 1866 година?",
+        "answers": [
+          {
+            "content": "1865",
+            "isCorrect": true
+          },
+          {
+            "content": "1866",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 2,
+        "question": "Кога правно заврши Граѓанската војна? 1865 или 1866 година?",
+        "answers": [
+          {
+            "content": "1865",
+            "isCorrect": false
+          },
+          {
+            "content": "1866",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 3,
+        "question": "Како се викале војниците од север? Синдикатите или Конфедерациите?",
+        "answers": [
+          {
+            "content": "Синдикатите",
+            "isCorrect": true
+          },
+          {
+            "content": "Конфедерациите",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 4,
+        "question": "Како се викале војниците од Југот? Синдикатите или Конфедерациите?",
+        "answers": [
+          {
+            "content": "Синдикатите",
+            "isCorrect": false
+          },
+          {
+            "content": "Конфедерациите",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": 5,
+        "question": "Кој беше претседател на Синдикатот? Абрахам Линколн или Џеферсон Дејвис",
+        "answers": [
+          {
+            "content": "Абрахам Линколн",
+            "isCorrect": true
+          },
+          {
+            "content": "Џеферсон Дејвис",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Кој победи во Граѓанската војна? Унионистите или Конфедеративците?",
+        "answers": [
+          {
+            "content": "Унионистите",
+            "isCorrect": true
+          },
+          {
+            "content": "Конфедеративците",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -3643,144 +3643,144 @@
   },
   {
     "id": 27,
-    "topic": "La nascita del cristianesimo: i monasteri",
+    "topic": "La nascita del Cristianesimo: i Monasteri",
     "questions": [
       {
         "questionId": 1,
-        "question": "Nell'Alto Medioevo la Chiesa era rimasta l'unica istituzione con un'organizzazione stabile e solca/autoritaria e severa, che poteva garantire sicurezza e protezione agli abitanti del territorio, e divenne per questo motivo molto potente/temuta. In città essa era presente soprattutto con le sedi papali/vescovili, in campagna con i monasteri, nei quali i monaci vivevano in comunità/isolamento.",
+        "question": "Nell'Alto Medioevo, la Chiesa era rimasta l'unica istituzione con un'",
         "answers": [
           {
-            "content": "stable and ruthless organization",
+            "content": "organizzazione stabile e spietata",
             "isCorrect": true
           },
           {
-            "content": "authoritarian and strict organization",
+            "content": "organizzazione autoritaria e rigorosa",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "I monasteri ebbero una funzione molto importante: riuscirono a proteggere e sfamare/arricchire la popolazione, salvarono molte terre dall'abbandono, conservarono e diffusero la cultura/le tradizioni.",
+        "question": "che poteva garantire sicurezza e protezione agli abitanti del territorio, e per questa ragione divenne molto",
         "answers": [
           {
-            "content": "powerful",
+            "content": "potente",
             "isCorrect": true
           },
           {
-            "content": "feared",
+            "content": "temuta",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "In città essa era presente soprattutto con le sedi papali/vescovili, in campagna con i monasteri.",
+        "question": "Nelle città, era presente soprattutto nelle",
         "answers": [
           {
-            "content": "papal sees",
+            "content": "sedi papali",
             "isCorrect": false
           },
           {
-            "content": "episcopal sees",
+            "content": "sedi episcopali",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Nei monasteri, i monaci vivevano in comunità/isolamento.",
+        "question": "nella campagna, nei monasteri, dove i monaci vivevano in",
         "answers": [
           {
-            "content": "community",
+            "content": "comunità",
             "isCorrect": true
           },
           {
-            "content": "isolation",
+            "content": "isolamento",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "I monasteri riuscirono a proteggere e sfamare/arricchire la popolazione.",
+        "question": "I monasteri avevano una funzione molto importante: riuscivano a proteggere e a",
         "answers": [
           {
-            "content": "feed",
+            "content": "nutrire",
             "isCorrect": true
           },
           {
-            "content": "enrich",
+            "content": "arricchire",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "I monasteri salvarono molte terre dall'abbandono, conservarono e diffusero la cultura/le tradizioni.",
+        "question": "la popolazione, salvavano molte terre dall'abbandono, preservavano e diffondevano",
         "answers": [
           {
-            "content": "culture",
+            "content": "la cultura",
             "isCorrect": true
           },
           {
-            "content": "traditions",
+            "content": "le tradizioni",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "I primi monasteri vennero fondati dall'ordine dei francescani/benedettini.",
+        "question": "I primi monasteri furono fondati per ordine dei",
         "answers": [
           {
-            "content": "Franciscans",
+            "content": "Francescani",
             "isCorrect": false
           },
           {
-            "content": "Benedictines",
+            "content": "Benedettini",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "Il fondatore dei primi monasteri fu Benedetto da Norcia/Francesco d'Assisi.",
+        "question": "Il fondatore,",
         "answers": [
           {
-            "content": "Benedict of Nursia",
+            "content": "Benedetto di Norcia",
             "isCorrect": true
           },
           {
-            "content": "Francis of Assisi",
+            "content": "Francesco d'Assisi",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Nella Regola scritta dal fondatore, ai monaci veniva chiesto di obbedire al signore della curtis/all'abate.",
+        "question": "scrisse una Regola, nella quale ai monaci veniva chiesto di sottomettersi a",
         "answers": [
           {
-            "content": "the lord of the curtis",
+            "content": "il signore del feudo",
             "isCorrect": false
           },
           {
-            "content": "the abbot",
+            "content": "l'abate",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Nella Regola scritta dal fondatore, ai monaci veniva chiesto di praticare la povertà e la castità, di seguire il motto ora et labora, cioè di dedicarsi in ugual modo alla preghiera e al lavoro/più al lavoro che alla preghiera.",
+        "question": "a praticare la povertà e la castità, a seguire il motto ora et labora, cioè a dedicarsi",
         "answers": [
           {
-            "content": "to prayer and work",
+            "content": "alla preghiera e al lavoro",
             "isCorrect": true
           },
           {
-            "content": "more to work than to prayer",
+            "content": "più al lavoro che alla preghiera",
             "isCorrect": false
           }
         ]

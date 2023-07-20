@@ -13,6 +13,9 @@ function App() {
   let contrast = JSON.parse(localStorage.getItem("isHighContrastOn"))
   let fontSize = parseInt(localStorage.getItem("fontSize"))
   let language = localStorage.getItem("language")
+  if(language === null) {
+    localStorage.setItem("language", "en")
+  }
   let size = 100
     switch (fontSize) {
       case 3:
@@ -28,6 +31,7 @@ function App() {
         size=100
         break;
     }
+    console.log(localStorage.getItem("language"))
   const [hightContrast, setHighContrast] = useState(contrast?contrast:false)
   const [userfontSize, setUserFontSize] = useState(size)
   const [userLanguage, setUserLanguage] = useState(language?language:"en")
