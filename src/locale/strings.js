@@ -96,6 +96,38 @@ const strings = new LocalizedStrings({
         yourAnswers: "Вашите одговори",
         corrShort: "точни",
         wrongShort: "неточни"
+    },
+    pl: {
+        start: "start",
+        quiz:"Quiz:",
+        pick: "Wybierz temat quizu",
+        language: 'Język',
+        requirement: "Aby zdać quiz, musisz uzyskać co najmniej 75% poprawnych odpowiedzi.",
+        startQuiz: "Rozpocznij quiz",
+        continue: "Kontynuuj",
+        content: "zawartość",
+        next: "następne",
+        finish: "Zakończ",
+        goBack: "Wróć",
+        congratulations: "Gratulacje",
+        unfortunately: "Niestety",
+        points: "punktów",
+        passed: "Zdałeś quiz z wynikiem",
+        failed: "Nie zdałeś quizu. Twój wynik to",
+        download: "Możesz pobrać dokument z potwierdzeniem z twoimi odpowiedziami tutaj:",
+        tryAgain: "Możesz spróbować ponownie",
+        certificate: 'Certyfikat',
+        question: "Pytanie: ",
+        outOf: 'z',
+        multipleSelection: "(więcej niż jedna poprawna odpowiedź)",
+        correct: "Poprawna odpowiedź!",
+        wrong: "Błędna odpowiedź!",
+        corr: "Poprawna: ",
+        loadDoc: "Ładowanie dokumentu...",
+        dldNow: "Pobierz teraz!",
+        yourAnswers: "Twoje odpowiedzi",
+        corrShort: "poprawne",
+        wrongShort: "błędne"
     }
 });
 

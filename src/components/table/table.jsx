@@ -4,7 +4,7 @@ import TableRow from "./table-row";
 const Table = (props) => {
    return (
        <div>
-           <ul className="list-group">
+           <ul className="list-group" style={{minWidth:"25vw"}}>
                {props.answers.map((elem, key) => {
                    return <TableRow
                        checkAnswer={props.checkAnswer}

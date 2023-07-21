@@ -60,6 +60,13 @@ const ComponentQuiz = (props) => {
                         setQuestion(data[id - 1].questions[currentIndex])
                         setIsReady(true)
                         break;
+                    case "pl":
+                        data = require('../data/pl/quiz.json')
+                        setQuiz(data)
+                        strings.setLanguage(language)
+                        setQuestion(data[id - 1].questions[currentIndex])
+                        setIsReady(true)
+                        break;
                     default:
                         data = require('../data/en/quiz.json')
                         setQuiz(data)
@@ -146,7 +153,7 @@ const ComponentQuiz = (props) => {
                 <Question
                     language={language}
                     className="col-12"
-                    currentQuestion={currentQuestion.question}
+                    currentQuestion={currentQuestion}
                     currentIndex={currentIndex + 1}
                     allQuestions={quiz[id - 1].questions.length}
                     multipleSelection={correctNumber}>

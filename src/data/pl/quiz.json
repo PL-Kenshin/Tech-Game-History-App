@@ -1,162 +1,162 @@
 [
   {
     "id": 1,
-    "topic": "La Prima Guerra Mondiale",
+    "topic": "I Wojna Światowa",
     "questions": [
       {
         "questionId": 1,
-        "question": "Una delle cause della Prima Guerra Mondiale fu:",
+        "question": "Przyczyną I Wojny Światowej było:",
         "answers": [
           {
-            "content": "Il desiderio di espansione delle grandi potenze",
+            "content": "pragnienie ekspansji wielkich mocarstw",
             "isCorrect": true
           },
           {
-            "content": "L'assassinio del Principe Ereditario della Serbia",
+            "content": "zamach na Księcia Serbii",
             "isCorrect": false
           },
           {
-            "content": "Il lancio della bomba atomica",
+            "content": "zrzucenie bomby atomowej",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Un'altra causa della Prima Guerra Mondiale fu:",
+        "question": "Innym powodem rozpoczęcia I Wojny Światowej było:",
         "answers": [
           {
-            "content": "Il desiderio di espansione delle piccole potenze",
+            "content": "pragnienie ekspansji pomniejszych mocarstw",
             "isCorrect": false
           },
           {
-            "content": "L'assassinio dell'Arciduca Francesco Ferdinando, erede al trono austro-ungarico, a Sarajevo fu la scintilla",
+            "content": "zamach w Sarajewie na Arcyksięcia Franciszka Ferdynanda",
             "isCorrect": true
           },
           {
-            "content": "L'invenzione del computer",
+            "content": "wynalezienie pierwszego komputera",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Quali erano gli stati membri dell'Intesa?",
+        "question": "Sojusze podczas I wojny światowej, państwa członkowskie Ententy to:",
         "answers": [
           {
-            "content": "Inghilterra, Francia, Russia",
+            "content": "Anglia, Francja, Rosja",
             "isCorrect": true
           },
           {
-            "content": "Russia, Francia, Germania",
+            "content": "Rosja, Francja, Niemcy",
             "isCorrect": false
           },
           {
-            "content": "Inghilterra, Bulgaria, Paesi Bassi",
+            "content": "Anglia, Bułgaria, Holandia",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Quali erano gli stati membri dei Poteri Centrali?",
+        "question": "Państwa Centralne podczas I Wojny Światowej to:",
         "answers": [
           {
-            "content": "Inghilterra, Francia, Russia",
+            "content": "Anglia, Francja, Rosja",
             "isCorrect": false
           },
           {
-            "content": "Bulgaria, Impero Austro-Ungarico, Germania, Impero Ottomano",
+            "content": "Bułgaria, Austro-Węgry, Niemcy, Imperium Osmańskie",
             "isCorrect": true
           },
           {
-            "content": "Germania, Bulgaria, Francia",
+            "content": "Niemcy, Bułgaria, Francja",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "I due fronti principali della guerra erano:",
+        "question": "Dwoma głównymi frontami wojny były:",
         "answers": [
           {
-            "content": "Fronte Occidentale e Fronte Orientale",
+            "content": "Front Wschodni i Front Zachodni",
             "isCorrect": true
           },
           {
-            "content": "Fronte Settentrionale e Fronte Meridionale",
+            "content": "Front Południowy i Front Północny",
             "isCorrect": false
           },
           {
-            "content": "Fronte diurno e Fronte notturno",
+            "content": "Front Nocny i Front Dzienny",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Nel 1916 si sono svolte due grandi battaglie sul fronte occidentale, con numerose vittime da entrambe le parti:",
+        "question": "W 1916 roku na froncie zachodnim rozegrały się dwie duże bitwy, w wyniku których oba obozy poniosły wiele ofiar:",
         "answers": [
           {
-            "content": "Mărăști, Mărășești e Oituz",
+            "content": "Mărăști, Mărășești oraz Oituz",
             "isCorrect": false
           },
           {
-            "content": "Le battaglie di Verdun e della Somme",
+            "content": "Bitwy pod Verdun i nad Sommą",
             "isCorrect": true
           },
           {
-            "content": "Vienna e Berlino",
+            "content": "Wiedeń i Berlin",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Vero o falso: Nel 1916, gli Stati Uniti entrarono in guerra.",
+        "question": "Stany Zjednoczone Ameryki dołączyły do wojny w 1916 roku.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "La Russia uscì dalla Prima Guerra Mondiale nel 1918 tramite:",
+        "question": "Rosja zakończyła I Wojnę Światową w 1918 roku dzięki:",
         "answers": [
           {
-            "content": "Il trattato di pace di Brest-Litovsk",
+            "content": "Pokój w Brześciu Litewskim",
             "isCorrect": true
           },
           {
-            "content": "L'armistizio di Compiègne",
+            "content": "Rozejm w Compiègne",
             "isCorrect": false
           },
           {
-            "content": "La pace di Yalta",
+            "content": "Pokój Jałtański",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "La Prima Guerra Mondiale terminò nel:",
+        "question": "I Wojna Światowa zakończyła się w:",
         "answers": [
           {
-            "content": "1818",
+            "content": "1818 roku",
             "isCorrect": false
           },
           {
-            "content": "1918",
+            "content": "1918 roku",
             "isCorrect": true
           },
           {
-            "content": "1718",
+            "content": "1718 roku",
             "isCorrect": false
           }
         ]
@@ -165,91 +165,91 @@
   },
   {
     "id": 2,
-    "topic": "La Seconda Guerra Mondiale",
+    "topic": "II Wojna Światowa",
     "questions": [
       {
         "questionId": 1,
-        "question": "Una delle cause della Seconda Guerra Mondiale fu:",
+        "question": "Jedną z przyczyn wybuchu II Wojny Światowej było:",
         "answers": [
           {
-            "content": "La lotta per i territori e le sfere di influenza da parte degli stati totalitari",
+            "content": "Walka o terytoria i strefy wpływów państw totalitarnych",
             "isCorrect": true
           },
           {
-            "content": "La battaglia di Stalingrado",
+            "content": "Bitwa o Stalingrad",
             "isCorrect": false
           },
           {
-            "content": "Le bombe atomiche sganciate su Hiroshima e Nagasaki",
+            "content": "Zrzucenie bomby na Hiroszimę i Nagasaki",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Un'altra causa della Seconda Guerra Mondiale fu:",
+        "question": "Kolejną przyczyną wybuchu II Wojny Światowej było:",
         "answers": [
           {
-            "content": "L'attacco giapponese a Pearl Harbor, USA",
+            "content": "Atak Japonii na Pearl Harbor, Stany Zjednoczone",
             "isCorrect": false
           },
           {
-            "content": "Lo sbarco in Normandia",
+            "content": "Lądowania w Normandii",
             "isCorrect": false
           },
           {
-            "content": "Le azioni revisioniste di Hitler",
+            "content": "Działania rewizjonistyczne Hitlera",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Quali sono i membri degli Axis Powers?",
+        "question": "Dwa sojusze to:",
         "answers": [
           {
-            "content": "Germania, Italia, Giappone",
+            "content": "Państwa Osi (Niemcy, Włochy, Japonia)",
             "isCorrect": true
           },
           {
-            "content": "Regno Unito, Unione Sovietica, Stati Uniti, Francia",
+            "content": "Koalicja Narodów Zjednoczonych (Wielka Brytania, Związek Radziecki, USA, Francja)",
             "isCorrect": false
           },
           {
-            "content": "Italia, Francia, Stati Uniti",
+            "content": "Włochy, Francja, USA",
             "isCorrect": false
           },
           {
-            "content": "USA, Regno Unito, Italia",
+            "content": "USA, Wielka Brytania, Włochy",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Quali sono i membri della Coalizione delle Nazioni Unite?",
+        "question": "Kim są członkowie Koalicji Narodów Zjednoczonych?",
         "answers": [
           {
-            "content": "Germania, Italia, Giappone",
+            "content": "Niemcy, Włochy, Japonia",
             "isCorrect": false
           },
           {
-            "content": "Regno Unito, Unione Sovietica, Stati Uniti, Francia",
+            "content": "Wielka Brytania, Związek Radziecki, USA, Francja",
             "isCorrect": true
           },
           {
-            "content": "Italia, Francia, Stati Uniti",
+            "content": "Włochy, Francja, USA",
             "isCorrect": false
           },
           {
-            "content": "USA, Regno Unito, Italia",
+            "content": "USA, Wielka Brytania, Włochy",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "La guerra iniziò con l'attacco della Germania alla Polonia nell'anno:",
+        "question": "Wojna rozpoczyna się atakiem Niemiec na Polskę w roku:",
         "answers": [
           {
             "content": "1839",
@@ -267,43 +267,43 @@
       },
       {
         "questionId": 6,
-        "question": "Attraverso l'Operazione Barbarossa, la Germania attacca:",
+        "question": "Poprzez operację Barbarossa Niemcy atakują:",
         "answers": [
           {
             "content": "USA",
             "isCorrect": false
           },
           {
-            "content": "URSS",
+            "content": "ZSRR",
             "isCorrect": true
           },
           {
-            "content": "Gran Bretagna",
+            "content": "Wielką Brytanię",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "L'evento che fece entrare gli USA in guerra fu:",
+        "question": "Wydarzeniem, które spowodowało przystąpienie USA do wojny było:",
         "answers": [
           {
-            "content": "Lo scoppio della seconda guerra mondiale",
+            "content": "Wybuch drugiej wojny światowej",
             "isCorrect": false
           },
           {
-            "content": "L'attacco alla base americana di Pearl Harbor",
+            "content": "Atak na Pearl Harbor, amerykańską bazę",
             "isCorrect": true
           },
           {
-            "content": "La battaglia di Stalingrado",
+            "content": "Bitwa pod Stalingradem",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "La principale battaglia navale che cambiò il corso della Seconda Guerra Mondiale nel teatro del Pacifico fu:",
+        "question": "Główną bitwą morską, która zmieniła przebieg II wojny światowej na Pacyfiku, była:",
         "answers": [
           {
             "content": "Pearl Harbor",
@@ -314,28 +314,28 @@
             "isCorrect": true
           },
           {
-            "content": "Washington",
+            "content": "Waszyngton",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Rispondi vero o falso: La battaglia di Stalingrado si svolse sul territorio dell'URSS",
+        "question": "Bitwa pod Stalingradem miała miejsce na terytorium ZSRR",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Lo sbarco in Normandia avvenne nell'anno:",
+        "question": "Lądowanie w Normandii odbyło się w roku:",
         "answers": [
           {
             "content": "1944",
@@ -353,28 +353,28 @@
       },
       {
         "questionId": 11,
-        "question": "Rispondi vero o falso: La cattura di Berlino da parte delle Nazioni Unite porterà alla capitolazione dell'Italia.",
+        "question": "Zdobycie Berlina przez Koalicję Narodów Zjednoczonych doprowadzi do kapitulacji Włoch.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 12,
-        "question": "Le due bombe atomiche che posero fine alla Seconda Guerra Mondiale furono sganciate sulle città giapponesi di Hiroshima e Nagasaki.",
+        "question": "Dwie bomby atomowe, które zakończyły II wojnę światową, zostały zrzucone na japońskie miasta Hiroszima i Nagasaki.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -383,74 +383,74 @@
   },
   {
     "id": 3,
-    "topic": "La Guerra Fredda",
+    "topic": "Zimna Wojna",
     "questions": [
       {
         "questionId": 1,
-        "question": "La Guerra Fredda fu una rivalità geopolitica tra due paesi: gli Stati Uniti e l'Unione Sovietica.",
+        "question": "Zimna wojna była ciągłą rywalizacją geopolityczną między dwoma krajami: USA i Związkiem Radzieckim.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "La Guerra Fredda iniziò intorno al 1950, con l'introduzione della Dottrina Truman e del Piano Marshall.",
+        "question": "Zimna wojna rozpoczęła się około 1950 roku wraz z wprowadzeniem doktryny Trumana i planu Marshalla.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Nel 1949 gli Stati Uniti e i loro alleati europei formarono l'Organizzazione del Trattato del Nord Atlantico (NATO) per proteggersi in caso di attacco.",
+        "question": "W 1949 roku Stany Zjednoczone i ich europejscy sojusznicy utworzyli Organizację Traktatu Północnoatlantyckiego (NATO), aby chronić się w razie ataku.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Gli Stati Uniti non volevano che il comunismo si diffondesse in altri paesi europei e quindi diedero soldi a molti paesi per la ricostruzione post guerra. Questa operazione è stata chiamata Piano Marshall da George Marshall, l'americano che ha proposto il piano.",
+        "question": "Stany Zjednoczone nie chciały, aby komunizm rozprzestrzenił się na inne kraje w Europie. Dlatego przekazywały pieniądze tym krajom na odbudowę po wojnie. Było to nazywane Planem Marshalla na cześć George'a Marshalla, Amerykanina, który zaproponował ten plan.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "La Guerra Fredda terminò nel 1980, dopo il crollo e la dissoluzione dell'Unione Sovietica.",
+        "question": "Zimna wojna zakończyła się w 1980 roku po upadku i rozpadzie Związku Radzieckiego.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
@@ -459,280 +459,280 @@
   },
   {
     "id": 4,
-    "topic": "La rivoluzione industriale (parte 1)",
+    "topic": "Rewolucja przemysłowa (część 1)",
     "questions": [
       {
         "questionId": 1,
-        "question": "Che tipo di fonti utili alla conoscenza storica sono state trovate nel XIX secolo?",
+        "question": "Jaki nowy typ źródeł wiedzy historycznej stał się dostępny w XIX wieku?",
         "answers": [
           {
-            "content": "Televisione a colori",
+            "content": "Telewizja kolorowa",
             "isCorrect": false
           },
           {
-            "content": "Stato civile",
+            "content": "Rejestr stanu cywilnego",
             "isCorrect": false
           },
           {
-            "content": "Stampa di massa",
+            "content": "Prasa masowa",
             "isCorrect": false
           },
           {
-            "content": "Stato civile, stampa di massa e mezzi audiovisivi",
+            "content": "Rejestr stanu cywilnego, prasa masowa i media audiowizualne",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Nel XVIII secolo, l'ordine dominante ovunque nell'Europa occidentale si basa ancora sulla guida suprema del monarca.",
+        "question": "W XVIII wieku porządek panujący w całej Europie Zachodniej nadal opiera się na suwerennym przywództwie monarchy.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Questa situazione continuò nel XIX secolo.",
+        "question": "Stan ten utrzymywał się do XIX wieku.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "La Francia del XIX secolo accettò la situazione politica del XVIII secolo?",
+        "question": "Czy ludzie we Francji w XIX wieku nie zgadzali się z sytuacją polityczną XVIII wieku?",
         "answers": [
           {
-            "content": "Accettò la situazione politica",
+            "content": "Zgadzali się z sytuacją polityczną",
             "isCorrect": false
           },
           {
-            "content": "Accettò, ma chiese qualche possibilità di migliorare la vita quotidiana",
+            "content": "Zgadzali się, ale prosił o szansę na poprawę codziennego życia",
             "isCorrect": false
           },
           {
-            "content": "Non accettò e iniziò una rivolta",
+            "content": "Nie zgadzając się z sytuacją polityczną XVIII w. we Francji, wzniecili bunt",
             "isCorrect": true
           },
           {
-            "content": "Non accettò e non fece nulla al riguardo",
+            "content": "Nie zgadzali się i nic z tym nie zrobili",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Quando i diritti e gli uffici divennero accessibili alla cittadinanza, ci fu una maggiore e duratura libertà per tutti.",
+        "question": "Po przyznaniu praw i urzędów obywatelom, doprowadziło to do większej i trwałej wolności dla wszystkich.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Cosa successe dopo l'ultima guerra napoleonica?",
+        "question": "Co się stało po ostatniej wojnie napoleońskiej?",
         "answers": [
           {
-            "content": "Tutte le nazioni europee tornarono libere e poterono di nuovo usufruire dei loro diritti acquisiti.",
+            "content": "Wszystkie narody europejskie odzyskały wolność i ponownie mogły korzystać z nabytych praw.",
             "isCorrect": false
           },
           {
-            "content": "Tutte le nazioni europee furono di nuovo libere e in grado di agire, ma la vecchia situazione politica ritornò in vigore.",
+            "content": "Wszystkie narody europejskie znów były wolne i sprawne, ale znowu weszła w życie stara sytuacja polityczna.",
             "isCorrect": false
           },
           {
-            "content": "Tutte le nazioni europee furono di nuovo libere e in grado di agire, ma la vecchia situazione politica ritornò in vigore, seppur per un periodo relativamente breve.",
+            "content": "Wszystkie narody europejskie znów były wolne i zdolne, ale znowu zaczęła obowiązywać stara sytuacja polityczna, ale na stosunkowo krótki okres.",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Nel XIX secolo, i paesi iniziarono a colonizzare i territori d'oltremare.",
+        "question": "W XIX wieku kraje te zaczęły kolonizować terytoria zamorskie.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "La schiavitù fu abolita nel XIX secolo perché gli schiavi non erano più necessari.",
+        "question": "Niewolnictwo zostało zniesione w XIX wieku, ponieważ niewolnicy nie byli już potrzebni.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Cosa ha innescato l'industrializzazione nel XIX secolo?",
+        "question": "Co zapoczątkowało industrializację w XIX wieku?",
         "answers": [
           {
-            "content": "Abolizione della schiavitù",
+            "content": "Zniesienie niewolnictwa",
             "isCorrect": false
           },
           {
-            "content": "L'uso dei telai",
+            "content": "Użycie krosien",
             "isCorrect": false
           },
           {
-            "content": "L'invenzione della macchina a vapore",
+            "content": "Wynalezienie silnika parowego",
             "isCorrect": true
           },
           {
-            "content": "Costruzione di linee ferroviarie",
+            "content": "Budowa linii kolejowych",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Quali caratteristiche sono associate all'industrializzazione?",
+        "question": "Cechą charakterystyczną industrializacji jest",
         "answers": [
           {
-            "content": "Tutta la produzione avveniva in casa",
+            "content": "Cała produkcja zlokalizowana w domu",
             "isCorrect": false
           },
           {
-            "content": "Tutta la produzione era su piccola scala",
+            "content": "Cała produkcja na małą skalę",
             "isCorrect": false
           },
           {
-            "content": "Produzione di massa centralizzata nelle città",
+            "content": "Masowa produkcja, która jest scentralizowana w miastach",
             "isCorrect": false
           },
           {
-            "content": "Produzione di massa centralizzata nelle fabbriche",
+            "content": "Masowa produkcja, która jest scentralizowana w fabrykach",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 11,
-        "question": "Si creano aree industriali specializzate in determinati settori, con ampie aree di vendita, con conseguente forte aumento del traffico di merci.",
+        "question": "Powstają obszary przemysłowe, z dużymi powierzchniami sprzedażowymi, co skutkuje silnym wzrostem ruchu towarowego.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 12,
-        "question": "In che modo l'industrializzazione ha coinvolto anche l'agricoltura?",
+        "question": "W jaki sposób uprzemysłowienie wślizgnęło się także do rolnictwa?",
         "answers": [
           {
-            "content": "Nuovi animali sono stati introdotti nelle mandrie",
+            "content": "Do stad wprowadzono nowe zwierzęta",
             "isCorrect": false
           },
           {
-            "content": "Sono state introdotte nuove colture per nutrire più persone",
+            "content": "Uprawiano nowe uprawy, aby wyżywić więcej ludzi",
             "isCorrect": false
           },
           {
-            "content": "Gli agricoltori sono stati sostituiti da robot per una maggiore produzione alimentare per la popolazione in crescita",
+            "content": "Rolnicy zostali zastąpieni przez roboty dla wyższej produkcji żywności",
             "isCorrect": false
           },
           {
-            "content": "L'invenzione di nuove colture per una maggiore produzione di alimenti di base",
+            "content": "Wynalezienie nowych upraw dla wyższej produkcji artykułów spożywczych",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 13,
-        "question": "L'industrializzazione ha avuto e ha anche conseguenze positive per l'ambiente.",
+        "question": "Uprzemysłowienie miało i ma również pozytywne skutki dla środowiska.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 14,
-        "question": "L'industrializzazione ha avuto e ha avuto una grande influenza sul paesaggio delle aree urbane e rurali.",
+        "question": "Uprzemysłowienie miało i ma ogromny wpływ na krajobraz obszarów miejskich i wiejskich.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 15,
-        "question": "La rivoluzione industriale ha portato subito prosperità a tutti.",
+        "question": "Rewolucja przemysłowa natychmiast przyniosła wszystkim dobrobyt.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 16,
-        "question": "In che modo la rivoluzione industriale ha contribuito a dare pari diritti alle donne?",
+        "question": "W jaki sposób rewolucja przemysłowa pomogła zapewnić kobietom równe prawa?",
         "answers": [
           {
-            "content": "Ha creato una consapevolezza di uno standard morale più elevato",
+            "content": "Stworzyło to świadomość wyższego standardu moralnego",
             "isCorrect": false
           },
           {
-            "content": "Non c'erano abbastanza lavoratori per fare tutto il lavoro",
+            "content": "Brakowało pracowników do wykonania całej pracy",
             "isCorrect": true
           },
           {
-            "content": "Le donne sono migliori per il lavoro nell'industria",
+            "content": "Kobiety lepiej nadają się do pracy w przemyśle",
             "isCorrect": false
           },
           {
-            "content": "Le donne non erano più necessarie per prendersi cura dei bambini",
+            "content": "Kobiety nie były już potrzebne do opieki nad dziećmi",
             "isCorrect": false
           }
         ]
@@ -741,106 +741,106 @@
   },
   {
     "id": 5,
-    "topic": "La rivoluzione industriale (parte 2)",
+    "topic": "Rewolucja przemysłowa (część 2)",
     "questions": [
       {
         "questionId": 1,
-        "question": "Che cosa è stata la rivoluzione industriale?",
+        "question": "Czym była rewolucja przemysłowa?",
         "answers": [
           {
-            "content": "La nascita delle automobili",
+            "content": "Narodziny samochodów",
             "isCorrect": false
           },
           {
-            "content": "La diffusione della produzione di massa",
+            "content": "Rozpowszechnienie masowej produkcji",
             "isCorrect": true
           },
           {
-            "content": "L'inizio dell'America",
+            "content": "Początki Ameryki",
             "isCorrect": false
           },
           {
-            "content": "L'inizio di Walmart",
+            "content": "Początki Walmartu",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Dove è iniziata la rivoluzione industriale?",
+        "question": "Gdzie rozpoczęła się rewolucja przemysłowa?",
         "answers": [
           {
-            "content": "America",
+            "content": "Ameryka",
             "isCorrect": false
           },
           {
-            "content": "Africa",
+            "content": "Afryka",
             "isCorrect": false
           },
           {
-            "content": "Francia",
+            "content": "Francja",
             "isCorrect": false
           },
           {
-            "content": "Gran Bretagna",
+            "content": "Wielka Brytania",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Perché la rivoluzione industriale è importante per la storia?",
+        "question": "Dlaczego rewolucja przemysłowa jest ważna dla historii?",
         "answers": [
           {
-            "content": "Non lo è.",
+            "content": "Nie jest.",
             "isCorrect": false
           },
           {
-            "content": "Perché le invenzioni della rivoluzione hanno portato alle invenzioni di oggi.",
+            "content": "Ponieważ wynalazki rewolucji doprowadziły do wynalazków dnia dzisiejszego.",
             "isCorrect": true
           },
           {
-            "content": "Perché ha reso l'America migliore della Francia.",
+            "content": "Bo to uczyniło Amerykę lepszą od Francji.",
             "isCorrect": false
           },
           {
-            "content": "Perché da allora sono successe molte cose importanti.",
+            "content": "Bo wiele ważnych rzeczy wydarzyło się wtedy.",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Che tipo di ambiente di lavoro offrivano le fabbriche?",
+        "question": "Jakie środowisko pracy zapewniały fabryki?",
         "answers": [
           {
-            "content": "Aria condizionata, pulizia e divertimento",
+            "content": "Klimatyzowane, czyste i zabawne",
             "isCorrect": false
           },
           {
-            "content": "Caldo, pulizia e tante pause",
+            "content": "Gorąco, czysto i dużo przerw",
             "isCorrect": false
           },
           {
-            "content": "Umidità, polvere e una buona paga",
+            "content": "Wilgotne, zakurzone i dobrze płatne",
             "isCorrect": false
           },
           {
-            "content": "Caldo, sporcizia, aria di cattiva qualità",
+            "content": "Gorące, brudne, zła jakość powietrza",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Su quale dispositivo veicolare si trovava comunemente un motore a vapore?",
+        "question": "Na jakim urządzeniu samochodowym powszechnie znajdował się silnik parowy?",
         "answers": [
           {
-            "content": "Auto",
+            "content": "Samochód",
             "isCorrect": false
           },
           {
-            "content": "Treno",
+            "content": "Pociąg",
             "isCorrect": true
           },
           {
@@ -848,44 +848,44 @@
             "isCorrect": false
           },
           {
-            "content": "Aereo",
+            "content": "Samolot",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Quale dei seguenti ha contribuito a dare inizio alla rivoluzione industriale?",
+        "question": "Które z poniższych przyczyniło się do rozpoczęcia rewolucji przemysłowej?",
         "answers": [
           {
-            "content": "Le operazioni di recinzione",
+            "content": "Ruch klauzury",
             "isCorrect": false
           },
           {
-            "content": "L'approvazione del pacchetto economico di Obama",
+            "content": "Uchwalony pakiet bodźców gospodarczych Oboma",
             "isCorrect": false
           },
           {
-            "content": "La costituzione degli Stati Uniti d'America",
+            "content": "Konstytucja Stanów Zjednoczonych Ameryki",
             "isCorrect": false
           },
           {
-            "content": "La Legge sulle fabbriche del 1883",
+            "content": "Ustawa o fabrykach z 1883 r",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Fonti energetiche rinnovabili (FER):\n\nSole, vento, acqua, biocarburanti, biomasse, energia nucleare - sono queste Fonti Energetiche Rinnovabili?",
+        "question": "Odnawialne Źródła Energii (OZE):\n\nSłońce, wiatr, woda, biopaliwa, biomasa, energia jądrowa - czy to są Odnawialne Źródła Energii?",
         "image":"1.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -894,136 +894,136 @@
   },
   {
     "id": 6,
-    "topic": "La rivoluzione francese",
+    "topic": "Rewolucja francuska",
     "questions": [
       {
         "questionId": 1,
-        "question": "Nel 700, in Francia, chi godeva di particolari privilegi?",
+        "question": "Kto cieszył się przywilejami we Francji w XVIII wieku?",
         "answers": [
           {
-            "content": "I borghesi",
+            "content": "Burżuazja",
             "isCorrect": false
           },
           {
-            "content": "I nobili ed il clero",
+            "content": "Szlachta i duchowieństwo",
             "isCorrect": true
           },
           {
-            "content": "Il popolo",
+            "content": "Ludność",
             "isCorrect": false
           },
           {
-            "content": "Il Papa",
+            "content": "Papież",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Quale assemblea venne convocata in Francia per risolvere la crisi economica?",
+        "question": "Jakie zgromadzenie zwołano we Francji w celu rozwiązania kryzysu gospodarczego?",
         "answers": [
           {
-            "content": "L'Assemblea degli Stati regionali",
+            "content": "Zgromadzenie Państw Regionalnych",
             "isCorrect": false
           },
           {
-            "content": "L'Assemblea delle province regionali",
+            "content": "Zgromadzenie prowincji regionalnych",
             "isCorrect": false
           },
           {
-            "content": "L'Assemblea delle province generali",
+            "content": "Zgromadzenie Prowincji Generalnych",
             "isCorrect": false
           },
           {
-            "content": "L'Assemblea degli Stati generali",
+            "content": "Zgromadzenie Stanów Generalnych",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "In che anno fu assalita ed espugnata la Bastiglia?",
+        "question": "W którym roku zaatakowano i przejęto Bastylię?",
         "answers": [
           {
-            "content": "Nel 1787",
+            "content": "1787",
             "isCorrect": false
           },
           {
-            "content": "Nel 1789",
+            "content": "1789",
             "isCorrect": true
           },
           {
-            "content": "Nel 1798",
+            "content": "1798",
             "isCorrect": false
           },
           {
-            "content": "Nel 1889",
+            "content": "1889",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "In che cosa venne trasformata la monarchia francese?",
+        "question": "W co przekształciła się monarchia francuska?",
         "answers": [
           {
-            "content": "In monarchia presidenziale",
+            "content": "W monarchię prezydencką",
             "isCorrect": false
           },
           {
-            "content": "In monarchia costituzionale",
+            "content": "W monarchię konstytucyjną",
             "isCorrect": true
           },
           {
-            "content": "In Repubblica",
+            "content": "W Republikę",
             "isCorrect": false
           },
           {
-            "content": "In federazione",
+            "content": "W federację",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Cosa successe al re di Francia durante la rivoluzione?",
+        "question": "Co się stało z francuskim królem podczas rewolucji?",
         "answers": [
           {
-            "content": "Fuggì",
+            "content": "Uciekł",
             "isCorrect": false
           },
           {
-            "content": "Si alleò con il Papa",
+            "content": "Sprzymierzył się z papieżem",
             "isCorrect": false
           },
           {
-            "content": "Organizzò proteste in piazza con l'aiuto dei soldati",
+            "content": "Organizował protesty uliczne z pomocą żołnierzy",
             "isCorrect": false
           },
           {
-            "content": "Fu condannato a morte",
+            "content": "Został skazany na śmierć",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Come fu chiamato il periodo di Robespierre?",
+        "question": "Jak nazywał się okres Robespierre'a?",
         "answers": [
           {
-            "content": "Della pace",
+            "content": "Pokój",
             "isCorrect": false
           },
           {
-            "content": "Della tregua",
+            "content": "Rozejm",
             "isCorrect": false
           },
           {
-            "content": "Illuminista",
+            "content": "Oświecenie",
             "isCorrect": false
           },
           {
-            "content": "Del terrore",
+            "content": "Terror",
             "isCorrect": true
           }
         ]
@@ -1032,18 +1032,18 @@
   },
   {
     "id": 7,
-    "topic": "La vita di Gesù e la nascita del Cristianesimo",
+    "topic": "Życie Jezusa i narodziny chrześcijaństwa",
     "questions": [
       {
         "questionId": 1,
-        "question": "Chi è il fondatore del Cristianesimo?",
+        "question": "Kto jest twórcą chrześcijaństwa?",
         "answers": [
           {
-            "content": "Gesù Cristo",
+            "content": "Jezus Chrystus",
             "isCorrect": true
           },
           {
-            "content": "Giudea",
+            "content": "Judea",
             "isCorrect": false
           },
           {
@@ -1054,60 +1054,60 @@
       },
       {
         "questionId": 2,
-        "question": "Chi è Gesù Cristo?",
+        "question": "Kim jest Jezus Chrystus?",
         "answers": [
           {
-            "content": "Gesù Cristo è il Figlio di Allah.",
+            "content": "Synem Allaha",
             "isCorrect": false
           },
           {
-            "content": "Gesù Cristo è il Figlio di Dio.",
+            "content": "Synem Boga",
             "isCorrect": true
           },
           {
-            "content": "Gesù Cristo è il Figlio di Giudea.",
+            "content": "Synem Judea",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "I cristiani credono che Gesù sia il Figlio di Dio. Seguono i suoi insegnamenti e quelli della chiesa cristiana. (Vero/Falso)",
+        "question": "Chrześcijanie to ludzie, którzy wierzą, że Jezus Chrystus jest Synem Bożym i postępują zgodnie z jego naukami oraz naukami kościołów chrześcijańskich. (P)",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Il luogo di culto cristiano è chiamato Moschea. (Vero/Falso)",
+        "question": "Chrześcijańskie miejsce kultu nazywa się meczetem.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Le due principali feste cristiane sono la Pasqua e il Natale. (Vero/Falso)",
+        "question": "Dwa główne święta chrześcijańskie to Wielkanoc i Boże Narodzenie.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -1116,60 +1116,60 @@
   },
   {
     "id": 8,
-    "topic": "La vita di Maometto e la nascita dell'Islam",
+    "topic": "Życie Mahometa i narodziny islamu",
     "questions": [
       {
         "questionId": 1,
-        "question": "Il profeta Maometto nacque nel 570 d.C. a Mecca. (Vero o Falso)",
+        "question": "Prorok Mahomet urodził się w 570 r. n.e. w Mekce.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "La parola araba 'Islam' significa sottomissione e obbedienza, e deriva da una parola che significa 'pace'. (Vero o Falso)",
+        "question": "Arabskie słowo 'islam' oznacza uległość i posłuszeństwo i wywodzi się od słowa oznaczającego 'pokój'.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "L'Islam si basa sul ministero di un uomo di nome Gesù e sulle parole che la Giudea ha dato al mondo attraverso Maometto. (Vero o falso)",
+        "question": "Islam opiera się na służbie człowieka o imieniu Jezus i na słowach, które Judea przekazała światu przez Mahometa.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Allah è il nome che i musulmani usano per il Dio supremo e unico, che ha creato e governa ogni cosa. (Vero o falso)",
+        "question": "Allah to imię używane przez muzułmanów na określenie najwyższego i jedynego Boga, który wszystko stworzył i rządzi. Sercem wiary wszystkich muzułmanów jest posłuszeństwo woli Allaha.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -1178,82 +1178,82 @@
   },
   {
     "id": 9,
-    "topic": "La prima Crociata: 1095-1099 (Francia, Turchia, Siria, Palestina, Israele)",
+    "topic": "Pierwsza krucjata: 1095-1099 (Francja, Turcja, Syria, Palestyna, Izrael)",
     "questions": [
       {
         "questionId": 1,
-        "question": "Gerusalemme era considerata sacra dai musulmani perché:",
+        "question": "Jerozolima była uważana przez muzułmanów za świętą, ponieważ:",
         "answers": [
           {
-            "content": "Il profeta Muhammad era nato lì.",
+            "content": "Tam urodził się prorok Mahomet",
             "isCorrect": false
           },
           {
-            "content": "Il profeta Muhammad era sepolto lì.",
+            "content": "Pochowano tam proroka Mahometa",
             "isCorrect": false
           },
           {
-            "content": "Il profeta Muhammad era asceso al cielo lì.",
+            "content": "Tam prorok Mahomet został wzniesiony do nieba",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "La Prima Crociata è iniziata nel 1096. (Vero o Falso)",
+        "question": "Pierwsza krucjata rozpoczęła się w roku 1096",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Una delle cause della Prima Crociata è stata la raccolta molto scarsa del 1095. (Vero o Falso)",
+        "question": "Jedną z przyczyn pierwszej krucjaty były bardzo słabe zbiory z 1095 roku",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "La chiamata alla Guerra Santa è stata lanciata da:",
+        "question": "Wezwanie do Świętej Wojny zostało ogłoszone przez:",
         "answers": [
           {
-            "content": "Alessio Comnen",
+            "content": "Aleksy Komnen",
             "isCorrect": false
           },
           {
-            "content": "Pietro l'Eremita",
+            "content": "Piotr Pustelnik",
             "isCorrect": false
           },
           {
-            "content": "Papa Urbano II",
+            "content": "Papież Urban II",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Lo scopo della Prima Crociata era di liberare la città santa di:",
+        "question": "Celem pierwszej krucjaty było uwolnienie świętego miasta od:",
         "answers": [
           {
-            "content": "Gerusalemme",
+            "content": "Jerozolimy",
             "isCorrect": true
           },
           {
-            "content": "Roma",
+            "content": "Rzymu",
             "isCorrect": false
           },
           {
@@ -1264,88 +1264,88 @@
       },
       {
         "questionId": 6,
-        "question": "La chiamata alla Guerra Santa è stata lanciata a Clermont. (Vero o Falso)",
+        "question": "Wezwanie do Świętej Wojny zostało ogłoszone w Clermont",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "I primi a iniziare la crociata furono i contadini. (Vero o Falso)",
+        "question": "Pierwsi do krucjaty przystąpili chłopi.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "Papa Urbano II guidò l'assedio di Gerusalemme. (Vero o Falso)",
+        "question": "Papież Urban II prowadzi oblężenie Jerozolimy.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Alla fine della Prima Crociata, Gerusalemme tornò sotto il dominio cristiano. (Vero o Falso)",
+        "question": "Pod koniec pierwszej krucjaty Jerozolima powróciła pod panowanie chrześcijan.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Gli stati crociati formatisi dopo la Prima Crociata furono:",
+        "question": "Państwa krzyżowców powstałe po pierwszej krucjacie to:",
         "answers": [
           {
-            "content": "Gerusalemme, Edessa, Tripoli, Antiochia",
+            "content": "Jerozolima, Edessa, Trypolis, Antiochia",
             "isCorrect": true
           },
           {
-            "content": "Bisanzio, Gerusalemme, Palestina, Egitto, Nicea, Costantinopoli, Selgiuk, Fatimid.",
+            "content": "Bizancjum, Jerozolima, Palestyna, Egipt, Nicea, Konstantynopol, Seldżukowie, Fatymidzi",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 11,
-        "question": "La parola 'crociato' significa:",
+        "question": "Słowo „krzyżowiec” oznacza:",
         "answers": [
           {
-            "content": "Partecipante alle crociate che indossa un segno di croce sul petto",
+            "content": "Uczestnik wypraw krzyżowych ze znakiem krzyża na piersi",
             "isCorrect": true
           },
           {
-            "content": "Storico che studia le cause, gli eventi e le conseguenze delle crociate",
+            "content": "Historyka badającego przyczyny, wydarzenia i skutki wypraw krzyżowych",
             "isCorrect": false
           },
           {
-            "content": "Una delle parti dell'armatura di un cavaliere a forma di croce",
+            "content": "Jeden z elementów rycerskiej zbroi, w kształcie krzyża",
             "isCorrect": false
           }
         ]
@@ -1354,74 +1354,74 @@
   },
   {
     "id": 10,
-    "topic": "L'ascesa e la caduta della civiltà azteca",
+    "topic": "Powstanie i upadek cywilizacji Azteków",
     "questions": [
       {
         "questionId": 1,
-        "question": "Gli Aztechi vivevano nell'attuale Messico. (Vero o Falso)",
+        "question": "Aztekowie mieszkali w dzisiejszym Meksyku.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Gli Aztechi avevano un calendario lunare. (Vero o Falso)",
+        "question": "Aztekowie mieli kalendarz księżycowy.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Cortez era di origine azteca. (Vero o Falso)",
+        "question": "Cortez był pochodzenia azteckiego.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "L'impero azteco crollò nel 1521. (Vero o Falso)",
+        "question": "Imperium Azteków upadło w 1521.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Gli spagnoli conquistarono l'impero azteco. (Vero o Falso)",
+        "question": "Hiszpanie przejęli imperium Azteków.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -1430,47 +1430,47 @@
   },
   {
     "id": 11,
-    "topic": "La peste nera (peste bubbonica) devasta l'Europa",
+    "topic": "Czarna śmierć (dżuma) pustoszy Europę",
     "questions": [
       {
         "questionId": 1,
-        "question": "Che cosa era la morte nera?",
+        "question": "Czym była czarna śmierć?",
         "answers": [
           {
-            "content": "Una peste che arrivò in Europa",
+            "content": "Zarazą, która dotarła do Europy",
             "isCorrect": true
           },
           {
-            "content": "Una peste che arrivò in Asia",
+            "content": "Zarazą, która dotarła do Azji",
             "isCorrect": false
           },
           {
-            "content": "Una peste che arrivò in Australia",
+            "content": "Zarazą, która dotarła do Australii",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Da dove veniva?",
+        "question": "Skąd wzięła się plaga?",
         "answers": [
           {
-            "content": "Europa e Africa",
+            "content": "Europy i Afryki",
             "isCorrect": false
           },
           {
-            "content": "Asia orientale e centrale",
+            "content": "Azji Wschodniej i Środkowej",
             "isCorrect": true
           },
           {
-            "content": "Nord e Sud America",
+            "content": "Ameryka Północna i Południowa",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "In quali anni la peste è stata peggiore in Europa?",
+        "question": "W jakich latach dżuma była najgorsza w Europie?",
         "answers": [
           {
             "content": "1175-1184",
@@ -1492,61 +1492,65 @@
       },
       {
         "questionId": 4,
-        "question": "La peste nera a volte veniva chiamata anche?",
+        "question": "Jak nazywano czasem czarną śmierć?",
         "answers": [
           {
-            "content": "Spagnola",
+            "content": "Hiszpanką",
             "isCorrect": false
           },
           {
-            "content": "Peste bubbonica",
+            "content": "Dżumą",
             "isCorrect": true
           },
           {
-            "content": "Influenza russa",
+            "content": "Rosyjską grypą",
             "isCorrect": false
           },
           {
-            "content": "COVID-19",
+            "content": "COVID 19",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Quale percentuale della popolazione europea ha ucciso la peste nera?",
+        "question": "Czarna śmierć zabiła mniej więcej jaki procent populacji w Europie?",
         "answers": [
           {
-            "content": "Un terzo",
-            "isCorrect": true
-          },
-          {
-            "content": "Un quarto",
+            "content": "1/2",
             "isCorrect": false
           },
           {
-            "content": "Un quinto",
+            "content": "1/3",
+            "isCorrect": true
+          },
+          {
+            "content": "1/4",
+            "isCorrect": false
+          },
+          {
+            "content": "1/5",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Quali furono i due problemi principali sia per i contadini che per la nobiltà durante la 'morte nera'?",
+        "question": "Jakie były dwa główne problemy zarówno chłopów, jak i szlachty podczas „czarnej śmierci”?",
         "answers": [
           {
-            "content": "Contadini - C'era carenza di persone per lavorare nei campi",
+            "content": "Chłopi - Brakowało ludzi do pracy w polu",
             "isCorrect": true
           },
           {
-            "content": "Nobili - Dovevano lavorare i loro campi (non erano abituati o non erano abbastanza bravi)",
+            "content": "Szlachcice - musieli pracować na swoich polach (nie byli do tego przyzwyczajeni lub wystarczająco dobrzy)",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Approssimativamente quale percentuale di europei è morta a causa della peste?",
+        "question": "W przybliżeniu jaki procent Europejczyków zmarł na dżumę?",
         "answers": [
           {
             "content": "30%",
@@ -1568,14 +1572,14 @@
       },
       {
         "questionId": 8,
-        "question": "Durante la peste nera c'erano medici della peste che si prendevano cura dei malati. (Vero o Falso)",
+        "question": "Podczas Czarnej Śmierci opiekowali się chorymi lekarze zarazy.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -1584,181 +1588,181 @@
   },
   {
     "id": 12,
-    "topic": "Il Rinascimento",
+    "topic": "Renesans",
     "questions": [
       {
         "questionId": 1,
-        "question": "Copernico conferma l'antica credenza che il Sole ruota intorno alla Terra",
+        "question": "Kopernik potwierdza starożytne przekonanie, że Słońce krąży wokół Ziemi",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Michelangelo dipinge la Gioconda",
+        "question": "Michał Anioł maluje Mona Lisę",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Leonardo da Vinci decora la Cappella Sistina",
+        "question": "Leonardo da Vinci udekorował Kaplicę Sykstyńską",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "La cultura del Rinascimento pone al centro l'uomo e la sua esistenza",
+        "question": "Kultura renesansu stawia w centrum człowieka i jego egzystencję",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Artisti, filosofi e poeti vengono mantenuti nelle corti",
+        "question": "Artyści, filozofowie, poeci goszczą na dworze",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "I castelli diventano luoghi di produzione culturale",
+        "question": "Zamki stają się miejscami produkcji kultury",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Quando è nato il movimento culturale dell'Umanesimo?",
+        "question": "Kiedy powstał ruch kulturowy humanizmu?",
         "answers": [
           {
-            "content": "Rinascimento",
+            "content": "Renesans",
             "isCorrect": true
           },
           {
-            "content": "Illuminismo",
+            "content": "Oświecenie",
             "isCorrect": false
           },
           {
-            "content": "Medioevo",
+            "content": "Średniowiecze",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "La conoscenza tecnico-pratica ha rifiutato le tradizioni del Medioevo. (Vero o Falso)",
+        "question": "Czy wiedza techno-praktyczna odrzucała tradycje średniowiecza?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Un aspetto importante nella diffusione del Rinascimento fu chiamato - Signorie",
+        "question": "Ważnym aspektem w dyfuzji renesansu był tzw. Signorie?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Cosa ricevevano gli artisti e gli scienziati dai signori per il loro lavoro?",
+        "question": "Co artyści i naukowcy otrzymywali od panów za swoją pracę?",
         "answers": [
           {
-            "content": "Protezione",
+            "content": "Ochrona",
             "isCorrect": false
           },
           {
-            "content": "Cura",
+            "content": "Opieka",
             "isCorrect": false
           },
           {
-            "content": "Tutela",
+            "content": "Mecenat",
             "isCorrect": false
           },
           {
-            "content": "Mecenatismo",
+            "content": "Patronat",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 11,
-        "question": "Cosa ha reso possibile la diffusione della cultura?",
+        "question": "Co sprawiło, że kultura rozpowszechniła się jeszcze bardziej?",
         "answers": [
           {
-            "content": "L'invenzione della penna",
+            "content": "Wynalezienie pióra",
             "isCorrect": false
           },
           {
-            "content": "La stampa a caratteri mobili",
+            "content": "Druk ruchomy",
             "isCorrect": true
           },
           {
-            "content": "Il maggiore accesso ai libri",
+            "content": "Większy dostęp do książek",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 12,
-        "question": "Chi ha inventato la stampa a caratteri mobili?",
+        "question": "Kto wynalazł ruchomą czcionkę?",
         "answers": [
           {
             "content": "Muller",
@@ -1782,98 +1786,98 @@
   },
   {
     "id": 13,
-    "topic": "Il tardo Rinascimento",
+    "topic": "Wiek odkrywców i reformatorów (1500-1600) Okres renesansu lub XVI wiek (1500-1600)",
     "questions": [
       {
         "questionId": 1,
-        "question": "Cosa ci ha aiutato di più a conoscere la Nuova Era?",
+        "question": "Co najbardziej pomogło nam poznać New Age?",
         "answers": [
           {
-            "content": "Scavi e resti",
+            "content": "Wykopaliska i pozostałości",
             "isCorrect": false
           },
           {
-            "content": "L'invenzione della stampa di libri",
+            "content": "Wynalezienie drukowania książek",
             "isCorrect": true
           },
           {
-            "content": "Tutti i tipi di edifici e oggetti",
+            "content": "Wszelkiego rodzaju budynki i obiekty",
             "isCorrect": false
           },
           {
-            "content": "Reperti archeologici",
+            "content": "Znaleziska archeologiczne",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "I viaggi di scoperta portano a:",
+        "question": "Odkrywcze wyprawy prowadzą do:",
         "answers": [
           {
-            "content": "Spedizione decisamente migliore",
+            "content": "Lepiej rozwinięta żegluga",
             "isCorrect": false
           },
           {
-            "content": "Migliori mestieri e scienza",
+            "content": "Lepsze rzemiosło i nauka",
             "isCorrect": false
           },
           {
-            "content": "Diffusione di culture",
+            "content": "Rozprzestrzenianie się kultur",
             "isCorrect": false
           },
           {
-            "content": "Contatti tra continenti che hanno influenzato la natura in diverse parti del mondo",
+            "content": "Kontakty między kontynentami, które wpłynęły na przyrodę w różnych częściach świata",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Il principale centro del commercio e dell'industria nella Nuova Era era nei Paesi Bassi",
+        "question": "Głównym ośrodkiem handlu i przemysłu w Nowej Epoce była Holandia.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Cosa è successo agli indigeni durante i viaggi di scoperta?",
+        "question": "Co stało się z rdzennymi mieszkańcami podczas odkrywczych wypraw?",
         "answers": [
           {
-            "content": "Si sono convertiti al cristianesimo",
+            "content": "Nawrócili się na chrześcijaństwo",
             "isCorrect": false
           },
           {
-            "content": "Sono stati vittime della schiavitù",
+            "content": "Czuli się ofiarami niewolnictwa",
             "isCorrect": true
           },
           {
-            "content": "Sono diventati molto ricchi",
+            "content": "Stali się bardzo bogaci",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Quali nazioni hanno aperto nuove vie nella Nuova Era?",
+        "question": "Jakie narody otworzyły nowe obszary w Nowej Epoki?",
         "answers": [
           {
-            "content": "Inghilterra e Spagna",
+            "content": "Anglia i Hiszpania",
             "isCorrect": true
           },
           {
-            "content": "Portogallo e Paesi Bassi",
+            "content": "Portugalia i Holandia",
             "isCorrect": true
           },
           {
-            "content": "Germania e Belgio",
+            "content": "Niemcy i Belgia",
             "isCorrect": false
           }
         ]
@@ -1882,89 +1886,89 @@
   },
   {
     "id": 14,
-    "topic": "Il \"Boston Tea Party\": i coloni americani protestano contro le nuove tasse britanniche lanciando tè nel porto di Boston: 16/12/1773",
+    "topic": "Bostońskie picie herbaty: amerykańscy koloniści protestują przeciwko nowym brytyjskim podatkom, wyrzucając herbatę w Boston Harbor: 16.12.1773",
     "questions": [
       {
         "questionId": 1,
-        "question": "I coloni americani non volevano pagare le tasse sul tè perché:",
+        "question": "Amerykańscy koloniści nie chcieli płacić podatku od herbaty, ponieważ:",
         "answers": [
           {
-            "content": "Si sono opposti alla tassazione senza rappresentanza",
+            "content": "Sprzeciwiali się opodatkowaniu bez reprezentacji",
             "isCorrect": true
           },
           {
-            "content": "Pensavano di poter coltivare il proprio tè",
+            "content": "Myśleli, że mogą uprawiać własną herbatę",
             "isCorrect": false
           },
           {
-            "content": "Il prezzo del tè sarebbe diventato troppo alto",
+            "content": "Cena herbaty stałaby się zbyt wysoka",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "La Compagnia delle Indie Orientali aveva bisogno di aiuto per vendere una grande quantità di tè.",
+        "question": "Kompania Wschodnioindyjska potrzebowała pomocy przy sprzedaży dużych ilości herbaty.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Dopo la fine della guerra dei 7 anni, la Gran Bretagna aveva bisogno di nuove fonti di denaro.",
+        "question": "Po zakończeniu wojny siedmioletniej Wielka Brytania potrzebowała nowych źródeł pieniędzy.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Il prezzo del tè è stato aumentato dalla nuova legge.",
+        "question": "Cena herbaty została podniesiona przez nowe prawo.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "L'organizzazione coinvolta nei preparativi per la distruzione del tè a Boston era:",
+        "question": "Organizacją, która brała udział w przygotowaniach do zniszczenia herbaty w Bostonie, była:",
         "answers": [
           {
-            "content": "Fratelli d'armi",
+            "content": "Bracia w broni",
             "isCorrect": false
           },
           {
-            "content": "Figli della Libertà",
+            "content": "Synowie wolności",
             "isCorrect": true
           },
           {
-            "content": "Boston Celtics",
+            "content": "Bostońscy celtowie",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Il numero di navi che portarono un carico di tè nel porto di Boston alla fine del 1773 era:",
+        "question": "Liczba statków, które przywiozły ładunek herbaty do portu w Bostonie pod koniec 1773 r:",
         "answers": [
           {
             "content": "3",
@@ -1982,75 +1986,79 @@
       },
       {
         "questionId": 7,
-        "question": "Le navi avrebbero potuto lasciare il porto di Boston e portare il loro carico di tè in un altro porto americano o tornare in Inghilterra.",
+        "question": "Statki mogły opuścić port w Bostonie i zabrać swój ładunek herbaty do innego amerykańskiego portu lub z powrotem do Anglii.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "I danni causati durante il Boston Tea Party:",
+        "question": "Szkody wyrządzone podczas bostońskiego picia herbaty:",
         "answers": [
           {
-            "content": "Molte persone furono ferite o uccise",
+            "content": "Wiele osób zostało rannych lub zabitych",
             "isCorrect": false
           },
           {
-            "content": "Sono state distrutte circa 46 t di tè",
+            "content": "Zniszczeniu uległo około 46 ton herbaty",
             "isCorrect": true
           },
           {
-            "content": "I quasi 100 cannoni che presidiavano l'imboccatura del porto furono gettati in mare",
+            "content": "Prawie 100 dział strzegących wejścia do portu zostało wrzuconych do morza",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Dopo gli eventi di Boston, il parlamento britannico riconsiderò la propria posizione e decise di ricevere una delegazione dalle colonie.",
+        "question": "Po wydarzeniach w Bostonie brytyjski parlament ponownie rozważył swoje stanowisko i zdecydował o przyjęciu delegacji z kolonii.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Il Boston Tea Party è considerato uno degli eventi che portarono alla guerra d'indipendenza americana.",
+        "question": "Bostońskie picie herbaty jest uważane za jedno z wydarzeń, które doprowadziły do amerykańskiej wojny o niepodległość.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 11,
-        "question": "Il Parlamento britannico adottò i Coercitive Acts, denominati anche: (Intolerable Acts)",
+        "question": "Parlament brytyjski przyjął Akty przymusu, zwane także:",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Akt o Nietolerancji",
+            "isCorrect": true
+          },
+          {
+            "content": "Ustawa o Braku Tolerancji",
             "isCorrect": false
           },
           {
-            "content": "Falso",
-            "isCorrect": true
+            "content": "Czyny Opresyjne",
+            "isCorrect": false
           }
         ]
       }
@@ -2058,79 +2066,79 @@
   },
   {
     "id": 15,
-    "topic": "La Rivoluzione Americana: 1775-1783",
+    "topic": "Rewolucja Amerykańska: 1775-1783",
     "questions": [
       {
         "questionId": 1,
-        "question": "Una delle cause della rivoluzione americana fu:",
+        "question": "Jedną z przyczyn Rewolucji Amerykańskiej było:",
         "answers": [
           {
-            "content": "La tassazione senza rappresentanza",
+            "content": "Opodatkowanie bez reprezentacji",
             "isCorrect": true
           },
           {
-            "content": "La condanna senza inchiesta",
+            "content": "Skazanie bez dochodzenia",
             "isCorrect": false
           },
           {
-            "content": "La deportazione senza condanna",
+            "content": "Deportacja bez wyroku skazującego",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Durante il Boston Tea Party, il carico di tè di tre navi fu:",
+        "question": "Podczas Bostońskiego picia herbaty ładunek herbaty na trzech statkach został:",
         "answers": [
           {
-            "content": "Gettato in mare",
+            "content": "Wrzucony do morza",
             "isCorrect": true
           },
           {
-            "content": "Confiscato dai patrioti",
+            "content": "Skonfiskowany przez patriotów",
             "isCorrect": false
           },
           {
-            "content": "Venduto a prezzi molto alti",
+            "content": "Sprzedawany po bardzo wysokich cenach",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Scegli l'opzione con l'ordine corretto degli eventi:",
+        "question": "Wybierz opcję z prawidłową kolejnością wydarzeń:",
         "answers": [
           {
-            "content": "Il primo congresso continentale, il Boston Tea Party, la scaramuccia di Lexington",
+            "content": "Pierwszy Kongres Kontynentalny, Bostońskie picie herbaty, Potyczka w Lexington",
             "isCorrect": false
           },
           {
-            "content": "Il Boston Tea Party, il primo congresso continentale, la scaramuccia di Lexington",
+            "content": "Bostońskie picie herbaty, Pierwszy Kongres Kontynentalny, Potyczka w Lexington",
             "isCorrect": true
           },
           {
-            "content": "La scaramuccia di Lexington, il primo congresso continentale, il Boston Tea Party",
+            "content": "Potyczka w Lexington, Pierwszy Kongres Kontynentalny, Bostońskie picie herbaty",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Il primo congresso continentale proclamò l'Indipendenza delle 13 colonie.",
+        "question": "Pierwszy Kongres Kontynentalny ogłosił niepodległość 13 kolonii.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "L'indipendenza delle colonie fu proclamata nell'anno:",
+        "question": "Niepodległość kolonii została ogłoszona w roku:",
         "answers": [
           {
             "content": "1776",
@@ -2148,21 +2156,21 @@
       },
       {
         "questionId": 6,
-        "question": "Il principale alleato delle colonie era il Canada.",
+        "question": "Głównym sojusznikiem Kolonii była Kanada.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Il capo dell'esercito americano era:",
+        "question": "Dowódcą armii amerykańskiej był:",
         "answers": [
           {
             "content": "Benjamin Franklin",
@@ -2180,7 +2188,7 @@
       },
       {
         "questionId": 8,
-        "question": "La Francia dichiarò guerra alla Gran Bretagna dopo la vittoria americana a:",
+        "question": "Francja wypowiedziała wojnę Wielkiej Brytanii po amerykańskim zwycięstwie pod:",
         "answers": [
           {
             "content": "Delaware",
@@ -2198,7 +2206,7 @@
       },
       {
         "questionId": 9,
-        "question": "La vittoria decisiva per l'esercito americano fu a:",
+        "question": "Decydujące zwycięstwo armii amerykańskiej miało miejsce w:",
         "answers": [
           {
             "content": "Yorktown",
@@ -2216,7 +2224,7 @@
       },
       {
         "questionId": 10,
-        "question": "Il trattato di pace che pose fine alla guerra rivoluzionaria americana fu firmato a:",
+        "question": "Podpisano traktat pokojowy kończący amerykańską wojnę o niepodległość w:",
         "answers": [
           {
             "content": "Versailles",
@@ -2234,32 +2242,32 @@
       },
       {
         "questionId": 11,
-        "question": "La vittoria delle colonie ebbe conseguenze positive per le tribù native del Nord America.",
+        "question": "Zwycięstwo kolonii miało pozytywne konsekwencje dla rdzennych plemion Ameryki Północnej.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 12,
-        "question": "Una colonia è:",
+        "question": "Kolonia to:",
         "answers": [
           {
-            "content": "Un gruppo di navi che trasportavano il tè dal porto di Colonia, viaggiando insieme",
+            "content": "Grupa statków, które przewoziły herbatę z portu w Colone",
             "isCorrect": false
           },
           {
-            "content": "Un paese o territorio che si trova sotto il pieno o parziale controllo politico di un altro paese ed è occupato da coloni di quel paese",
+            "content": "Kraj, znajdujący się pod kontrolą polityczną innego kraju i zamieszkany przez osadników z tego kraju",
             "isCorrect": true
           },
           {
-            "content": "Un incontro formale o una serie di incontri di discussione tra delegati, in particolare quelli di un partito politico o che sostengono le stesse idee politiche",
+            "content": "Formalne spotkanie lub seria spotkań w celu dyskusji między delegatami",
             "isCorrect": false
           }
         ]
@@ -2268,87 +2276,87 @@
   },
   {
     "id": 16,
-    "topic": "Il movimento delle suffragette: le donne lottano per il diritto di voto: 1893-1928",
+    "topic": "Ruch sufrażystek: kobiety walczą o prawo do głosowania: 1893-1928",
     "questions": [
       {
         "questionId": 1,
-        "question": "Il suffragio dalla parola latina suffragium si riferisce a...",
+        "question": "Suffrage od łacińskiego słowa suffragium odnosi się do:",
         "answers": [
           {
-            "content": "Coloro che hanno sofferto per ottenere il diritto di voto",
+            "content": "Ci, którzy cierpieli, aby uzyskać prawo głosu",
             "isCorrect": true
           },
           {
-            "content": "Un voto dato per decidere una questione controversa",
+            "content": "Głos oddany przy podejmowaniu decyzji w kontrowersyjnej kwestii",
             "isCorrect": false
           },
           {
-            "content": "I sacrifici che devono essere fatti per il governo rappresentativo",
+            "content": "Poświęcenia, które muszą być poniesione dla rządu przedstawicielskiego",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Qual è la differenza tra la parola suffragista e suffragetta?",
+        "question": "Jaka jest różnica między słowem sufrażystką a sufrażystą?",
         "answers": [
           {
-            "content": "Suffragista si riferisce ai maschi e suffragetta si riferisce alle femmine",
+            "content": "Sufrażysta odnosi się do mężczyzn, a sufrażystka do kobiet",
             "isCorrect": false
           },
           {
-            "content": "Suffragista era usato per riferirsi alle donne che cercavano di ottenere il diritto di voto, mentre queste donne si definivano suffragette",
+            "content": "Sufrażystka była używana w odniesieniu do kobiet ubiegających się o prawo do głosowania.",
             "isCorrect": true
           },
           {
-            "content": "Suffragetta è un termine dispregiativo mentre suffragista no",
+            "content": "Sufrażystka jest terminem obraźliwym, podczas gdy sufrażysta nie",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Il Convegno sui diritti delle donne si tenne a Seneca Falls nel 1848. Il documento redatto durante questo convegno fu chiamato...",
+        "question": "Konwencja praw kobiet odbyła się w Seneca Falls w 1848 roku. Dokument sporządzony na tej konwencji nosił nazwę:",
         "answers": [
           {
-            "content": "“I diritti inalienabili per le donne”",
+            "content": "„Niezbywalne prawa kobiet”",
             "isCorrect": false
           },
           {
-            "content": "“La Dichiarazione dei diritti delle donne”",
+            "content": "„Deklaracja praw kobiet”",
             "isCorrect": false
           },
           {
-            "content": "“La dichiarazione dei sentimenti”",
+            "content": "„Deklaracja uczuć”",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Il 19° emendamento della costituzione degli Stati Uniti è stato ratificato il 18 agosto 1920?",
+        "question": "Czy 19. poprawka do konstytucji Stanów Zjednoczonych została ratyfikowana 18 sierpnia 1920 r.?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "È questo il simbolo del movimento femminista?",
+        "question": "Czy to symbol ruchu feministycznego?",
         "image":"2.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -2357,74 +2365,74 @@
   },
   {
     "id": 17,
-    "topic": "La Rivoluzione Russa: 1917-1922",
+    "topic": "Rewolucja Rosyjska: 1917-1922",
     "questions": [
       {
         "questionId": 1,
-        "question": "Prima della rivoluzione, la Russia era governata da un potente monarca chiamato Zar. Lo Zar aveva il potere assoluto in Russia.",
+        "question": "Przed rewolucją Rosją rządził potężny monarcha zwany carem. Całkowitą władzę w Rosji sprawował car.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "La rivoluzione russa fu guidata da Vladimir Lenin e da un gruppo di rivoluzionari chiamati bolscevichi.",
+        "question": "Na czele rewolucji rosyjskiej stanął Władimir Lenin oraz grupa rewolucjonistów zwanych bolszewikami.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Il 22 gennaio 1925 ebbe luogo un evento importante che portò alla rivoluzione russa. Questo giorno si chiama Domenica di sangue.",
+        "question": "Główne wydarzenie, które doprowadziło do rewolucji rosyjskiej, miało miejsce 22 stycznia 1925 r. Ten dzień nazywa się Krwawą Niedzielą.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Dal 1918 al 1920, la Russia conobbe una guerra civile tra i bolscevichi (chiamati anche Armata Rossa) e gli antibolscevichi (l'Armata Bianca). I bolscevichi vinsero e il nuovo paese fu chiamato URSS (Unione delle Repubbliche Socialiste Sovietiche).",
+        "question": "W latach 1918-1920 w Rosji trwała wojna domowa między bolszewikami a antybolszewikami. Zwyciężyli bolszewicy, a nowe państwo nazwano ZSRR.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Il popolo russo si ribellò per la prima volta all'inizio del 1927.",
+        "question": "Naród rosyjski po raz pierwszy zbuntował się na początku 1927 roku.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
@@ -2433,74 +2441,74 @@
   },
   {
     "id": 18,
-    "topic": "Nascita delle nazioni unitarie: 1945-1946 (Europa, America settentrionale e meridionale, Asia, Africa, Australia)",
+    "topic": "Powstaje Organizacja Narodów Zjednoczonych: 1945-1946 (Europa, Ameryka Północna i Południowa, Azja, Afryka, Australia)",
     "questions": [
       {
         "questionId": 1,
-        "question": "L'ONU è stata fondata nel 1845",
+        "question": "ONZ została założona w 1845 roku.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Le Nazioni Unite originariamente miravano al mantenimento della pace",
+        "question": "Początkowo ONZ miała na celu utrzymanie pokoju.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Ci sono 93 paesi nell'ONU",
+        "question": "ONZ liczy 93 państwa.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Oggi le Nazioni Unite mirano alla riduzione della povertà",
+        "question": "Obecnie ONZ dąży do zmniejszenia ubóstwa.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Oggi le Nazioni Unite puntano sui diritti umani",
+        "question": "Obecnie ONZ dąży do ochrony praw człowieka.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -2509,74 +2517,74 @@
   },
   {
     "id": 19,
-    "topic": "La rivoluzione digitale: l'invenzione del computer elettrico digitale",
+    "topic": "Rewolucja cyfrowa: Wynalazek cyfrowego komputera elektrycznego",
     "questions": [
       {
         "questionId": 1,
-        "question": "L'invenzione della microelettronica (transistor, circuiti integrati) ha inaugurato la rivoluzione digitale?",
+        "question": "Czy wynalezienie mikroelektroniki (tranzystory, układy scalone) zapoczątkowało rewolucję cyfrową?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Il Wi-Fi viene utilizzato per la comunicazione wireless dei dispositivi mobili?",
+        "question": "Wi-Fi służy do bezprzewodowej komunikacji urządzeń mobilnych?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Possiamo osservare uno sviluppo molto rapido della banca elettronica. Bitcoin è una valuta virtuale?",
+        "question": "Możemy zaobserwować bardzo szybki rozwój bankowości elektronicznej. Czy Bitcoin jest wirtualną walutą?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "La stampante 3D viene usata per stampare su carta?",
+        "question": "Czy drukarka 3D służy do drukowania na papierze?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Realtà virtuale e intelligenza artificiale: significano la stessa cosa?",
+        "question": "Wirtualna rzeczywistość i sztuczna inteligencja - czy oznaczają to samo?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
@@ -2585,14 +2593,14 @@
   },
   {
     "id": 20,
-    "topic": "L'Unione Sovietica ha lanciato lo Sputnik, il primo satellite artificiale: 4/10/1957 (Russia)",
+    "topic": "Związek Radziecki wystrzeliwuje Sputnika, pierwszą satelitę stworzoną przez człowieka: 10/4/1957 (Rosja)",
     "questions": [
       {
         "questionId": 1,
-        "question": "L'Unione Sovietica ha dato il via alla corsa allo spazio lanciando quale satellite nello spazio?",
+        "question": "Związek Radziecki rozpoczął wyścig kosmiczny wystrzeliwując jakiego satelitę w kosmos?",
         "answers": [
           {
-            "content": "Cosmo",
+            "content": "Kosmos",
             "isCorrect": false
           },
           {
@@ -2604,33 +2612,29 @@
             "isCorrect": true
           },
           {
-            "content": "YoutSat",
-            "isCorrect": false
-          },
-          {
-            "content": "Viaggiatore",
+            "content": "Voyager",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Questo Sputnik è il primo satellite terrestre artificiale?",
+        "question": "Czy to jest Sputnik - pierwszy sztuczny satelita ziemi?",
         "image":"3.jpg",
         "answers": [
           {
-            "content": "Sì",
+            "content": "Tak",
             "isCorrect": false
           },
           {
-            "content": "No",
+            "content": "Nie",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Guarda il disegno e indica il nome dell’oggetto:",
+        "question": "Spójrz na grafikę i wskaż nazwę przedmiotu:",
         "image":"4.jpg",
         "answers": [
           {
@@ -2657,22 +2661,22 @@
       },
       {
         "questionId": 4,
-        "question": "Quando è stato lanciato il primo satellite terrestre?",
+        "question": "Kiedy został wystrzelony pierwszy satelita Ziemi?",
         "answers": [
           {
-            "content": "14 dicembre 1903",
+            "content": "14 grudnia 1903",
             "isCorrect": false
           },
           {
-            "content": "8 maggio 1945",
+            "content": "8 maja 1945",
             "isCorrect": false
           },
           {
-            "content": "4 ottobre 1957",
+            "content": "4 października 1957",
             "isCorrect": true
           },
           {
-            "content": "20 luglio 1969",
+            "content": "20 lipca 1969",
             "isCorrect": false
           }
         ]
@@ -2681,74 +2685,74 @@
   },
   {
     "id": 21,
-    "topic": "Yuri Gagarin diventa il primo uomo nello spazio: 1961 (Russia)",
+    "topic": "Jurij Gagarin zostaje pierwszym człowiekiem w kosmosie: 1961 (Rosja)",
     "questions": [
       {
         "questionId": 1,
-        "question": "Yuri Alexeyevich Gagarin era un cosmonauta russo (astronauta). È diventato il primo essere umano ad andare nello spazio il 1 aprile. (vero)",
+        "question": "Jurij Aleksiejewicz Gagarin (9 marca 1934 – 27 marca 1968) był rosyjski kosmonauta (astronauta). Stał się pierwszym człowiekiem w kosmosie 12 kwietnia 1961 roku w rakiecie wystrzelonej przez Związek Radziecki.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Il 12 aprile 1981, Gagarin divenne il primo uomo a viaggiare nello spazio, lanciandosi in orbita a bordo del Vostok 3KA-3 (Vostok 1).",
+        "question": "12 kwietnia 1981 roku Gagarin jako pierwszy człowiek poleciał w kosmos, na pokładzie statku Wostok 3KA-3 (Wostok 1).",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Gli occidentali sostenevano che Gagarin, durante il suo volo spaziale, avesse fatto il commento: \"Non vedo nessun Dio quassù\".",
+        "question": "Ludzie Zachodu twierdzili, że Gagarin podczas lotu kosmicznego powiedział: „Nie widzę tu żadnego Boga”.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Nel 1982 iniziò a servire come vice del Soviet Supremo dell'Unione Sovietica.",
+        "question": "W 1982 został deputowanym do Rady Najwyższej Związku Radzieckiego.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "La ragione dell'incidente è sconosciuta, ma potrebbe essere stato causato dal guasto di un intercettore Su-11 \"Fish-pot-C\".",
+        "question": "Ludzie nie są pewni, co spowodowało katastrofę, ale dochodzenie z 1986 roku sugeruje, że turbulencje z myśliwca przechwytującego Su-11, Fishpot-C używającego dopalaczy mogły spowodować, że samolot Gagarina wymknął się spod kontroli.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
@@ -2757,49 +2761,49 @@
   },
   {
     "id": 22,
-    "topic": "Il presidente degli Stati Uniti John F. Kennedy viene assassinato a Dallas, Texas: 22/11/1963 (USA)",
+    "topic": "Prezydent USA John F. Kennedy zostaje zamordowany w Dallas, Texas: 11/22/1963 (USA)",
     "questions": [
       {
         "questionId": 1,
-        "question": "E’ questo John Fitzgerald Kennedy, il 35° presidente USA? (Vero/Falso)",
+        "question": "Czy to John Fitzgerald Kennedy, 35. prezydent USA?",
         "image":"5.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Questa è una delle foto più famose del giorno dell'assassinio. JFK è stato ucciso a New York? (Vero/Falso)",
+        "question": "Jedno z najsłynniejszych zdjęć z dnia zamachu. Czy JFK został zabity w Nowym Jorku?",
         "image":"6.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Una nave da trasporto sovietica salpò per una delle isole del Nord America. Era Haiti? (Vero/Falso)",
+        "question": "Radziecki statek transportowy płynący na jedną z wysp w Ameryce Północnej. Czy było to Haiti?",
         "image":"7.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
@@ -2808,149 +2812,133 @@
   },
   {
     "id": 23,
-    "topic": "La nascita di Internet: 1965-1995 (USA)",
+    "topic": "Narodziny Internetu: 1965-1995 (US)",
     "questions": [
       {
         "questionId": 1,
-        "question": "La parola inglese \"windows\" indica anche il nome del sistema operativo per computer? (Vero/Falso)",
-        "image":"8.jpg",
+        "question": "Angielskie słowo \"windows\" oznacza również nazwę systemu operacyjnego dla komputerów",
+        "image": "8.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Questi programmi ti permettono di accedere ai contenuti pubblicati su Internet. Sono browser web? (Vero/Falso)",
+        "question": "Te programy dają dostęp do treści zamieszczonych w Internecie. Czy są to przeglądarki internetowe?",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "I social media utilizzano programmi che facilitano il contatto tra gli utenti (brevi informazioni, foto, messaggi di testo). Quelli presentati sotto sono comunicatori? (Vero/Falso)",
-        "image":"9.jpg",
+        "question": "W mediach społecznościowych wykorzystywane są programy ułatwiające kontakt. Czy przedstawione poniżej są komunikatorami?",
+        "image": "9.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Usiamo Internet anche come fonte di intrattenimento: guardiamo film o ascoltiamo musica. Le aziende presentate di seguito ti consentono di ascoltare musica? (Vero/Falso)",
-        "image":"10.jpg",
+        "question": "Czy przedstawione powyżej serwisy umożliwiają słuchanie muzyki?\nDisney+, Netflix, Twitter, Spotify",
+        "image": "10.jpg",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "I semi di Internet sono stati piantati nel",
+        "question": "Początki Internetu datuje się na:\na. 1969\nb. 1970\nc. 1960\nd. 1980",
         "answers": [
           {
-            "content": "1969",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "1970",
-            "isCorrect": false
-          },
-          {
-            "content": "1960",
-            "isCorrect": false
-          },
-          {
-            "content": "1980",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "L’ARPANET originale è stato chiuso nel",
+        "question": "Pierwotny ARPANET został zamknięty w\na. 1990\nb. 1995\nc. 1980\nd. 1970",
         "answers": [
           {
-            "content": "1990",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "1995",
-            "isCorrect": false
-          },
-          {
-            "content": "1980",
-            "isCorrect": false
-          },
-          {
-            "content": "1970",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Internet ci dà accesso a molte risorse con cui altrimenti non potremmo entrare in contatto. (Vero/Falso)",
+        "question": "Internet daje nam dostęp do wielu zasobów, z którymi inaczej nie moglibyśmy się zetknąć.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": true
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "Le informazioni su Internet possono sempre essere attendibili come fattuali. Non sarebbe online se non fosse vero. (Vero/Falso)",
+        "question": "Informacjom w Internecie zawsze można ufać, że są prawdziwe. Nie byłoby ich w sieci, gdyby nie były prawdziwe.",
         "answers": [
           {
-            "content": "Vero",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "Falso",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Quale percentuale di famiglie nell'Unione europea ha avuto accesso a Internet?",
+        "question": "Jaki procent gospodarstw domowych w Unii Europejskiej miał dostęp do Internetu?\na. powyżej 50%\nb. powyżej 80%",
         "answers": [
           {
-            "content": "above 50%",
+            "content": "Prawda",
             "isCorrect": false
           },
           {
-            "content": "above 80%",
+            "content": "Fałsz",
             "isCorrect": true
           }
         ]
@@ -2959,360 +2947,360 @@
   },
   {
     "id": 24,
-    "topic": "Il tempo dei cacciatori e dei contadini (3000 a.C.)",
+    "topic": "Czas myśliwych i chłopów (3000 P.N.E.)",
     "questions": [
       {
         "questionId": 1,
-        "question": "Come siamo venuti a conoscenza di ciò che accadde al tempo dei primi esseri umani?",
+        "question": "Jak dowiedzieliśmy się o tym, co działo się w czasach pierwszych ludzi?",
         "answers": [
           {
-            "content": "Canzoni e poesie",
+            "content": "Pieśni i wiersze",
             "isCorrect": false
           },
           {
-            "content": "Storie raccontate",
+            "content": "Opowiadane historie",
             "isCorrect": false
           },
           {
-            "content": "Ritrovamenti nel terreno",
+            "content": "Znaleziska w ziemi",
             "isCorrect": true
           },
           {
-            "content": "Tombe scavate nel terreno",
+            "content": "Wykopane groby",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "I primi umani sapevano scrivere?",
+        "question": "Czy pierwsi ludzie potrafili pisać?",
         "answers": [
           {
-            "content": "A volte",
+            "content": "Czasami",
             "isCorrect": false
           },
           {
-            "content": "Sì",
+            "content": "Tak",
             "isCorrect": false
           },
           {
-            "content": "No",
+            "content": "Nie",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Come si procuravano il cibo i primi esseri umani?",
+        "question": "Jak pierwsi ludzie zdobywali pożywienie?",
         "answers": [
           {
-            "content": "In un negozio",
+            "content": "W sklepie",
             "isCorrect": false
           },
           {
-            "content": "Al mercato",
+            "content": "Na rynku",
             "isCorrect": false
           },
           {
-            "content": "Cacciando",
+            "content": "Podczas polowania",
             "isCorrect": true
           },
           {
-            "content": "Dall'agricoltura",
+            "content": "Z rolnictwa",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Dove sono vissuti i primi esseri umani?",
+        "question": "Gdzie mieszkali pierwsi ludzie?",
         "answers": [
           {
-            "content": "Nei castelli",
+            "content": "W zamkach",
             "isCorrect": false
           },
           {
-            "content": "In case di legno",
+            "content": "W drewnianych domach",
             "isCorrect": false
           },
           {
-            "content": "Sui campi",
+            "content": "W lasach",
             "isCorrect": false
           },
           {
-            "content": "Nei boschi",
+            "content": "W jaskiniach",
             "isCorrect": true
           },
           {
-            "content": "Nelle grotte",
-            "isCorrect": true
+            "content": "W polach",
+            "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Di cosa erano fatti i loro utensili?",
+        "question": "Z czego były wykonane ich naczynia?",
         "answers": [
           {
-            "content": "Ferro",
+            "content": "Z żelaza",
             "isCorrect": false
           },
           {
-            "content": "Argilla",
+            "content": "Z gliny",
             "isCorrect": true
           },
           {
-            "content": "Bronzo",
+            "content": "Z brązu",
             "isCorrect": false
           },
           {
-            "content": "Altro metallo",
+            "content": "Z innego metalu",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Cosa usavano i primi esseri umani per catturare gli animali?",
+        "question": "Czego pierwsi ludzie używali do łapania zwierząt?",
         "answers": [
           {
-            "content": "Un'ascia a mano",
+            "content": "Siekiery ręcznej",
             "isCorrect": false
           },
           {
-            "content": "Una punta di lancia",
+            "content": "Włóczni",
             "isCorrect": true
           },
           {
-            "content": "Un raschietto",
+            "content": "Skrobaczki",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Le persone in tempi preistorici talvolta realizzavano petroglifi. Lo facevano con una matita?",
+        "question": "Ludzie w czasach prehistorycznych czasami tworzyli petroglify. Czy oni to zrobili ołówkiem?",
         "answers": [
           {
-            "content": "Sì",
+            "content": "Tak",
             "isCorrect": false
           },
           {
-            "content": "No",
+            "content": "Nie",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "Cosa disegnavano maggiormente i primi esseri umani sulle rocce?",
+        "question": "Co pierwsi ludzie najczęściej rysowali na skałach?",
         "answers": [
           {
-            "content": "Ritratti",
+            "content": "Portrety",
             "isCorrect": false
           },
           {
-            "content": "Pesci",
+            "content": "Ryby",
             "isCorrect": false
           },
           {
-            "content": "Animali selvatici",
+            "content": "Dzikie zwierzęta",
             "isCorrect": true
           },
           {
-            "content": "Barche",
+            "content": "Łodzie",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "Come si procuravano la maggior parte del cibo i primi agricoltori?",
+        "question": "Jak pierwsi rolnicy zdobywali większość pożywienia?",
         "answers": [
           {
-            "content": "Dalla pesca",
+            "content": "Z połowów",
             "isCorrect": false
           },
           {
-            "content": "Dalla caccia",
+            "content": "Z polowań",
             "isCorrect": false
           },
           {
-            "content": "Dal loro bestiame",
+            "content": "Z bydła",
             "isCorrect": true
           },
           {
-            "content": "Dalla loro terra",
+            "content": "Z ich ziemi",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Perché è diventato importante avere un posto fisso?",
+        "question": "Dlaczego posiadanie stałego miejsca stało się ważne?",
         "answers": [
           {
-            "content": "Per stare con la famiglia",
+            "content": "By być z rodziną",
             "isCorrect": false
           },
           {
-            "content": "Per essere in grado di ospitare il bestiame",
+            "content": "Aby móc trzymać bydło",
             "isCorrect": true
           },
           {
-            "content": "Per coltivare la terra",
+            "content": "Aby uprawiać ziemię",
             "isCorrect": true
           },
           {
-            "content": "Per controllare l'area",
+            "content": "Aby kontrolować teren",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 11,
-        "question": "Perché il fuoco era così importante per i primi agricoltori?",
+        "question": "Dlaczego ogień był tak ważny dla pierwszych rolników?",
         "answers": [
           {
-            "content": "Per difendersi dagli animali selvatici",
+            "content": "Aby bronić się przed dzikimi zwierzętami",
             "isCorrect": false
           },
           {
-            "content": "Bruciare foreste per terreni agricoli",
+            "content": "Aby wypalać lasy pod uprawę ziemi",
             "isCorrect": true
           },
           {
-            "content": "Per stare al caldo in inverno",
+            "content": "Aby utrzymać ciepło w zimie",
             "isCorrect": true
           },
           {
-            "content": "Cucinare",
+            "content": "Do gotowania",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 12,
-        "question": "Dove vivevano i primi contadini?",
+        "question": "Gdzie mieszkali pierwsi rolnicy?",
         "answers": [
           {
-            "content": "Nelle grotte",
+            "content": "W jaskiniach",
             "isCorrect": false
           },
           {
-            "content": "Nei castelli",
+            "content": "W zamkach",
             "isCorrect": false
           },
           {
-            "content": "In case di legno e fango",
+            "content": "W domach z drewna i błota",
             "isCorrect": true
           },
           {
-            "content": "Negli appartamenti",
+            "content": "W mieszkaniach",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 13,
-        "question": "Cosa facevano i contadini con gli animali selvatici?",
+        "question": "Co rolnicy robili z dzikimi zwierzętami?",
         "answers": [
           {
-            "content": "Li uccidevano",
+            "content": "Zabijali je",
             "isCorrect": false
           },
           {
-            "content": "Li cacciavano",
+            "content": "Polowali na nie",
             "isCorrect": false
           },
           {
-            "content": "Li vendevano allo zoo",
+            "content": "Sprzedawali je do zoo",
             "isCorrect": false
           },
           {
-            "content": "Li addomesticavano",
+            "content": "Udomowili je",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 14,
-        "question": "Con quali materiali i primi contadini costruivano i loro attrezzi e utensili?",
+        "question": "Z jakich materiałów pierwsi rolnicy wykonywali swoje narzędzia i przybory?",
         "answers": [
           {
-            "content": "Con l'oro",
+            "content": "Ze złota",
             "isCorrect": false
           },
           {
-            "content": "Col ferro",
+            "content": "Z żelaza",
             "isCorrect": false
           },
           {
-            "content": "Col bronzo",
+            "content": "Z brązu",
             "isCorrect": false
           },
           {
-            "content": "Con la pietra",
+            "content": "Ze skały",
             "isCorrect": true
           },
           {
-            "content": "Con l'argilla",
+            "content": "Z gliny",
             "isCorrect": true
           },
           {
-            "content": "Col legno",
+            "content": "Z drewna",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 15,
-        "question": "Con quali materiali i contadini realizzarono i loro attrezzi?",
+        "question": "Z jakich materiałów rolnicy wykonywali później swoje narzędzia?",
         "answers": [
           {
-            "content": "Con l'oro",
+            "content": "Ze złota",
             "isCorrect": false
           },
           {
-            "content": "Col ferro",
+            "content": "Z żelaza",
             "isCorrect": true
           },
           {
-            "content": "Col bronzo",
+            "content": "Z brązu",
             "isCorrect": true
           },
           {
-            "content": "Con la pietra",
+            "content": "Ze skały",
             "isCorrect": false
           },
           {
-            "content": "Con l'argilla",
+            "content": "Z gliny",
             "isCorrect": false
           },
           {
-            "content": "Col legno",
+            "content": "Z drewna",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 16,
-        "question": "I cacciatori vivevano in gruppi, in tribù. Come iniziarono a vivere insieme i contadini?",
+        "question": "Myśliwi żyli w grupach, w plemionach. W jaki sposób chłopi zaczęli żyć razem?",
         "answers": [
           {
-            "content": "Nei castelli",
+            "content": "W zamkach",
             "isCorrect": false
           },
           {
-            "content": "Nelle città",
+            "content": "W miastach",
             "isCorrect": false
           },
           {
-            "content": "Nei villaggi",
+            "content": "W wioskach",
             "isCorrect": true
           },
           {
-            "content": "Nelle grotte",
+            "content": "W jaskiniach",
             "isCorrect": false
           }
         ]
@@ -3321,112 +3309,124 @@
   },
   {
     "id": 25,
-    "topic": "Il tempo dei greci e dei romani (3000 a.C. - 500 d.C.)",
+    "topic": "Czas Greków i Rzymian (3000 p.n.e. - 500 R. n.e.)",
     "questions": [
       {
         "questionId": 1,
-        "question": "La Grecia e Atene fiorirono commerciando all'estero. Si svilupparono anche il pensiero della scrittura e le arti. Come facciamo a sapere tutto questo?",
+        "question": "Grecja i Ateny rozkwitły dzięki morskiemu handlowi. Pismo, nauka i sztuka również się rozwinęły. Skąd to wszystko wiemy?",
         "answers": [
           {
-            "content": "Da scritti e resti conservati",
+            "content": "Z zachowanych pism",
             "isCorrect": true
           },
           {
-            "content": "Dalle storie raccontate",
+            "content": "Z opowiadanych historii",
             "isCorrect": false
           },
           {
-            "content": "Da tombe scavate",
+            "content": "Z pozostałości",
+            "isCorrect": false
+          },
+          {
+            "content": "Z odkryć w ziemi",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "In che modo le città nascenti differivano dai primi insediamenti contadini, soprattutto nell'aspetto?",
+        "question": "Czym różniły się rozwijające się miasta od pierwszych osad chłopskich, zwłaszcza pod względem wyglądu?",
         "answers": [
           {
-            "content": "Le città avevano edifici in pietra e non solo per abitazioni, ma anche adatti all'artigianato e al commercio, come templi o caserme per l'esercito",
+            "content": "Miasta miały budynki z kamienia, świątynie, koszary wojskowe, budynki urzędowe",
             "isCorrect": true
           },
           {
-            "content": "Le città avevano grattacieli",
+            "content": "Miasta miały drapacze chmur",
             "isCorrect": false
           },
           {
-            "content": "Le città avevano castelli in aria",
+            "content": "Miasta miały zamki w powietrzu",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Quando Greci e Romani iniziarono ad espandere i loro territori con la conquista?",
+        "question": "Miasta greckie rozkwitały, także dzięki handlowi zamorskiemu. Pismo, nauka i sztuka również się rozwijały. Później, gdy Rzymianie rozszerzyli swój obszar władzy, weszli w kontakt z kulturą grecką, z której wiele przejęli. Dlaczego Grecy i Rzymianie zaczęli rozszerzać swoje terytoria przez podboje?",
         "answers": [
           {
-            "content": "Quando ebbero le barche",
+            "content": "Mieli łodzie",
             "isCorrect": false
           },
           {
-            "content": "Quando ebbero bisogno di più spazio",
+            "content": "Potrzebowali więcej przestrzeni",
             "isCorrect": false
           },
           {
-            "content": "Quando vollero più terra e più potere",
+            "content": "Chcieli mieć więcej ziemi i więcej władzy",
             "isCorrect": true
+          },
+          {
+            "content": "Chcieli mieć więcej bogactwa",
+            "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Qual è la principale differenza tra il cristianesimo e le antiche religioni pagane?",
+        "question": "Jaka jest główna różnica między chrześcijaństwem a starożytnymi religiami pogańskimi?",
         "answers": [
           {
-            "content": "Il cristianesimo ha più santi",
+            "content": "Chrześcijaństwo miało więcej świętych",
             "isCorrect": false
           },
           {
-            "content": "Le religioni pagane di solito avevano molti dei",
+            "content": "Religie pogańskie miały zazwyczaj wielu bogów",
             "isCorrect": true
           },
           {
-            "content": "Il cristianesimo aveva sacerdoti più intelligenti",
+            "content": "Chrześcijaństwo miało tylko jednego Boga",
+            "isCorrect": false
+          },
+          {
+            "content": "Chrześcijaństwo miało mądrzejszych kapłanów",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "In che modo la civiltà e la cultura furono diffuse dai Romani nei territori conquistati?",
+        "question": "W jaki sposób Rzymianie rozpowszechniali cywilizację i kulturę na swoich podbitych terytoriach?",
         "answers": [
           {
-            "content": "Con i libri",
+            "content": "Poprzez książki",
             "isCorrect": false
           },
           {
-            "content": "Con guerre e conquiste",
+            "content": "Poprzez wojny i podboje",
             "isCorrect": false
           },
           {
-            "content": "Con insediamenti romani",
+            "content": "Przez rzymskie osadnictwo",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Perché l'influenza romana non è rimasta permanente in tutti i territori conquistati?",
+        "question": "Dlaczego wpływy rzymskie nie utrzymały się na stałe na wszystkich podbitych terytoriach?",
         "answers": [
           {
-            "content": "A causa del cambiamento climatico",
+            "content": "Z powodu zmian klimatycznych",
             "isCorrect": false
           },
           {
-            "content": "A causa della corruzione e del malgoverno",
+            "content": "Z powodu korupcji i złych rządów",
             "isCorrect": true
           },
           {
-            "content": "A causa di incursioni ostili",
+            "content": "Z powodu wrogich najazdów",
             "isCorrect": false
           }
         ]
@@ -3435,51 +3435,51 @@
   },
   {
     "id": 26,
-    "topic": "Il tempo dei monaci e dei cavalieri (500 - 1000/2000)",
+    "topic": "Czasy mnichów i rycerzy (500 - 1000/2000)",
     "questions": [
       {
         "questionId": 1,
-        "question": "Cosa accadde nell'Europa occidentale al termine dell'era romana?",
+        "question": "Co się działo w Europie Zachodniej, gdy epoka rzymska się skończyła?",
         "answers": [
           {
-            "content": "Le tribù germaniche presero il potere",
+            "content": "Plemiona germańskie przejęły władzę",
             "isCorrect": false
           },
           {
-            "content": "I romani se ne andarono, lasciandosi alle spalle il caos",
+            "content": "Rzymianie odeszli, pozostawiając po sobie chaos",
             "isCorrect": false
           },
           {
-            "content": "Le tribù germaniche iniziarono a combattersi l'una contro l'altra",
+            "content": "Plemiona germańskie zaczęły walczyć ze sobą",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "In che modo il cristianesimo ha influenzato la vita quotidiana durante il periodo delle migrazioni?",
+        "question": "Jak chrześcijaństwo wpłynęło na życie codzienne w okresie migracji?",
         "answers": [
           {
-            "content": "La gente ha iniziato a pregare ad ogni pasto",
+            "content": "Ludzie zaczęli modlić się do każdego posiłku",
             "isCorrect": false
           },
           {
-            "content": "Il cristianesimo costringeva le persone a pregare tre volte al giorno",
+            "content": "Chrześcijaństwo zmusiło ludzi do modlitwy trzy razy dziennie",
             "isCorrect": false
           },
           {
-            "content": "Il cristianesimo era l'unico fattore stabile",
+            "content": "Chrześcijaństwo było jedynym stabilnym czynnikiem",
             "isCorrect": true
           },
           {
-            "content": "La domenica la gente doveva andare a messa",
+            "content": "Ludzie musieli chodzić na mszę w niedziele",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Il Medioevo durò dal 500 al 1500 d.C. circa. Quanti anni sono?",
+        "question": "Średniowiecze trwało od około 500 do 1500 roku n.e. Ile to lat?",
         "answers": [
           {
             "content": "950",
@@ -3497,91 +3497,91 @@
       },
       {
         "questionId": 4,
-        "question": "Nel Medioevo la maggior parte delle persone praticava l'agricoltura. Alcune di quelle persone acquisirono proprietà in questo modo, affittando terreni ad altri che erano poveri. In questo modo arrivavano sempre più inquilini. Queste persone erano libere? Cosa dovevano fare per il loro signore?",
+        "question": "Większość ludzi w średniowieczu uprawiała rolnictwo. Niektórzy z tych ludzi zdobywali w ten sposób majątki, dzierżawiąc ziemię innym, którzy byli biedni. W ten sposób przybywało coraz więcej dzierżawców. Czy ci ludzie byli wolni? Co musieli robić dla swojego pana?",
         "answers": [
           {
-            "content": "Erano liberi, ma dovevano servire anche come soldati nell'esercito del loro signore",
+            "content": "Byli wolni, ale musieli też służyć jako żołnierze w armii pana",
             "isCorrect": false
           },
           {
-            "content": "Erano liberi, ma dovevano pagare in natura per l'uso della terra",
+            "content": "Byli wolni, ale musieli płacić w naturze za użytkowanie ziemi",
             "isCorrect": false
           },
           {
-            "content": "Non erano completamente liberi e dovevano lavorare e servire per i signori",
+            "content": "Nie byli całkowicie wolni i musieli pracować i służyć dla panów",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Il servo aveva bisogno del signore e il signore del servo. Spiega perché.",
+        "question": "Pańszczyzna potrzebowała pana, a pan pańszczyzny. Wyjaśnij, że.",
         "answers": [
           {
-            "content": "Questo tipo di gioco richiede due giocatori",
+            "content": "Ten rodzaj gry wymaga dwóch graczy",
             "isCorrect": false
           },
           {
-            "content": "Per avere la terra occorrono lavoratori per produrre raccolti e per allevare il bestiame, per nutrirsi e abitare occorrono la terra.",
+            "content": "Aby mieć ziemię, potrzebni są robotnicy do produkcji roślin i do bydła, do jedzenia i mieszkania potrzebna jest ziemia.",
             "isCorrect": true
           },
           {
-            "content": "Solo i servi possono cuocere il pane e il padrone di casa ha un esercito per la sua protezione",
+            "content": "Tylko chłopi pańszczyźniani mogą piec chleb, a pan ma armię do ochrony",
             "isCorrect": false
           },
           {
-            "content": "In quelle circostanze, si avevano bisogno l'uno dell'altro per sopravvivere",
+            "content": "W ówczesnych warunkach potrzebują siebie nawzajem, aby przetrwać",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Le case dei proprietari terrieri diventarono sempre più grandi. Con che materiale erano costruite le case più grandi? Perché?",
+        "question": "Domy właścicieli ziemskich stawały się coraz większe. Z jakiego materiału były zbudowane te większe domy? Dlaczego?",
         "answers": [
           {
-            "content": "Erano costruite in pietra per una migliore difesa",
+            "content": "Były zbudowane z kamienia dla lepszej obrony",
             "isCorrect": true
           },
           {
-            "content": "Erano fatte di legno perché è più facile",
+            "content": "Z drewna, ponieważ były łatwiejsze do wykonania",
             "isCorrect": false
           },
           {
-            "content": "Erano fatte di metallo perché è più resistente",
+            "content": "Wykonywano je z metalu, ponieważ był on mocniejszy",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "Quali tre regole doveva seguire un cavaliere?",
+        "question": "Jakich trzech zasad musiał przestrzegać rycerz?",
         "answers": [
           {
-            "content": "Doveva possedere un castello",
+            "content": "Musiał posiadać zamek.",
             "isCorrect": false
           },
           {
-            "content": "Doveva mantenere le sue promesse",
+            "content": "Musiał dotrzymywać swoich obietnic.",
             "isCorrect": true
           },
           {
-            "content": "Doveva proteggere le persone",
+            "content": "Musiał chronić ludzi.",
             "isCorrect": true
           },
           {
-            "content": "Doveva essere un contadino",
+            "content": "Musiał być rolnikiem.",
             "isCorrect": false
           },
           {
-            "content": "Doveva essere fedele al suo signore",
+            "content": "Musiał być lojalny wobec swojego pana.",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "Alcuni proprietari terrieri ottennero proprietà sempre più grandi e alla fine anche eserciti con cavalieri e soldati. Divennero i padroni di territori sempre più vasti e furono chiamati nobili. Come si chiama il capo più potente di tutti?",
+        "question": "Niektórzy właściciele ziemi dostawali coraz większe posiadłości, a w końcu także armie z rycerzami i żołnierzami. Stali się panami coraz większych terytoriów i byli nazywani szlachtą. Jak nazywa się największy szef z nich wszystkich?",
         "answers": [
           {
             "content": "Emperor",
@@ -3603,48 +3603,48 @@
       },
       {
         "questionId": 9,
-        "question": "Carlo Magno era:",
+        "question": "Karol Wielki był:",
         "answers": [
           {
-            "content": "Un famigerato cavaliere",
+            "content": "Notorycznym rycerzem",
             "isCorrect": false
           },
           {
-            "content": "Un re famoso",
+            "content": "Słynnym królem",
             "isCorrect": true
           },
           {
-            "content": "Un contadino gentiluomo",
+            "content": "Dżentelmenem rolnikiem",
             "isCorrect": false
           },
           {
-            "content": "Un grande poeta e scrittore",
+            "content": "Wielkim poetą i pisarzem",
             "isCorrect": false
           },
           {
-            "content": "Un famoso trovatore",
+            "content": "Słynnym trubadurem",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "Quale minaccia proveniente dal mare era nota nel Medioevo?",
+        "question": "Jakie zagrożenie ze strony morza było znane w średniowieczu?",
         "answers": [
           {
-            "content": "Il ritorno dei Romani",
+            "content": "Powrót Rzymian",
             "isCorrect": false
           },
           {
-            "content": "Attacchi di grandi animali marini",
+            "content": "Ataki dużych zwierząt morskich",
             "isCorrect": false
           },
           {
-            "content": "Looting of Normans",
+            "content": "Grabieże Normanów",
             "isCorrect": true
           },
           {
-            "content": "Looting of Monks",
+            "content": "Grabieże mnichów",
             "isCorrect": false
           }
         ]
@@ -3653,144 +3653,144 @@
   },
   {
     "id": 27,
-    "topic": "La nascita del Cristianesimo: i Monasteri",
+    "topic": "Narodziny chrześcijaństwa i monasterii",
     "questions": [
       {
         "questionId": 1,
-        "question": "Nell'Alto Medioevo, la Chiesa era rimasta l'unica istituzione con un'",
+        "question": "W późnym średniowieczu Kościół pozostawał jedyną instytucją z",
         "answers": [
           {
-            "content": "organizzazione stabile e spietata",
+            "content": "Stabilną i bezwzględną organizacją",
             "isCorrect": true
           },
           {
-            "content": "organizzazione autoritaria e rigorosa",
+            "content": "Autorytarną i surową organizacją",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "che poteva garantire sicurezza e protezione agli abitanti del territorio, e per questa ragione divenne molto",
+        "question": "Jaka była gwarancja ochrony ze strony Kościoła:",
         "answers": [
           {
-            "content": "potente",
+            "content": "Potężna",
             "isCorrect": true
           },
           {
-            "content": "temuta",
+            "content": "Obawiano się jej",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Nelle città, era presente soprattutto nelle",
+        "question": "Jak nazywa się katedra lub kościół z tronem biskupa?",
         "answers": [
           {
-            "content": "sedi papali",
+            "content": "Dom papieski",
             "isCorrect": false
           },
           {
-            "content": "sedi episcopali",
+            "content": "Siedziba episkopatu",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "nella campagna, nei monasteri, dove i monaci vivevano in",
+        "question": "Mnisi żyją w:",
         "answers": [
           {
-            "content": "comunità",
-            "isCorrect": true
+            "content": "Izolacji",
+            "isCorrect": false
           },
           {
-            "content": "isolamento",
-            "isCorrect": false
+            "content": "Wspólnocie",
+            "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "I monasteri avevano una funzione molto importante: riuscivano a proteggere e a",
+        "question": "Co klasztory robiły dla ludzi?",
         "answers": [
           {
-            "content": "nutrire",
+            "content": "Karmiły ich",
             "isCorrect": true
           },
           {
-            "content": "arricchire",
+            "content": "Wzbogacały ich",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "la popolazione, salvavano molte terre dall'abbandono, preservavano e diffondevano",
+        "question": "Co rozprzestrzeniały klasztory?",
         "answers": [
           {
-            "content": "la cultura",
+            "content": "Kulturę",
             "isCorrect": true
           },
           {
-            "content": "le tradizioni",
+            "content": "Tradycje",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 7,
-        "question": "I primi monasteri furono fondati per ordine dei",
+        "question": "Kto założył pierwsze klasztory?",
         "answers": [
           {
-            "content": "Francescani",
+            "content": "Franciszkanie",
             "isCorrect": false
           },
           {
-            "content": "Benedettini",
+            "content": "Benedyktyni",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 8,
-        "question": "Il fondatore,",
+        "question": "Kto był założycielem benedyktynów?",
         "answers": [
           {
-            "content": "Benedetto di Norcia",
+            "content": "Benedykt z Nursji",
             "isCorrect": true
           },
           {
-            "content": "Francesco d'Assisi",
+            "content": "Franciszek z Asyżu",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 9,
-        "question": "scrisse una Regola, nella quale ai monaci veniva chiesto di sottomettersi a",
+        "question": "Mnisi zostali poproszeni o zobowiązanie się do posłuszeństwa panu...",
         "answers": [
           {
-            "content": "il signore del feudo",
+            "content": "Curtisowi",
             "isCorrect": false
           },
           {
-            "content": "l'abate",
+            "content": "Opatowi",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 10,
-        "question": "a praticare la povertà e la castità, a seguire il motto ora et labora, cioè a dedicarsi",
+        "question": "Co oznacza ora et labora?",
         "answers": [
           {
-            "content": "alla preghiera e al lavoro",
+            "content": "Módl się i pracuj",
             "isCorrect": true
           },
           {
-            "content": "più al lavoro che alla preghiera",
+            "content": "Bardziej do pracy niż do modlitwy",
             "isCorrect": false
           }
         ]
@@ -3799,112 +3799,112 @@
   },
   {
     "id": 28,
-    "topic": "Atene: verso/un esempio di Democrazia",
+    "topic": "Ateny: przykład demokracji",
     "questions": [
       {
         "questionId": 1,
-        "question": "L'ostracismo è:",
+        "question": "Ostracyzm to:",
         "answers": [
           {
-            "content": "un'immagine sacra",
+            "content": "święty obraz",
             "isCorrect": false
           },
           {
-            "content": "un piatto greco",
+            "content": "greckie danie",
             "isCorrect": false
           },
           {
-            "content": "l'esilio dalla città",
+            "content": "wygnanie z miasta",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "Chi poteva partecipare alla vita politica della polis?",
+        "question": "Kto mógł uczestniczyć w życiu politycznym polis?",
         "answers": [
           {
-            "content": "Le donne",
+            "content": "kobiety",
             "isCorrect": false
           },
           {
-            "content": "solo gli anziani",
+            "content": "tylko osoby starsze",
             "isCorrect": false
           },
           {
-            "content": "gli uomini",
+            "content": "mężczyźni",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "La riforma di Solone ebbe come effetto principale:",
+        "question": "Głównym skutkiem reform Solona było:",
         "answers": [
           {
-            "content": "la nascita della democrazia",
+            "content": "narodziny demokracji",
             "isCorrect": true
           },
           {
-            "content": "la nascita della monarchia",
+            "content": "narodziny monarchii",
             "isCorrect": false
           },
           {
-            "content": "la fine dell'aristocrazia",
+            "content": "koniec arystokracji",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Il primo legislatore ateniese fu:",
+        "question": "Pierwszym ateńskim prawodawcą był:",
         "answers": [
           {
-            "content": "Clistene",
+            "content": "Klejstenes",
             "isCorrect": false
           },
           {
-            "content": "Solone",
+            "content": "Solon",
             "isCorrect": true
           },
           {
-            "content": "Pericle",
+            "content": "Perykles",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "La città di Atene amava:",
+        "question": "Miasto Ateny kochało:",
         "answers": [
           {
-            "content": "La guerra",
+            "content": "wojnę",
             "isCorrect": false
           },
           {
-            "content": "L'agricoltura",
+            "content": "rolnictwo",
             "isCorrect": false
           },
           {
-            "content": "L'arte, la cultura e l'istruzione",
+            "content": "sztukę, kulturę i edukację",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 6,
-        "question": "Le donne ateniesi si prendevano cura di:",
+        "question": "Ateńskie kobiety zajmowały się",
         "answers": [
           {
-            "content": "I loro figli",
+            "content": "swoimi dziećmi",
             "isCorrect": true
           },
           {
-            "content": "La politica",
+            "content": "polityką",
             "isCorrect": false
           },
           {
-            "content": "I divertimenti",
+            "content": "rozrywką",
             "isCorrect": false
           }
         ]
@@ -3913,94 +3913,124 @@
   },
   {
     "id": 29,
-    "topic": "L’istruzione ad Atene",
+    "topic": "Edukacja w Atenach",
     "questions": [
       {
         "questionId": 1,
-        "question": "Scegli la risposta corretta: Le ragazze ateniesi",
+        "question": "Powiedz, czy poniższe stwierdzenia są prawdziwe czy fałszywe",
         "answers": [
           {
-            "content": "badavano solo ai figli e alla casa",
+            "content": "Chłopcy nie zdobywali pierwszego wykształcenia w domu.",
+            "isCorrect": false
+          },
+          {
+            "content": "Małe dziewczynki były kształcone na żony, gospodynie domowe i dobre matki.",
             "isCorrect": true
           },
           {
-            "content": "potevano uscire liberamente",
+            "content": "Siedmioletni chłopcy chodzili do szkoły i uczyli się czytać i pisać na woskowych tabliczkach.",
+            "isCorrect": true
+          },
+          {
+            "content": "Osiemnastoletni chłopcy mogli wstąpić do wojska na dwa lata.",
             "isCorrect": false
           },
           {
-            "content": "potevano votare",
-            "isCorrect": false
+            "content": "Dziewczynki nie uczyły się czytać, ale wiedziały, jak prząść, tkać i kontrolować służbę.",
+            "isCorrect": true
+          },
+          {
+            "content": "Dziewczęta nie mogły opuszczać domu.",
+            "isCorrect": true
           }
         ]
       },
       {
         "questionId": 2,
-        "question": "I ragazzi ateniesi:",
+        "question": "Wybierz poprawną odpowiedź:",
         "answers": [
           {
-            "content": "venivano addestrati all'uso delle armi",
+            "content": "Ateńskie dziewczęta zajmowały się tylko swoimi dzieci i domem",
             "isCorrect": true
           },
           {
-            "content": "venivano addestrati alla vita domestica",
+            "content": "mogły swobodnie wychodzić z domu",
             "isCorrect": false
           },
           {
-            "content": "venivano formati per diventare pescatori",
+            "content": "mogły głosować",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 3,
-        "question": "Nella polis aristocratica i nobili",
+        "question": "Ateńscy chłopcy:",
         "answers": [
           {
-            "content": "potevano permettersi la formazione",
+            "content": "byli szkoleni w posługiwaniu się bronią",
             "isCorrect": true
           },
           {
-            "content": "potevano occuparsi dell'agricoltura",
+            "content": "byli szkoleni w zakresie życia domowego",
             "isCorrect": false
           },
           {
-            "content": "potevano educare i propri figli",
+            "content": "byli szkoleni, by zostać rybakami",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "I ragazzi venivano istruiti",
+        "question": "W arystokratycznym polis szlachta:",
         "answers": [
           {
-            "content": "dalla nonna o da uno schiavo istruito fino all'età di 18 anni",
-            "isCorrect": false
-          },
-          {
-            "content": "dalla madre o da uno schiavo istruito fino all'età di 6/7 anni",
+            "content": "mogła sobie pozwolić na szkolenie",
             "isCorrect": true
           },
           {
-            "content": "dall'oracolo della città",
+            "content": "mogła zająć się rolnictwem",
+            "isCorrect": false
+          },
+          {
+            "content": "mogła kształcić swoje dzieci",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "L'insegnante privato veniva chiamato",
+        "question": "Chłopcy byli kształceni:",
         "answers": [
           {
-            "content": "musicista",
+            "content": "przez babcię lub wykształconego niewolnika do 18 roku życia",
             "isCorrect": false
           },
           {
-            "content": "generale",
+            "content": "przez matkę lub wykształconego niewolnika do wieku 6/7 lat",
+            "isCorrect": true
+          },
+          {
+            "content": "przez wyrocznię miejską",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": 6,
+        "question": "Prywatny nauczyciel był nazywany:",
+        "answers": [
+          {
+            "content": "muzyk",
             "isCorrect": false
           },
           {
-            "content": "grammatico",
+            "content": "generał",
+            "isCorrect": false
+          },
+          {
+            "content": "gramatyk",
             "isCorrect": true
           }
         ]
@@ -4009,11 +4039,11 @@
   },
   {
     "id": 30,
-    "topic": "La guerra civile negli Stati Uniti",
+    "topic": "Wojna domowa w Stanach Zjednoczonych",
     "questions": [
       {
         "questionId": 1,
-        "question": "Quando morì Abramo Lincoln (anno)? 1865 o 1866?",
+        "question": "W którym roku zmarł Abraham Lincoln (rok)? 1865 czy 1866?",
         "answers": [
           {
             "content": "1865",
@@ -4027,7 +4057,7 @@
       },
       {
         "questionId": 2,
-        "question": "Quando finì legalmente la guerra civile? 1865 o 1866?",
+        "question": "Kiedy legalnie zakończyła się wojna secesyjna? 1865 czy 1866?",
         "answers": [
           {
             "content": "1865",
@@ -4041,38 +4071,38 @@
       },
       {
         "questionId": 3,
-        "question": "Come si chiamavano i soldati del nord? Unionisti o confederati?",
+        "question": "Jak nazywali się żołnierze z Północy? Unioniści czy Konfederaci?",
         "answers": [
           {
-            "content": "Unionisti",
+            "content": "Unioniści",
             "isCorrect": true
           },
           {
-            "content": "Confederati",
+            "content": "Konfederaci",
             "isCorrect": false
           }
         ]
       },
       {
         "questionId": 4,
-        "question": "Come si chiamavano i soldati del Sud? Unionisti o confederati?",
+        "question": "Jak nazywali się żołnierze z Południa? Unioniści czy Konfederaci?",
         "answers": [
           {
-            "content": "Unionisti",
+            "content": "Unioniści",
             "isCorrect": false
           },
           {
-            "content": "Confederati",
+            "content": "Konfederaci",
             "isCorrect": true
           }
         ]
       },
       {
         "questionId": 5,
-        "question": "Chi era il Presidente dell'Unione? Abramo Lincoln o Jefferson Davis",
+        "question": "Kto był prezesem Unii? Abraham Lincoln czy Jefferson Davis?",
         "answers": [
           {
-            "content": "Abramo Lincoln",
+            "content": "Abraham Lincoln",
             "isCorrect": true
           },
           {
@@ -4083,14 +4113,14 @@
       },
       {
         "questionId": 6,
-        "question": "Chi ha vinto la guerra civile? Gli Unionisti o i Confederati?",
+        "question": "Kto wygrał wojnę secesyjną? Unioniści czy konfederaci?",
         "answers": [
           {
-            "content": "Gli Unionisti",
+            "content": "Unioniści",
             "isCorrect": true
           },
           {
-            "content": "I Confederati",
+            "content": "Konfederaci",
             "isCorrect": false
           }
         ]

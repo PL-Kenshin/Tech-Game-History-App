@@ -878,6 +878,7 @@
             {
                 "questionId": 7,
                 "question": "Renewable Energy Sources (RES):\n\nSun, wind, water, biofuels, biomass, nuclear energy - are these Renewable Energy Sources?",
+                "image":"1.jpg",
                 "answers": [
                     {
                         "content": "True",
@@ -2348,6 +2349,7 @@
             {
                 "questionId": 5,
                 "question": "Is this a symbol of the feminist movement?",
+                "image":"2.jpg",
                 "answers": [
                     {
                         "content": "True",
@@ -2622,6 +2624,7 @@
             {
                 "questionId": 2,
                 "question": "Is this Sputnik - the first artificial earth satellite?",
+                "image":"3.jpg",
                 "answers": [
                     {
                         "content": "Yes",
@@ -2636,6 +2639,7 @@
             {
                 "questionId": 3,
                 "question": "Look at the drawing and indicate the name of the object:",
+                "image":"4.jpg",
                 "answers": [
                     {
                         "content": "Luna 10",
@@ -2766,6 +2770,7 @@
             {
                 "questionId": 1,
                 "question": "Is this John Fitzgerald Kennedy, the 35th president of the USA?",
+                "image":"5.jpg",
                 "answers": [
                     {
                         "content": "True",
@@ -2780,6 +2785,7 @@
             {
                 "questionId": 2,
                 "question": "One of the most famous photos from the day of the assassination. Was JFK killed in New York?",
+                "image":"6.jpg",
                 "answers": [
                     {
                         "content": "True",
@@ -2794,6 +2800,7 @@
             {
                 "questionId": 3,
                 "question": "A Soviet transport ship sailed to one of the islands in North America. Was it Haiti?",
+                "image":"7.jpg",
                 "answers": [
                     {
                         "content": "True",
@@ -2814,6 +2821,7 @@
             {
                 "questionId": 1,
                 "question": "The English word \"windows\" also means the name of the operating system for computers?",
+                "image":"8.jpg",
                 "answers": [
                     {
                         "content": "True",
@@ -2842,6 +2850,7 @@
             {
                 "questionId": 3,
                 "question": "Social media use programs that facilitate contact between their users (short information, photos, text messages). Are the ones presented above communicators?",
+                "image":"9.jpg",
                 "answers": [
                     {
                         "content": "True",
@@ -2856,6 +2865,7 @@
             {
                 "questionId": 4,
                 "question": "We also use the Internet as a source of entertainment - we watch movies or listen to music. Do the companies presented below allow you to listen to music?",
+                "image":"10.jpg",
                 "answers": [
                     {
                         "content": "True",

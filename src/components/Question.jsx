@@ -13,7 +13,8 @@ const Question = (props) => {
        <div>
             <h5 style={{position:'absolute',left:'-1000px'}}>{strings.question} {props.currentIndex} {strings.outOf} {props.allQuestions}</h5>
             <h5 aria-hidden="true">{strings.question} {props.currentIndex}/{props.allQuestions}</h5>
-            <p>{props.currentQuestion.charAt(0).toUpperCase() + props.currentQuestion.slice(1)} {props.multipleSelection>1?strings.multipleSelection:""}</p>
+            {props.currentQuestion.image && <img className='rounded img-fluid mx-auto d-block' style={{maxHeight:"40vh"}} src={`/${props.currentQuestion.image}`} alt={props.currentIndex}></img>}
+            <p>{props.currentQuestion.question.charAt(0).toUpperCase() + props.currentQuestion.question.slice(1)} {props.multipleSelection>1?strings.multipleSelection:""}</p>
        </div>
    )
 };
