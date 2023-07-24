@@ -43,8 +43,8 @@ const Content = (props) => {
                     strings.setLanguage(props.language)
                     setIsReady(true)
                     break;
-                case "pl":
-                    data = require('../data/pl/content.json')
+                case "ro":
+                    data = require('../data/ro/content.json')
                     setContent(data)
                     strings.setLanguage(props.language)
                     setIsReady(true)

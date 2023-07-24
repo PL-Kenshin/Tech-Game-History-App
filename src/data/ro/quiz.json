@@ -1,0 +1,4092 @@
+[
+    {
+        "id": 1,
+        "topic": "Primul Război Mondial",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "O cauză a Primului Război Mondial a fost:",
+            "answers": [
+              {
+                "content": "dorința de extindere a marilor puteri",
+                "isCorrect": true
+              },
+              {
+                "content": "Asasinarea prințului moștenitor al Serbiei",
+                "isCorrect": false
+              },
+              {
+                "content": "Lansarea bombei atomice",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "O altă cauză a Primului Război Mondial a fost:",
+            "answers": [
+              {
+                "content": "dorința de extindere a micilor puteri",
+                "isCorrect": false
+              },
+              {
+                "content": "Asasinarea arhiducelui Franz Ferdinand, moștenitorul tronului Austro-Ungariei, în Saraievo",
+                "isCorrect": true
+              },
+              {
+                "content": "Invenția computerului",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Alianțe în Primul Război Mondial, statele membrez: Antanta…",
+            "answers": [
+              {
+                "content": "Anglia, Franța, Rusia",
+                "isCorrect": true
+              },
+              {
+                "content": "Rusia, Franța, Germania",
+                "isCorrect": false
+              },
+              {
+                "content": "Anglia, Bulgaria, Olanda",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Puterile centrale…",
+            "answers": [
+              {
+                "content": "Anglia, Franța, Rusia",
+                "isCorrect": false
+              },
+              {
+                "content": "Bulgaria, Imperiul Austro-Ungar, Germania, Imperiul Otoman",
+                "isCorrect": true
+              },
+              {
+                "content": "Germania, Bulgaria, Franța",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Cele două fronturi principale ale războiului au fost:",
+            "answers": [
+              {
+                "content": "Frontul de Vest și Frontul de Est",
+                "isCorrect": true
+              },
+              {
+                "content": "Frontul de Nord și Frontul de Sud",
+                "isCorrect": false
+              },
+              {
+                "content": "Frontul de zi și Frontul de noapte",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "În 1916, pe frontul de vest au avut loc două mari bătălii, soldând cu multe victime în ambele tabere:",
+            "answers": [
+              {
+                "content": "Mărăști, Mărășești și Oituz",
+                "isCorrect": false
+              },
+              {
+                "content": "Bătăliile de la Verdun și Somme",
+                "isCorrect": true
+              },
+              {
+                "content": "Viena și Berlin",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Răspunde Adevărat sau Fals: În 1916, Statele Unite au intrat în război.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Rusia a ieșit din Primul Război Mondial în 1918 prin",
+            "answers": [
+              {
+                "content": "Tratatul de pace de la Brest-Litovsk",
+                "isCorrect": true
+              },
+              {
+                "content": "Armistițiul de la Compiègne",
+                "isCorrect": false
+              },
+              {
+                "content": "Pacea de la Ialta",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Primul Război Mondial se încheie în:",
+            "answers": [
+              {
+                "content": "1818",
+                "isCorrect": false
+              },
+              {
+                "content": "1918",
+                "isCorrect": true
+              },
+              {
+                "content": "1718",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 2,
+        "topic": "Al doilea război mondial",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "O cauză a celui de-al Doilea Război Mondial a fost:",
+            "answers": [
+              {
+                "content": "Lupta pentru teritoriile și sferele de influență ale statelor totalitare.",
+                "isCorrect": true
+              },
+              {
+                "content": "Bătălia de la Stalingrad",
+                "isCorrect": false
+              },
+              {
+                "content": "Aruncarea bombelor atomice asupra Hiroshima si Nagasaki",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "O altă cauză a celui de-al Doilea Război Mondial a fost:",
+            "answers": [
+              {
+                "content": "Atacul japonez asupra Pearl Harbor, SUA",
+                "isCorrect": false
+              },
+              {
+                "content": "Debarcarea în Normandia",
+                "isCorrect": false
+              },
+              {
+                "content": "Acţiunile revizioniste ale lui Hitler",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Cele două alianțe sunt (raspuns cu mai multe variante):",
+            "answers": [
+              {
+                "content": "Puterile Axei (Germania, Italia, Japonia)",
+                "isCorrect": true
+              },
+              {
+                "content": "Care sunt membrii Coaliției Națiunilor Unite (Regatul Unit, Uniunea Sovietică, SUA, Franța)",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Războiul începe cu atacarea Poloniei de către Germania în anul:",
+            "answers": [
+              {
+                "content": "1839",
+                "isCorrect": false
+              },
+              {
+                "content": "1939",
+                "isCorrect": true
+              },
+              {
+                "content": "1739",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Prin Operațiunea Barbarossa, Germania atacă:",
+            "answers": [
+              {
+                "content": "SUA",
+                "isCorrect": false
+              },
+              {
+                "content": "URSS",
+                "isCorrect": true
+              },
+              {
+                "content": "Marea Britanie",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Evenimentul care a determinat intrarea SUA în război a fost:",
+            "answers": [
+              {
+                "content": "Declanșarea celui de-al doilea război mondial",
+                "isCorrect": false
+              },
+              {
+                "content": "Atacarea bazei americane de la Pearl Harbor",
+                "isCorrect": true
+              },
+              {
+                "content": "Bătălia de la Stalingrad",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Bătălia navală majoră care a schimbat cursul celui de-al Doilea Război Mondial în Teatrul Pacificului a fost:",
+            "answers": [
+              {
+                "content": "Pearl Harbor",
+                "isCorrect": false
+              },
+              {
+                "content": "Midway",
+                "isCorrect": true
+              },
+              {
+                "content": "Washington",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Debarcarea în Normandia a avut loc în:",
+            "answers": [
+              {
+                "content": "1944",
+                "isCorrect": true
+              },
+              {
+                "content": "1744",
+                "isCorrect": false
+              },
+              {
+                "content": "1844",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Raspunde Adevărat sau Fals: Bătălia de la Stalingrad a avut loc pe teritoriul URSS",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "Cucerirea Berlinului de către Națiunile Unite va duce la capitularea Italiei.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 11,
+            "question": "Cele două bombe atomice care au pus capăt celui de-al Doilea Război Mondial au fost aruncate asupra orașelor japoneze Hiroshima și Nagasaki.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 3,
+        "topic": "Războiul rece",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Raspunde Adevărat sau Fals: Războiul Rece a fost o rivalitate geopolitică între două țări: SUA și Uniunea Sovietică.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Raspunde Adevărat sau Fals: Războiul Rece a început în jurul anului 1950, odată cu introducerea Doctrinei Truman și a Planului Marshall.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Raspunde Adevărat sau Fals: În 1949, Statele Unite și aliații săi europeni au format Organizația Tratatului Atlanticului de Nord (NATO) pentru a-i proteja pe fiecare în caz de atac.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Raspunde Adevărat sau Fals: Statele Unite nu au vrut ca comunismul să se răspândească în alte țări din Europa. Prin urmare, Statele Unite au dat bani acelor țări pentru a le reconstrui după război. Acesta a fost numit Planul Marshall după George Marshall, americanul care a propus planul.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Raspunde Adevărat sau Fals: Războiul Rece s-a încheiat în 1980, după prăbușirea și dizolvarea Uniunii Sovietice.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 4,
+        "topic": "Revoluția industrială (partea 1)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Ce tip nou de surse pentru cunoașterea istorică au devenit disponibile în secolul al XIX-lea?",
+            "answers": [
+              {
+                "content": "Televiziunea color",
+                "isCorrect": false
+              },
+              {
+                "content": "Registrul civil",
+                "isCorrect": false
+              },
+              {
+                "content": "Presă de masă",
+                "isCorrect": false
+              },
+              {
+                "content": "Starea civilă, presa de masă și mass-media audiovizuală",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "În secolul al XVIII-lea, ordinea de conducere peste tot în Europa de Vest încă se bazează pe conducerea suverană a monarhului.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Această situație a continuat în secolul al XIX-lea.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Au acceptat oamenii din Franța în secolul al XIX-lea situația politică din secolul al XVIII-lea?",
+            "answers": [
+              {
+                "content": "a) a acceptat situația politică",
+                "isCorrect": false
+              },
+              {
+                "content": "b) a acceptat, dar a cerut câteva șanse de a îmbunătăți viața de zi cu zi",
+                "isCorrect": false
+              },
+              {
+                "content": "c) Nu a acceptat și a început o revoltă",
+                "isCorrect": true
+              },
+              {
+                "content": "d) Nu a acceptat și nu a făcut nimic în privința asta",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "După ce drepturile și funcțiile au devenit accesibile cetățenilor, acest lucru a dus la o libertate mai mare și durabilă pentru toți.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Ce s-a întâmplat după ultimul război napoleonian?",
+            "answers": [
+              {
+                "content": "a) Toate națiunile europene au fost din nou libere și au putut din nou să facă uz de drepturile dobândite.",
+                "isCorrect": false
+              },
+              {
+                "content": "b) Toate națiunile europene au fost din nou libere și capabile, dar vechea situație politică a intrat din nou în vigoare.",
+                "isCorrect": false
+              },
+              {
+                "content": "c) Toate națiunile europene au fost din nou libere și capabile, iar vechea situație politică a intrat din nou în vigoare, dar pentru o perioadă relativ scurtă.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "În secolul al XIX-lea, țările au început să colonizeze teritoriile de peste mări.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Sclavia a fost abolită în secolul al XIX-lea pentru că nu mai era nevoie de sclavi.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Ce a declanșat industrializarea în secolul al XIX-lea?",
+            "answers": [
+              {
+                "content": "Abolirea sclaviei",
+                "isCorrect": false
+              },
+              {
+                "content": "Utilizarea răzătoarelor",
+                "isCorrect": false
+              },
+              {
+                "content": "Invenţia maşinii cu abur",
+                "isCorrect": true
+              },
+              {
+                "content": "Construirea liniilor de cale ferată",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "Caracteristica industrializării este",
+            "answers": [
+              {
+                "content": "Toată producția situată la domiciliu",
+                "isCorrect": false
+              },
+              {
+                "content": "Toată producția la scară mică",
+                "isCorrect": false
+              },
+              {
+                "content": "Producția de masă care este centralizată în orașe",
+                "isCorrect": false
+              },
+              {
+                "content": "Producția de masă care este centralizată în fabrici",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 11,
+            "question": "În anumite industrii se creează zone industriale specializate, cu suprafețe mari de vânzare, rezultând o creștere puternică a traficului de mărfuri.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 12,
+            "question": "Cum a alunecat industrializarea și în agricultură?",
+            "answers": [
+              {
+                "content": "Au fost introduse animale noi în turme",
+                "isCorrect": false
+              },
+              {
+                "content": "Au fost cultivate noi culturi pentru a hrăni mai mulți oameni",
+                "isCorrect": false
+              },
+              {
+                "content": "Fermierii au fost înlocuiți cu roboți pentru o producție mai mare de alimente pentru populația în creștere",
+                "isCorrect": false
+              },
+              {
+                "content": "Invenția de noi culturi pentru o producție mai mare de alimente de bază",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 13,
+            "question": "Industrializarea a avut și are și consecințe pozitive asupra mediului.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 14,
+            "question": "Industrializarea a avut și a avut o mare influență asupra peisajului zonelor urbane și rurale.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 15,
+            "question": "Revoluția industrială a adus imediat prosperitate tuturor.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 16,
+            "question": "Cum a ajutat revoluția industrială să acorde femeilor drepturi egale?",
+            "answers": [
+              {
+                "content": "A creat conștientizarea unui standard moral superior",
+                "isCorrect": false
+              },
+              {
+                "content": "Nu erau suficienți muncitori pentru a face toată munca",
+                "isCorrect": true
+              },
+              {
+                "content": "Femeile sunt mai bune pentru munca în industrie",
+                "isCorrect": false
+              },
+              {
+                "content": "Nu mai era nevoie de femei pentru îngrijirea copiilor",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 5,
+        "topic": "Revoluția industrială (partea 2)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Ce a fost Revoluția Industrială?",
+            "answers": [
+              {
+                "content": "Nașterea mașinilor",
+                "isCorrect": false
+              },
+              {
+                "content": "Răspândirea producției de masă",
+                "isCorrect": true
+              },
+              {
+                "content": "Începutul Americii",
+                "isCorrect": false
+              },
+              {
+                "content": "Începutul Walmart-ului",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "De unde a început Revoluția Industrială?",
+            "answers": [
+              {
+                "content": "America",
+                "isCorrect": false
+              },
+              {
+                "content": "Africa",
+                "isCorrect": false
+              },
+              {
+                "content": "Franța",
+                "isCorrect": false
+              },
+              {
+                "content": "Marea Britanie",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "De ce este importantă revoluția industrială pentru istorie?",
+            "answers": [
+              {
+                "content": "Nu este.",
+                "isCorrect": false
+              },
+              {
+                "content": "Pentru că invențiile revoluției au condus la invențiile de astăzi.",
+                "isCorrect": true
+              },
+              {
+                "content": "Pentru că a făcut America mai bună decât Franța.",
+                "isCorrect": false
+              },
+              {
+                "content": "Pentru că atunci s-au întâmplat multe lucruri importante.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Ce fel de mediu de lucru au furnizat fabricile?",
+            "answers": [
+              {
+                "content": "Aer condiționat, curat și distractiv",
+                "isCorrect": false
+              },
+              {
+                "content": "Fierbinte, curat și multe pauze",
+                "isCorrect": false
+              },
+              {
+                "content": "Umed, prăfuit și plătit bun",
+                "isCorrect": false
+              },
+              {
+                "content": "Calitatea aerului cald, murdar, proastă",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Pe ce dispozitiv vehicul se găsea în mod obișnuit un motor cu abur?",
+            "answers": [
+              {
+                "content": "Mașină",
+                "isCorrect": false
+              },
+              {
+                "content": "Tren",
+                "isCorrect": true
+              },
+              {
+                "content": "Autobuz",
+                "isCorrect": false
+              },
+              {
+                "content": "Avionul aerian",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Care dintre următoarele a ajutat la declanșarea Revoluției Industriale?",
+            "answers": [
+              {
+                "content": "Mișcarea de incintă",
+                "isCorrect": false
+              },
+              {
+                "content": "Pachetul de stimulente economice Obama a fost aprobat",
+                "isCorrect": false
+              },
+              {
+                "content": "Constituția Statelor Unite ale Americii",
+                "isCorrect": false
+              },
+              {
+                "content": "Legea fabricii din 1883",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Surse de energie regenerabilă (SRE):\n\nSoare, vânt, apă, biocombustibili, biomasă, energie nucleară - sunt acestea surse de energie regenerabilă?",
+            "image": "1.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 6,
+        "topic": "Revoluția franceză",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Cine se bucura de privilegii în Franța în secolul al XVIII-lea?",
+            "answers": [
+              {
+                "content": "burghezia",
+                "isCorrect": false
+              },
+              {
+                "content": "nobilii și clerul",
+                "isCorrect": true
+              },
+              {
+                "content": "poporul",
+                "isCorrect": false
+              },
+              {
+                "content": "papa",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Ce adunare a fost convocată în Franța pentru a rezolva criza economică?",
+            "answers": [
+              {
+                "content": "Adunarea Statelor Regionale",
+                "isCorrect": false
+              },
+              {
+                "content": "Adunarea Provinciilor regionale",
+                "isCorrect": false
+              },
+              {
+                "content": "Adunarea Provinciilor generale",
+                "isCorrect": false
+              },
+              {
+                "content": "Adunarea Statului General",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "În ce an a fost atacată și cucerită Bastilia?",
+            "answers": [
+              {
+                "content": "în 1787",
+                "isCorrect": false
+              },
+              {
+                "content": "în 1789",
+                "isCorrect": true
+              },
+              {
+                "content": "în 1798",
+                "isCorrect": false
+              },
+              {
+                "content": "în 1889",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "În ce s-a transformat monarhia franceză?",
+            "answers": [
+              {
+                "content": "Într-o monarhie prezidențială",
+                "isCorrect": false
+              },
+              {
+                "content": "Într-o monarhie constituțională",
+                "isCorrect": true
+              },
+              {
+                "content": "Într-o republică",
+                "isCorrect": false
+              },
+              {
+                "content": "Într-o federație",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Ce s-a întâmplat cu regale Franței în timpul revoluției?",
+            "answers": [
+              {
+                "content": "A scăpat",
+                "isCorrect": false
+              },
+              {
+                "content": "S-a aliat cu papa",
+                "isCorrect": false
+              },
+              {
+                "content": "A organizat proteste de stradă cu ajutorul soldaților",
+                "isCorrect": false
+              },
+              {
+                "content": "A fost condamnat la moarte",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Cum a fost numită perioada lui Robespierre’s?",
+            "answers": [
+              {
+                "content": "Pace",
+                "isCorrect": false
+              },
+              {
+                "content": "Armistițiu",
+                "isCorrect": false
+              },
+              {
+                "content": "Iluminism",
+                "isCorrect": false
+              },
+              {
+                "content": "Teroare",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 7,
+        "topic": "Viața lui Iisus și apariția creștinismului",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Cine a fost întemeietorul creștinismului?",
+            "answers": [
+              {
+                "content": "Iisus Hristos",
+                "isCorrect": true
+              },
+              {
+                "content": "Iuda",
+                "isCorrect": false
+              },
+              {
+                "content": "Allah",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Cine este Iisus Hristos?",
+            "answers": [
+              {
+                "content": "Iisus Hristos este fiul lui Allah.",
+                "isCorrect": false
+              },
+              {
+                "content": "Iisus Hristos este fiul lui Dumnezeu.",
+                "isCorrect": true
+              },
+              {
+                "content": "Iisus Hristos este fiul Iudeii.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Creștinii cred că Iisus este fiul lui Dumnezeu. Ei urmează învățăturile Lui și pe cele ale bisericilor creștine. (Adevarat / Fals)",
+            "answers": [
+              {
+                "content": "Adevarat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Lăcașul de închinăciune creștin se numește Biserică. (Adevarat / Fals)",
+            "answers": [
+              {
+                "content": "Adevarat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Principalele sărbători creștine sunt Paștele și Crăciunul. (Adevarat / Fals)",
+            "answers": [
+              {
+                "content": "Adevarat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 8,
+        "topic": "Viața lui Mohamed și Nașterea Islamului",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Profetul Muhammad, s-a născut în 570 D.A. la Mecca. (Adevărat sau fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Cuvântul arab „Islam” înseamnă supunere și supunere derivă dintr-un cuvânt care înseamnă „pace”. (Adevărat sau fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Islamul se bazează pe slujirea unui om pe nume Isus și pe cuvintele pe care Iudeea le-a dat lumii prin Mohammed. (Adevărat sau fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Allah este numele pe care musulmanii îl folosesc pentru Dumnezeul suprem și unic, care a creat și guvernează totul. (Adevărat sau fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 9,
+        "topic": "Prima Cruciadă 1095-1099 (Franța, Turcia, Siria, Palestina, Israel)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Ierusalimul era considerat oraș sfânt de către musulmani pentru că:",
+            "answers": [
+              {
+                "content": "Profetul Mahomed s-a născut acolo",
+                "isCorrect": false
+              },
+              {
+                "content": "Profetul Mahomed a fost înmormântat acolo",
+                "isCorrect": false
+              },
+              {
+                "content": "Profetul Mahomed s-a ridicat la cer acolo",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Prima Cruciadă a început în 1096",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Una dintre cauzele Primei Cruciade a fost recolta foarte slabă din 1095",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Chemarea la Război Sfânt a fost lansată de:",
+            "answers": [
+              {
+                "content": "Alexios Comnen",
+                "isCorrect": false
+              },
+              {
+                "content": "Peter Eremitul",
+                "isCorrect": false
+              },
+              {
+                "content": "Pope Urban II",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Scopul Primei Cruciade a fost eliberarea orașului sfânt:",
+            "answers": [
+              {
+                "content": "Ierusalim",
+                "isCorrect": true
+              },
+              {
+                "content": "Roma",
+                "isCorrect": false
+              },
+              {
+                "content": "Santiago",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Chemarea la Război Sfânt a fost lansată la... (Clermont)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Primii care au pornit în cruciadă au fost țăranii. (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Papa Urban al II-lea a condus asediul Ierusalimului. (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "La sfârșitul Primei Cruciade, Ierusalimul a revenit sub stăpânirea creștinilor. (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "Statele cruciate formate după Prima Cruciadă au fost: (Jerusalem, Edessa, Tripoli, Antioch)",
+            "answers": [
+              {
+                "content": "Jerusalem, Edessa, Tripoli, Antioch",
+                "isCorrect": true
+              },
+              {
+                "content": "Byzantium, Jerusalem, Palestina, Egypt, Nicea, Constantinople, Selgiuk, Fatimid",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 11,
+            "question": "Cuvântul 'cruciat' înseamnă:",
+            "answers": [
+              {
+                "content": "Participant la cruciadă, purtând semnul crucii cusut pe haină sau pictat pe scut",
+                "isCorrect": true
+              },
+              {
+                "content": "Istoric care studiază cauzele, desfășurarea și urmările cruciadelor",
+                "isCorrect": false
+              },
+              {
+                "content": "Una dintre piesele care formează armura unui cavaler, având formă de cruce",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 10,
+        "topic": "Ascensiunea și căderea civilizației aztece",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Aztecii au trăit în Mexicul actual. Adevărat/Fals",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Aztecii aveau un calendar lunar. Adevărat/Fals",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Cortez era de origine aztecă. Adevărat/Fals",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Imperiul Aztec s-a prăbușit în 1521. Adevărat/Fals",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Spaniolii au preluat Imperiul Aztec. Adevărat/Fals",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 11,
+        "topic": "Moartea neagră (ciuma bubonică) devastează Europa",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Ce a fost moartea neagră?",
+            "answers": [
+              {
+                "content": "O ciumă care a venit în Europa",
+                "isCorrect": true
+              },
+              {
+                "content": "O ciumă care a venit în Asia",
+                "isCorrect": false
+              },
+              {
+                "content": "O ciumă care a venit în Australia",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "De unde a venit?",
+            "answers": [
+              {
+                "content": "Europa și Africa",
+                "isCorrect": false
+              },
+              {
+                "content": "Asia de Est şi Centrală",
+                "isCorrect": true
+              },
+              {
+                "content": "America de Nord și de Sud",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "În ce ani au fost cele mai grave ciume în Europa?",
+            "answers": [
+              {
+                "content": "1175-1184",
+                "isCorrect": false
+              },
+              {
+                "content": "1251-1256",
+                "isCorrect": false
+              },
+              {
+                "content": "1347-1353",
+                "isCorrect": true
+              },
+              {
+                "content": "1410-1416",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Moartea Neagră se numea uneori cum?",
+            "answers": [
+              {
+                "content": "Spaniolă",
+                "isCorrect": false
+              },
+              {
+                "content": "Ciuma bubonică",
+                "isCorrect": true
+              },
+              {
+                "content": "Gripa rusă",
+                "isCorrect": false
+              },
+              {
+                "content": "COVID-19",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Moartea Neagră a ucis cam ce procent din populația Europei?",
+            "answers": [
+              {
+                "content": "O secundă",
+                "isCorrect": false
+              },
+              {
+                "content": "O treime",
+                "isCorrect": true
+              },
+              {
+                "content": "Patrime",
+                "isCorrect": false
+              },
+              {
+                "content": "O cincime",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Care au fost cele două probleme principale atât pentru țărani, cât și pentru nobilime în timpul „Moarții negre”?",
+            "answers": [
+              {
+                "content": "Lipsa de oameni care să lucreze la câmp a fost o problemă pentru țărani în timpul morții negre? (Adevărat)",
+                "isCorrect": true
+              },
+              {
+                "content": "Au trebuit nobilii să-și lucreze câmpurile (nu erau obișnuiți sau destul de buni) în timpul morții negre? (Adevărat)",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Aproximativ ce procent din europeni au murit din cauza ciumei?",
+            "answers": [
+              {
+                "content": "30%",
+                "isCorrect": true
+              },
+              {
+                "content": "40%",
+                "isCorrect": false
+              },
+              {
+                "content": "50%",
+                "isCorrect": false
+              },
+              {
+                "content": "60%",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "În timpul morții negre, au existat medici de ciume care îngrijeau bolnavi? Adevărat/Fals",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 12,
+        "topic": "Renașterea",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Copernic confirmă vechea credință că Soarele se învârte în jurul Pământului (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Michelangelo pictează Mona Lisa (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Leonardo da Vinci decorează Capela Sixtină (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Cultura Renașterii pune omul și existența lui în centru (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Artiștii, filozofii, poeții sunt găzduiți în instanțe (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Castelele devin locuri de producție culturală (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Când a avut loc mișcarea culturală a Umanismului?",
+            "answers": [
+              {
+                "content": "Renaștere",
+                "isCorrect": true
+              },
+              {
+                "content": "Iluminism",
+                "isCorrect": false
+              },
+              {
+                "content": "Evul Mediu",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Cunoștințele tehnico-practice au respins tradițiile din Evul Mediu (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Un aspect important în difuzarea Renașterii a fost numit - Signorie (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "Ce au primit artiștii și oamenii de știință de la lorzi pentru munca lor?",
+            "answers": [
+              {
+                "content": "Protecție",
+                "isCorrect": false
+              },
+              {
+                "content": "Îngrijire",
+                "isCorrect": false
+              },
+              {
+                "content": "Tutelă",
+                "isCorrect": false
+              },
+              {
+                "content": "Patronaj",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 11,
+            "question": "Ce a făcut cultura să se răspândească mai mult?",
+            "answers": [
+              {
+                "content": "Invenția stiloului",
+                "isCorrect": false
+              },
+              {
+                "content": "Imprimare de tip mobil",
+                "isCorrect": true
+              },
+              {
+                "content": "Acces mai mare la cărți",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 12,
+            "question": "Cine a inventat tiparul mobil?",
+            "answers": [
+              {
+                "content": "Muller",
+                "isCorrect": false
+              },
+              {
+                "content": "Bohte",
+                "isCorrect": false
+              },
+              {
+                "content": "Gutenberg",
+                "isCorrect": true
+              },
+              {
+                "content": "Peutinger",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 13,
+        "topic": "Renașterea târzie",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Care ne-a ajutat cel mai mult să cunoaștem New Age?",
+            "answers": [
+              {
+                "content": "Săpături și rămășițe",
+                "isCorrect": false
+              },
+              {
+                "content": "Invenția tiparului de cărți",
+                "isCorrect": true
+              },
+              {
+                "content": "Tot felul de clădiri și obiecte",
+                "isCorrect": false
+              },
+              {
+                "content": "Descoperiri arheologice",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Călătoriile de descoperire duc la:",
+            "answers": [
+              {
+                "content": "O livrare mai bună",
+                "isCorrect": false
+              },
+              {
+                "content": "Meșteșuguri și științe mai bune",
+                "isCorrect": false
+              },
+              {
+                "content": "Răspândirea culturilor",
+                "isCorrect": false
+              },
+              {
+                "content": "Contacte între continente care au influențat natura în diferite părți ale lumii",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Principalul centru de comerț și industrie în New Age a fost în Țările de Jos (Adevărat sau Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Ce s-a întâmplat cu indigenii în călătoriile de descoperire?",
+            "answers": [
+              {
+                "content": "Au fost convertiți la creștinism",
+                "isCorrect": false
+              },
+              {
+                "content": "S-au simțit pradă sclaviei",
+                "isCorrect": true
+              },
+              {
+                "content": "Au devenit foarte bogați",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Ce națiuni au deschis noi zone în New Age?",
+            "answers": [
+              {
+                "content": "Anglia și Spania",
+                "isCorrect": true
+              },
+              {
+                "content": "Portugalia și Țările de Jos",
+                "isCorrect": true
+              },
+              {
+                "content": "Germania și Belgia",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 14,
+        "topic": "Partida de ceai de la Boston: Coloniștii americani protestează împotriva noilor taxe aruncând ceaiul în portul Boston: 16/12/1773",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Coloniștii americani nu vroiau să plătească taxa pe ceai pentru că:",
+            "answers": [
+              {
+                "content": "Se opuneau taxării în lipsa reprezentării",
+                "isCorrect": true
+              },
+              {
+                "content": "Se gândeau că pot cultiva propriul lor ceai",
+                "isCorrect": false
+              },
+              {
+                "content": "Prețul ceaiului ar fi devenit prea mare",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Compania Indiilor de Est avea nevoie de ajutor pentru a vinde o mare cantitate de ceai.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "După încheierea Războiului de 7 ani Marea Britanie avea nevoie de noi surse de finanțare.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Prețul ceaiului a crescut în urma adoptării noii legi.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Organizația implicată în pregătirea distrugerii ceaiului în portul Boston a fost:",
+            "answers": [
+              {
+                "content": "Frați de arme",
+                "isCorrect": false
+              },
+              {
+                "content": "Fiii libertății",
+                "isCorrect": true
+              },
+              {
+                "content": "Boston Celtics",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Numărul corăbiilor încărcate cu ceai care au intrat în portul Boston la sfârșitul anului 1773 a fost:",
+            "answers": [
+              {
+                "content": "3",
+                "isCorrect": true
+              },
+              {
+                "content": "1",
+                "isCorrect": false
+              },
+              {
+                "content": "5",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Corăbiile ar fi putut părăsi portul Boston și și-ar fi putut transporta încărcătura de ceai spre un alt port în America sau înapoi în Anglia.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Pagubele produse în timpul Partidei de ceai de la Boston:",
+            "answers": [
+              {
+                "content": "Mulți oameni au fost răniți sau uciși",
+                "isCorrect": false
+              },
+              {
+                "content": "Aproape 47 tone de ceai au fost distruse",
+                "isCorrect": true
+              },
+              {
+                "content": "Cele aproape 100 de tunuri care păzeau intrarea în port au fost aruncate în mare",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "După evenimentele de la Boston, Parlamentul britanic și-a reconsiderat poziția și a acceptat să primească o delegație a coloniștilor.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "Partida de ceai de la Boston este considerată unul dintre evenimentele care au dus la Războiul de Independență din America.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 11,
+            "question": "Parlamentul britanic a adoptat Actele coercitive, numite și Actele Intolerabile.",
+            "answers": [
+              {
+                "content": "Actele Intolerabile",
+                "isCorrect": true
+              },
+              {
+                "content": "Actele Restrictive",
+                "isCorrect": false
+              },
+              {
+                "content": "Actele Opresive",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 15,
+        "topic": "Revoluția americană: 1775-1783",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Una dintre cauzele revoluției americane a fost:",
+            "answers": [
+              {
+                "content": "Taxare fără reprezentare",
+                "isCorrect": true
+              },
+              {
+                "content": "Condamnare fără investigare",
+                "isCorrect": false
+              },
+              {
+                "content": "Deportare fără condamnare",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "În timpul partidei de ceai de la Boston, încărcătura de ceai de pe trei corăbii a fost:",
+            "answers": [
+              {
+                "content": "Aruncată în mare",
+                "isCorrect": true
+              },
+              {
+                "content": "Confiscată de către patrioți",
+                "isCorrect": false
+              },
+              {
+                "content": "Vândută la prețuri foarte mari",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Alege varianta cu ordinea corectă a evenimentelor:",
+            "answers": [
+              {
+                "content": "Primul Congres Continental, Partida de ceai de la Boston, Ciocnirea de la Lexington",
+                "isCorrect": false
+              },
+              {
+                "content": "Partida de ceai de la Boston, Primul Congres Continental, Ciocnirea de la Lexington",
+                "isCorrect": true
+              },
+              {
+                "content": "Ciocnirea de la Lexington, Primul Congres Continental, Partida de ceai de la Boston",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Primul Congres Continental a proclamat independența celor 13 colonii.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Independența coloniilor a fost proclamată în anul 1776.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Principalul aliat al Coloniilor a fost Canada.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Conducătorul armatei americane a fost:",
+            "answers": [
+              {
+                "content": "Benjamin Franklin",
+                "isCorrect": false
+              },
+              {
+                "content": "Thomas Jefferson",
+                "isCorrect": false
+              },
+              {
+                "content": "George Washington",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Franța a declarat război Marii Britanii după victoria americană la Saratoga.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Victoria decisivă pentru armata americană a fost la Yorktown.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "Tratatul de pace care a încheiat războiul revoluționar american a fost semnat la Versailles.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 11,
+            "question": "Victoria Coloniilor a avut urmări pozitive pentru triburile native americane.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 12,
+            "question": "O colonie este:",
+            "answers": [
+              {
+                "content": "Un grup de nave care transportau ceai din portul Colone, deplasându-se împreună",
+                "isCorrect": false
+              },
+              {
+                "content": "O țară sau un teritoriu aflat sub controlul politic parțial sau total al unei alte țări și în care s-au stabilit coloniști din această țară",
+                "isCorrect": true
+              },
+              {
+                "content": "O întâlnire sau o serie de întâlniri formale între delegați, mai ales membri ai unor partide politice sau susținători ai acelorași doctrine",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 16,
+        "topic": "Mișcarea pentru vot: femeile luptă pentru dreptul la vot: 1893-1928",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Sufragiul din cuvântul latin sufragium se referă la...",
+            "answers": [
+              {
+                "content": "Cei care au suferit pentru a obține dreptul de vot",
+                "isCorrect": true
+              },
+              {
+                "content": "Un vot acordat pentru a decide o întrebare controversată",
+                "isCorrect": false
+              },
+              {
+                "content": "Sacrificiile care trebuie făcute pentru guvernarea reprezentativă",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Care este diferența dintre cuvântul sufragist și sufragită?",
+            "answers": [
+              {
+                "content": "Sufragistul se referă la bărbați și sufragista se referă la femei.",
+                "isCorrect": false
+              },
+              {
+                "content": "Sufragistul a fost folosit pentru a se referi la femeile care căutau dreptul de a vota, în timp ce aceste femei se refereau la ele însele drept sufragite.",
+                "isCorrect": true
+              },
+              {
+                "content": "Sufragita este un termen derogatoriu, în timp ce sufragistul nu este.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Convenția pentru Drepturile Femeii a avut loc la Seneca Falls în 1848. Documentul elaborat la această convenție a fost numit...",
+            "answers": [
+              {
+                "content": "„Drepturile inalienabile ale femeilor”",
+                "isCorrect": false
+              },
+              {
+                "content": "„Declarația drepturilor femeii”",
+                "isCorrect": false
+              },
+              {
+                "content": "„Declarația de sentimente”",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "A fost ratificat al 19-lea amendament al Constituției SUA la 18 august 1920?",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Este acesta un simbol al mișcării feministe?",
+            "image": "2.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 17,
+        "topic": "Revoluția Rusă: 1917-1922",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Înainte de revoluție, Rusia era condusă de un monarh puternic numit țarul. Țarul avea putere totală în Rusia.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Revoluția rusă a fost condusă de Vladimir Lenin și de un grup de revoluționari numiți bolșevici.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Un eveniment major care a condus la Revoluția Rusă a avut loc pe 22 ianuarie 1925. Această zi se numește Duminica Sângeroasă.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Din 1918 până în 1920, Rusia a trăit un război civil între bolșevici (numiți și Armata Roșie) și antibolșevici (Armata Albă). Bolșevicii au câștigat și noua țară a fost numită URSS (Uniunea Republicilor Sovietice Socialiste).",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Poporul Rusiei s-a revoltat pentru prima dată la începutul anului 1927.",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 18,
+        "topic": "Se formează Națiunile Unite: 1945-1946 (Europa, America de Nord și S., Asia, Africa, Australia)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Adevărat sau Fals: ONU a fost înființată în 1845",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Adevărat sau Fals: ONU a urmărit inițial menținerea păcii",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Adevărat sau Fals: Există 93 de țări în ONU",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Adevărat sau Fals: În prezent, ONU urmărește reducerea sărăciei",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Adevărat sau Fals: În prezent, ONU vizează drepturile omului",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 19,
+        "topic": "Revoluția digitală: Invenția computerului electric digital",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Adevărat sau Fals: Invenția microelectronicii (tranzistoare, circuite integrate) a inaugurat revoluția digitală?",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Adevărat sau Fals: Wi-Fi este utilizat pentru comunicarea fără fir a dispozitivelor mobile?",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Adevărat sau Fals: Putem observa o dezvoltare foarte rapidă a electronic banking-ului. Este Bitcoin o monedă virtuală?",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Adevărat sau Fals: Este folosită o imprimantă 3D pentru a imprima pe hârtie?",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Adevărat sau Fals: Realitatea virtuală și inteligența artificială - înseamnă același lucru?",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 20,
+        "topic": "Uniunea Sovietică lansează Sputnik, primul satelit creat de om: 10/4/1957 (Rusia)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Uniunea Sovietică a dat startul Cursei Spațiale lansând ce satelit în spațiu?",
+            "answers": [
+              {
+                "content": "Kosmos",
+                "isCorrect": false
+              },
+              {
+                "content": "Spektr",
+                "isCorrect": false
+              },
+              {
+                "content": "Sputnik",
+                "isCorrect": true
+              },
+              {
+                "content": "YoutSat",
+                "isCorrect": false
+              },
+              {
+                "content": "Voyager",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Acesta este Sputnik - primul satelit artificial de pământ?",
+            "image": "3.jpg",
+            "answers": [
+              {
+                "content": "Da",
+                "isCorrect": false
+              },
+              {
+                "content": "NU",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Priviți desenul și indicați numele obiectului:",
+            "image": "4.jpg",
+            "answers": [
+              {
+                "content": "Luna 10",
+                "isCorrect": false
+              },
+              {
+                "content": "Sojuz 4",
+                "isCorrect": false
+              },
+              {
+                "content": "Sputnik 1",
+                "isCorrect": true
+              },
+              {
+                "content": "Wostok 1",
+                "isCorrect": false
+              },
+              {
+                "content": "Gemini 8",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Când a fost lansat primul satelit pământesc?",
+            "answers": [
+              {
+                "content": "14 decembrie 1903",
+                "isCorrect": false
+              },
+              {
+                "content": "8 mai 1945",
+                "isCorrect": false
+              },
+              {
+                "content": "4 octombrie 1957",
+                "isCorrect": true
+              },
+              {
+                "content": "20 iulie 1969",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 21,
+        "topic": "Yuri Gagarin devine primul om în spațiu: 1961 (Rusia)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Yuri Alexeyevich Gagarin a fost un cosmonaut rus. El a devenit primul om în spațiu la 1 aprilie. (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "La 12 aprilie 1981, Gagarin a devenit primul om care a călătorit în spațiu, lansând pe orbită Vostok 3KA-3 (Vostok 1). (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Oamenii occidentali au susținut că Gagarin, în timpul zborului său în spațiu, a făcut comentariul: „Nu văd niciun Dumnezeu aici sus.” (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "În 1982, a început să servească ca adjunct la Sovietul Suprem al Uniunii Sovietice. (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Motivul accidentului este necunoscut, dar turbulența de la un interceptor Su-11 „Fish-pot-C” ce folosea post-arsurile acestuia le-ar fi putut provoca pierderea controlului avionului. (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 22,
+        "topic": "Președintele SUA John F. Kennedy este asasinat la Dallas, Texas: 22.11.1963 (SUA)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Acesta este John Fitzgerald Kennedy, al 35-lea președinte al SUA? (Adevărat/Fals)",
+            "image": "5.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Una dintre cele mai faimoase fotografii din ziua asasinatului. Cand JFK a fost ucis la New York? (Adevărat/Fals)",
+            "image": "6.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "O navă de transport sovietică a navigat către una dintre insulele din America de Nord. E vorba despre Haiti? (Adevărat/Fals)",
+            "image": "7.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 23,
+        "topic": "Nașterea internetului: 1965-1995 (SUA)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Cuvântul englezesc „windows” înseamnă și numele sistemului de operare pentru computere? (Adevărat/Fals)",
+            "image": "8.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Programe care oferă acces la conținutul postat pe Internet sunt browserela web? (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Social media utilizează programe care facilitează contactul între utilizatorii lor (informații scurte, fotografii, mesaje text). Cele prezentate mai sus sunt comunicatoare? (Adevărat/Fals)",
+            "image": "9.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "De asemenea, folosim internetul ca sursă de divertisment - ne uităm la filme sau ascultăm muzică. Companiile prezentate mai jos vă permit să ascultați muzică? (Adevărat/Fals)",
+            "image": "10.jpg",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "S-au plantat semințele internetului în anul:",
+            "answers": [
+              {
+                "content": "1969",
+                "isCorrect": true
+              },
+              {
+                "content": "1970",
+                "isCorrect": false
+              },
+              {
+                "content": "1960",
+                "isCorrect": false
+              },
+              {
+                "content": "1980",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "ARPANETul original a fost închis în anul:",
+            "answers": [
+              {
+                "content": "1990",
+                "isCorrect": true
+              },
+              {
+                "content": "1995",
+                "isCorrect": false
+              },
+              {
+                "content": "1980",
+                "isCorrect": false
+              },
+              {
+                "content": "1970",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Internetul ne oferă acces la multe resurse cu care altfel nu am putea intra în contact. (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": true
+              },
+              {
+                "content": "Fals",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Informațiile de pe Internet pot fi întotdeauna de încredere că sunt faptice. Nu ar fi online dacă nu ar fi adevărat. (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Adevărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Fals",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Ce procent din gospodăriile din Uniunea Europeană au avut acces la internet?",
+            "answers": [
+              {
+                "content": "peste 50%",
+                "isCorrect": false
+              },
+              {
+                "content": "peste 80%",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 24,
+        "topic": "Epoca vânătorilor și a agricultorilor (3000 Î.HR.)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Cum se pot obține informații despre oamenii primitivi?",
+            "answers": [
+              {
+                "content": "Cântece și poezii",
+                "isCorrect": false
+              },
+              {
+                "content": "Povești transmise oral",
+                "isCorrect": false
+              },
+              {
+                "content": "Descoperiri în pământ",
+                "isCorrect": true
+              },
+              {
+                "content": "Săpături în morminte",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Oamenii din preistorie știau să scrie?",
+            "answers": [
+              {
+                "content": "Uneori",
+                "isCorrect": false
+              },
+              {
+                "content": "Da",
+                "isCorrect": false
+              },
+              {
+                "content": "Nu",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Cum își obțineau oamenii preistorici hrana?",
+            "answers": [
+              {
+                "content": "La magazin",
+                "isCorrect": false
+              },
+              {
+                "content": "La piață",
+                "isCorrect": false
+              },
+              {
+                "content": "Vânând",
+                "isCorrect": true
+              },
+              {
+                "content": "La fermă",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Unde locuiau oamenii primitivi?",
+            "answers": [
+              {
+                "content": "În castele",
+                "isCorrect": false
+              },
+              {
+                "content": "În case de lemn",
+                "isCorrect": false
+              },
+              {
+                "content": "Pe câmpuri",
+                "isCorrect": false
+              },
+              {
+                "content": "În păduri",
+                "isCorrect": true
+              },
+              {
+                "content": "În peșteri",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Din ce erau făcute uneltele lor?",
+            "answers": [
+              {
+                "content": "Fier",
+                "isCorrect": false
+              },
+              {
+                "content": "Lut",
+                "isCorrect": true
+              },
+              {
+                "content": "Bronz",
+                "isCorrect": false
+              },
+              {
+                "content": "Alt metal",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Ce foloseau oamenii primitivi pentru a prinde animale?",
+            "answers": [
+              {
+                "content": "Un topor de mână",
+                "isCorrect": false
+              },
+              {
+                "content": "O suliță",
+                "isCorrect": true
+              },
+              {
+                "content": "O răzuitoare",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Oamenii preistorici creau uneori petroglife. Pentru aceasta foloseau un creion? (Adevărat/Fals)",
+            "answers": [
+              {
+                "content": "Da",
+                "isCorrect": false
+              },
+              {
+                "content": "Nu",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Ce desenau oamenii preistorici pe stânci?",
+            "answers": [
+              {
+                "content": "Portrete",
+                "isCorrect": false
+              },
+              {
+                "content": "Pești",
+                "isCorrect": false
+              },
+              {
+                "content": "Animale sălbatice",
+                "isCorrect": true
+              },
+              {
+                "content": "Bărci",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Cum își obțineau hrana primii agricultori?",
+            "answers": [
+              {
+                "content": "Din pescuit",
+                "isCorrect": false
+              },
+              {
+                "content": "Din vânătoare",
+                "isCorrect": false
+              },
+              {
+                "content": "Din vitele lor",
+                "isCorrect": true
+              },
+              {
+                "content": "Din pământul lor",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "De ce a devenit important să aibă o așezare stabilă?",
+            "answers": [
+              {
+                "content": "Pentru a fi alături de familiile lor",
+                "isCorrect": false
+              },
+              {
+                "content": "Pentru a putea crește animale",
+                "isCorrect": true
+              },
+              {
+                "content": "Pentru a cultiva pământul",
+                "isCorrect": true
+              },
+              {
+                "content": "Pentru a controla teritoriul",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 11,
+            "question": "De ce era atât de important focul pentru primii agricultori?",
+            "answers": [
+              {
+                "content": "Pentru a se apăra de animalele sălbatice",
+                "isCorrect": false
+              },
+              {
+                "content": "Pentru a arde pădurile ca să obțină teren agricol",
+                "isCorrect": true
+              },
+              {
+                "content": "Pentru a se încălzi iarna",
+                "isCorrect": true
+              },
+              {
+                "content": "Pentru a găti hrana",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 12,
+            "question": "Unde locuiau primii agricultori?",
+            "answers": [
+              {
+                "content": "În peșteri",
+                "isCorrect": false
+              },
+              {
+                "content": "În castele",
+                "isCorrect": false
+              },
+              {
+                "content": "În case de lemn și pământ",
+                "isCorrect": true
+              },
+              {
+                "content": "În apartamente",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 13,
+            "question": "Ce făceau fermierii cu animalele sălbatice?",
+            "answers": [
+              {
+                "content": "Le omorau",
+                "isCorrect": false
+              },
+              {
+                "content": "Le vânau",
+                "isCorrect": false
+              },
+              {
+                "content": "Le vindeau grădinilor zoologice",
+                "isCorrect": false
+              },
+              {
+                "content": "Le domesticiau",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 14,
+            "question": "Din ce erau făcute uneltele primilor fermieri?",
+            "answers": [
+              {
+                "content": "Din aur",
+                "isCorrect": false
+              },
+              {
+                "content": "Din fier",
+                "isCorrect": false
+              },
+              {
+                "content": "Din bronz",
+                "isCorrect": false
+              },
+              {
+                "content": "Din piatră",
+                "isCorrect": true
+              },
+              {
+                "content": "Din lut",
+                "isCorrect": true
+              },
+              {
+                "content": "Din lemn",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 15,
+            "question": "Din ce materiale își făceau fermierii uneltele mai târziu?",
+            "answers": [
+              {
+                "content": "Din aur",
+                "isCorrect": false
+              },
+              {
+                "content": "Din fier",
+                "isCorrect": true
+              },
+              {
+                "content": "Din bronz",
+                "isCorrect": true
+              },
+              {
+                "content": "Din piatră",
+                "isCorrect": false
+              },
+              {
+                "content": "Din lut",
+                "isCorrect": false
+              },
+              {
+                "content": "Din lemn",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 16,
+            "question": "Culegătorii și vânătorii trăiau în grupuri, în triburi. Cum au început agricultorii să trăiască împreună?",
+            "answers": [
+              {
+                "content": "În castele",
+                "isCorrect": false
+              },
+              {
+                "content": "În orașe",
+                "isCorrect": false
+              },
+              {
+                "content": "În sate",
+                "isCorrect": true
+              },
+              {
+                "content": "În peșteri",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 25,
+        "topic": "Epoca grecilor și romanilor (3000 Î.HR. - 500 d.HR.)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Grecia și Atena au înflorit prin comerțul pe mare. S-au dezvoltat și gândirea, scrisul și artele. A\nCum se deosebeau orașele în creștere față de primele așezări țărănești, mai ales ca aspect?",
+            "answers": [
+              {
+                "content": "Orașele aveau clădiri din piatră și nu numai pentru locuințe, ci și adaptate meșteșugurilor și comerțului, ca temple sau cazărmi ale armatei",
+                "isCorrect": true
+              },
+              {
+                "content": "Orașele aveau zgârie-nori",
+                "isCorrect": false
+              },
+              {
+                "content": "Orașele aveau castele în aer",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Prin ce se deosebeau orașele în creștere față de primele așezări țărănești, mai ales ca aspect?",
+            "answers": [
+                {
+                    "content": "Orașele aveau clădiri din piatră și nu numai pentru locuințe, ci și adaptate meșteșugurilor și comerțului, ca temple sau cazărmi ale armatei",
+                    "isCorrect": true
+                },
+                {
+                    "content": "Orașele aveau zgârie-nori",
+                    "isCorrect": false
+                },
+                {
+                    "content": "Orașele aveau castele în aer",
+                    "isCorrect": false
+                }
+            ]
+        },
+          {
+            "questionId": 3,
+            "question": "De ce au început grecii și romanii să-și extindă teritoriile prin cucerire?",
+            "answers": [
+              {
+                "content": "Când aveau bărci",
+                "isCorrect": false
+              },
+              {
+                "content": "Când aveau nevoie de mai mult spațiu",
+                "isCorrect": false
+              },
+              {
+                "content": "Când au vrut mai mult pământ și mai multă putere",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Care este principala diferență dintre creștinism și vechile religii păgâne?",
+            "answers": [
+              {
+                "content": "Creștinismul are mai mulți sfinți",
+                "isCorrect": false
+              },
+              {
+                "content": "Religiile păgâne aveau de obicei o mulțime de zei",
+                "isCorrect": true
+              },
+              {
+                "content": "Creștinismul avea preoți mai deștepți",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Cum au fost răspândite civilizația și cultura de către romani în teritoriile lor cucerite?",
+            "answers": [
+              {
+                "content": "Prin cărți",
+                "isCorrect": false
+              },
+              {
+                "content": "Prin război și cuceriri",
+                "isCorrect": false
+              },
+              {
+                "content": "Prin aşezări romane",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "De ce influența romană nu a rămas permanentă în toate teritoriile lor cucerite?",
+            "answers": [
+              {
+                "content": "Din cauza schimbărilor climatice",
+                "isCorrect": false
+              },
+              {
+                "content": "Din cauza corupției și proastei guvernări",
+                "isCorrect": true
+              },
+              {
+                "content": "Din cauza raidurilor ostile",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 26,
+        "topic": "Vremea călugărilor și a cavalerilor (500–1000/1200 d.Hr.)",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Ce s-a întâmplat în Europa de vest după încheierea epocii romane?",
+            "answers": [
+              {
+                "content": "Triburile germanice au preluat puterea",
+                "isCorrect": false
+              },
+              {
+                "content": "Romanii au plecat, lăsând haos în urma lor",
+                "isCorrect": false
+              },
+              {
+                "content": "Triburile germanice au început să se lupte între ele",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Cum influența creștinismul viața de zi cu zi în perioada migrațiilor?",
+            "answers": [
+              {
+                "content": "Oamenii au început să se roage la fiecare masă de Sâmbăta",
+                "isCorrect": false
+              },
+              {
+                "content": "Creștinismul i-a obligat pe oameni să se roage de trei ori pe zi",
+                "isCorrect": false
+              },
+              {
+                "content": "Creștinismul era singurul factor de stabilitate",
+                "isCorrect": true
+              },
+              {
+                "content": "Oamenii trebuiau să meargă la liturghie duminica",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Evul mediu a durat aproximativ între 500 și 1500 AD. Câți ani înseamnă aceasta?",
+            "answers": [
+              {
+                "content": "950",
+                "isCorrect": false
+              },
+              {
+                "content": "1100",
+                "isCorrect": false
+              },
+              {
+                "content": "1000",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Cei mai mulți oameni se ocupau cu agricultura în Evul Mediu. Unii dintre acei oameni au dobândit moșii în acest fel, închiriind pământ altora care erau săraci. Astfel au venit din ce în ce mai mulți chiriași. Erau acești oameni liberi? Ce trebuia să facă ei pentru seniorul lor?",
+            "answers": [
+              {
+                "content": "Erau liberi, dar trebuiau să slujească în armata seniorului",
+                "isCorrect": false
+              },
+              {
+                "content": "Erau liberi, dar trebuiau să plătească în natură pentru folosirea pământului",
+                "isCorrect": false
+              },
+              {
+                "content": "Nu erau complet liberi și trebuiau să muncească și să îl slujească pe senior",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Seniorul avea nevoie de vasal și vasalul de senior. Explică această afirmație.",
+            "answers": [
+              {
+                "content": "Acest tip de joc necesită doi participanți",
+                "isCorrect": false
+              },
+              {
+                "content": "Pentru a deține pământ este nevoie de lucrători care să îl cultive și să crească animale, pentru a avea un adăpost și a produce hrană este nevoie de pământ.",
+                "isCorrect": true
+              },
+              {
+                "content": "Doar șerbii pot coace pâinea iar seniorul avea armată pentru protecție",
+                "isCorrect": false
+              },
+              {
+                "content": "În circumstanțele acelor vremuri aveau nevoie unii de alții pentru a supraviețui",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Casele stăpânilor de moșii au devenit din ce în ce mai mari. Din ce material erau construite în mare parte cele mai mari dintre case? De ce?",
+            "answers": [
+              {
+                "content": "Erau construite din piatră, pentru o mai bună apărare",
+                "isCorrect": true
+              },
+              {
+                "content": "Erau construite din lemn, pentru că așa era mai ușor",
+                "isCorrect": false
+              },
+              {
+                "content": "Erau construite din metal, pentru că este mai rezistent",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Care erau cele trei reguli pe care trebuia să le respecte un cavaler?",
+            "answers": [
+              {
+                "content": "Trebuia să dețină un castel",
+                "isCorrect": false
+              },
+              {
+                "content": "Trebuia să își respecte cuvântul dat",
+                "isCorrect": true
+              },
+              {
+                "content": "Trebuia să apere oamenii",
+                "isCorrect": true
+              },
+              {
+                "content": "Trebuia să fi fost fermier",
+                "isCorrect": false
+              },
+              {
+                "content": "Trebuia să fie loial seniorului său",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Unii proprietari de moșii au dobândit pământuri din ce în ce mai întinse și apoi, în timp, armate cu soldați și cavaleri. Au devenit seniorii unor ținuturi din ce în ce mai mari și în cele din urmă au devenit nobili. Cum este numit cel cu rangul cel mai înalt dintre toți/șeful cel mare?",
+            "answers": [
+              {
+                "content": "Împărat",
+                "isCorrect": false
+              },
+              {
+                "content": "Rege",
+                "isCorrect": true
+              },
+              {
+                "content": "Duce",
+                "isCorrect": false
+              },
+              {
+                "content": "Conte",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "Charlemagne era:",
+            "answers": [
+              {
+                "content": "Un cavaler notoriu",
+                "isCorrect": false
+              },
+              {
+                "content": "Un rege faimos",
+                "isCorrect": true
+              },
+              {
+                "content": "Un gentilom fermier",
+                "isCorrect": false
+              },
+              {
+                "content": "Un mare poet și scriitor",
+                "isCorrect": false
+              },
+              {
+                "content": "Un trubadur celebru faimos",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "Care era pericolul ce venea de pe mare în Evul Mediu?",
+            "answers": [
+              {
+                "content": "Întoarcerea romanilor",
+                "isCorrect": false
+              },
+              {
+                "content": "Atacuri din partea unor mari animale marine",
+                "isCorrect": false
+              },
+              {
+                "content": "Jafurile normanzilor",
+                "isCorrect": true
+              },
+              {
+                "content": "Jafurile călugărilor",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 27,
+        "topic": "Nașterea creștinismului: mănăstirile",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "În Evul Mediu Timpuriu, Biserica rămăsese singura instituție cu o",
+            "answers": [
+              {
+                "content": "organizare stabilă și nemiloasă",
+                "isCorrect": true
+              },
+              {
+                "content": "organizare autoritară și strictă",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "care putea garanta siguranță și protecție locuitorilor teritoriului și din acest motiv a devenit foarte",
+            "answers": [
+              {
+                "content": "puternică",
+                "isCorrect": true
+              },
+              {
+                "content": "temută",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "În orașe, era prezentă mai ales în",
+            "answers": [
+              {
+                "content": "sedilele papale",
+                "isCorrect": false
+              },
+              {
+                "content": "sedilele episcopale",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "în zonele rurale, în mănăstiri, unde călugării trăiau în",
+            "answers": [
+              {
+                "content": "comunitate",
+                "isCorrect": true
+              },
+              {
+                "content": "izolare",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Mănăstirile aveau o funcție foarte importantă: au reușit să protejeze și să",
+            "answers": [
+              {
+                "content": "hrănească",
+                "isCorrect": true
+              },
+              {
+                "content": "îmbogățească",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "populația, au salvat multe terenuri de la abandon, au păstrat și răspândit",
+            "answers": [
+              {
+                "content": "cultura",
+                "isCorrect": true
+              },
+              {
+                "content": "tradițiile",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 7,
+            "question": "Primele mănăstiri au fost înființate de ordinul",
+            "answers": [
+              {
+                "content": "Franciscanilor",
+                "isCorrect": false
+              },
+              {
+                "content": "Benedictinilor",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 8,
+            "question": "Fondatorul,",
+            "answers": [
+              {
+                "content": "Benedict din Nursia",
+                "isCorrect": true
+              },
+              {
+                "content": "Francis din Assisi",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 9,
+            "question": "a scris o regulă, în care călugării erau rugați să se supună",
+            "answers": [
+              {
+                "content": "seniorului domeniului",
+                "isCorrect": false
+              },
+              {
+                "content": "starețului",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 10,
+            "question": "să practice sărăcia și castitatea, să urmeze deviza ora et labora, adică să se dedice",
+            "answers": [
+              {
+                "content": "rugăciunii și muncii",
+                "isCorrect": true
+              },
+              {
+                "content": "mai mult muncii decât rugăciunii",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 28,
+        "topic": "Atena: spre/un exemplu de Democrație",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Ostracismul este:",
+            "answers": [
+              {
+                "content": "o imagine sacră",
+                "isCorrect": false
+              },
+              {
+                "content": "un preparat grecesc",
+                "isCorrect": false
+              },
+              {
+                "content": "exilul din oraș",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Cine ar putea participa la viața politică a polisului?",
+            "answers": [
+              {
+                "content": "femeile",
+                "isCorrect": false
+              },
+              {
+                "content": "doar bătrânii",
+                "isCorrect": false
+              },
+              {
+                "content": "bărbații",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Reforma lui Solon a avut ca efect principal:",
+            "answers": [
+              {
+                "content": "nașterea democrației",
+                "isCorrect": true
+              },
+              {
+                "content": "nașterea monarhiei",
+                "isCorrect": false
+              },
+              {
+                "content": "sfârșitul aristocrației",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Primul legiuitor atenian a fost:",
+            "answers": [
+              {
+                "content": "Clistene",
+                "isCorrect": false
+              },
+              {
+                "content": "Solon",
+                "isCorrect": true
+              },
+              {
+                "content": "Pericle",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Orașul Atena a iubit:",
+            "answers": [
+              {
+                "content": "războaiele",
+                "isCorrect": false
+              },
+              {
+                "content": "agricultura",
+                "isCorrect": false
+              },
+              {
+                "content": "arta, cultura și educația",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Femeile ateniene au avut grijă de:",
+            "answers": [
+              {
+                "content": "copiii lor",
+                "isCorrect": true
+              },
+              {
+                "content": "politică",
+                "isCorrect": false
+              },
+              {
+                "content": "amuzamente",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 29,
+        "topic": "Educația în Atena",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "Alege răspunsul corect: Fetele ateniene",
+            "answers": [
+              {
+                "content": "au avut grijă doar de copiii și de casa lor",
+                "isCorrect": true
+              },
+              {
+                "content": "puteau ieși în voie",
+                "isCorrect": false
+              },
+              {
+                "content": "puteau vota",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Băieții atenieni:",
+            "answers": [
+              {
+                "content": "au fost instruiți să folosească arme",
+                "isCorrect": true
+              },
+              {
+                "content": "au fost instruiți în viața domestică",
+                "isCorrect": false
+              },
+              {
+                "content": "au fost instruiți să devină pescari",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "În polisul aristocratic, nobilii:",
+            "answers": [
+              {
+                "content": "își puteau permite antrenamentul",
+                "isCorrect": true
+              },
+              {
+                "content": "puteau avea grijă de agricultură",
+                "isCorrect": false
+              },
+              {
+                "content": "puteau să-și educe copiii",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Băieții erau educați:",
+            "answers": [
+              {
+                "content": "de bunica lor sau de un sclav educat până la vârsta de 18 ani",
+                "isCorrect": false
+              },
+              {
+                "content": "de mama lor sau de un sclav educat până la vârsta de 6/7 ani",
+                "isCorrect": true
+              },
+              {
+                "content": "de oracolul cetății",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "A fost numit profesorul particular:",
+            "answers": [
+              {
+                "content": "muzician",
+                "isCorrect": false
+              },
+              {
+                "content": "general",
+                "isCorrect": false
+              },
+              {
+                "content": "gramaticist",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "id": 30,
+        "topic": "Războiul civil din Statele Unite",
+        "questions": [
+          {
+            "questionId": 1,
+            "question": "În ce an a murit Abraham Lincoln? 1865 sau 1866?",
+            "answers": [
+              {
+                "content": "1865",
+                "isCorrect": true
+              },
+              {
+                "content": "1866",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 2,
+            "question": "Când s-a încheiat oficial Războiul civil? 1865 sau 1866?",
+            "answers": [
+              {
+                "content": "1865",
+                "isCorrect": false
+              },
+              {
+                "content": "1866",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 3,
+            "question": "Cum erau numiți soldații din Nord? Unioniști sau Confederați?",
+            "answers": [
+              {
+                "content": "Unioniști",
+                "isCorrect": true
+              },
+              {
+                "content": "Confederați",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 4,
+            "question": "Cum erau numiți soldații din Sud? Unioniști sau Confederați?",
+            "answers": [
+              {
+                "content": "Unioniști",
+                "isCorrect": false
+              },
+              {
+                "content": "Confederați",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionId": 5,
+            "question": "Cine era președintele Uniunii? Abraham Lincoln sau Jefferson Davis",
+            "answers": [
+              {
+                "content": "Abraham Lincoln",
+                "isCorrect": true
+              },
+              {
+                "content": "Jefferson Davis",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionId": 6,
+            "question": "Cine a câștigat Războiul civil? Uniunea sau Confederația?",
+            "answers": [
+              {
+                "content": "Uniunea",
+                "isCorrect": true
+              },
+              {
+                "content": "Confederația",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      }
+      
+]
