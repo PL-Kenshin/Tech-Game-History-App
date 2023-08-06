@@ -57,7 +57,7 @@ const Navbar = (props) => {
   }
 
    return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-2 py-lg-0" aria-hidden="true">
+    <nav className="navbar sticky-top shadow-sm navbar-expand-lg navbar-dark bg-dark py-2 py-lg-0" aria-hidden="true">
     <div className="container-fluid">
       <Link to="/" className="navbar-brand" ><img src="/logo.png" className="me-1" width="63" height="50" alt="Tech-Game History App"></img>History App</Link>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
