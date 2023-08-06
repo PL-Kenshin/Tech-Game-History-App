@@ -62,7 +62,7 @@ const Content = (props) => {
    return (
     <div className='col-md-8 mb-5'>
         {isReady &&
-        <div className='card h-100'>
+        <div className={'card h-100 ' + (props.contrast?"text-bg-dark":"")}>
             <div className='card-body'>
                 <h1 className='card-title text-center'>{content[id-1].title}</h1>
                 <div className='card-text' style={{whiteSpace:'pre-line'}} dangerouslySetInnerHTML={{__html:content[id-1].content}}></div>

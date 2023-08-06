@@ -27,7 +27,7 @@ const ComponentQuiz = (props) => {
     const [showResults, setShowResults] = useState(false)
     const [showContent, setShowContent] = useState(true)
     const [started,setStarted] = useState(false)
-    const [language] = useOutletContext();
+    const [language, contrast] = useOutletContext();
     let { id } = useParams();
     let nav = useNavigate()
 
@@ -117,20 +117,16 @@ const ComponentQuiz = (props) => {
     };
 
     const handleCheckAnswer = (chosenOption, key) => {
-        console.log(currentQuestion.answers[key])
         if (currentPoints < 20) {
             if (allowToChoose === false) {
                 return
             } else {
-                console.log('yes')
                 setUserAnswers([...userAnswers, [currentQuestion.question, currentQuestion.answers[key]]])
 
                 if (chosenOption) {
                     const points = currentPoints + 1;
                     setAnswerCount(answerCount + 1)
-                    console.log("corr", correctNumber, "ans", answerCount)
                     if (correctNumber === answerCount + 1) {
-                        console.log("corr", correctNumber, "answerCount", answerCount)
                         changePermission(false);
                     } //else {
                     setPoints(points);
@@ -141,7 +137,6 @@ const ComponentQuiz = (props) => {
 
                     setAnswerCount(answerCount + 1)
                     if (correctNumber === answerCount + 1) {
-                        console.log("corr", correctNumber, "answerCount", answerCount)
                         changePermission(false);
                     } //else {
                     markAnswer([...markedAnswer, { key: key, variant: 'bg-danger' }])
@@ -155,8 +150,8 @@ const ComponentQuiz = (props) => {
     };
 
     return (
-        <div style={styles}>
-            {isReady ? showContent ? <Content language={language} setContent={setShowContent} setStarted={setStarted} started={started}/> : !showResults ? <div className="containter">
+        <div style={styles} className='container pt-5 min-vh-100'>
+            {isReady ? showContent ? <Content language={language} contrast={contrast} setContent={setShowContent} setStarted={setStarted} started={started}/> : !showResults ? <div className="containter">
                 <Question
                     language={language}
                     className="col-12"

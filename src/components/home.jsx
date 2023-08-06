@@ -55,15 +55,21 @@ const Home = (props) => {
     // let quizList = [...quiz]
     return (
         <div>
-            {isReady && <div>
-            <h1 className="text-center">{strings.pick}</h1>
-            <ul className="list-group mb-5">
+            <div className="jumbo pt-5 text-center shadow-sm mb-5 text-white" style={{backgroundImage:'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/students.jpg")',backgroundRepeat:"no-repeat", backgroundSize:"cover", backgroundPosition:"center",backgroundAttachment:'fixed'}}>
+                <div className="pt-5">
+                    <div className="d-flex justify-content-center pt-5 pb-2">
+                        <h1 className="col-lg-8 pt-5">{strings.pick}</h1>
+                    </div>
+                </div>
+            </div>
+            {isReady && <div className="container min-vh-100">
+            <ul className="list-group mb-5 shadow-sm">
                 {quizList.map((quiz, key) =>
                 (
                     <li className={"list-group-item d-flex flex-row"} key={key}>
                         <div className="d-flex flex-grow-1 justify-content-start align-items-center">{strings.quiz} {quiz.topic}</div>
                         <div className="d-flex justify-content-end">
-                            <Link to={`/quiz/${quiz.id}`}><button className={"btn btn-primary"}>{strings.start}</button></Link>
+                            <Link to={`/quiz/${quiz.id}`}><button className={"btn btn-primary"} onClick={e=> window.scrollTo(0,0)}>{strings.start}</button></Link>
                         </div>
                     </li>
                 ))}

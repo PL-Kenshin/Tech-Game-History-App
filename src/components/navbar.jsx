@@ -57,25 +57,27 @@ const Navbar = (props) => {
   }
 
    return (
-    <nav className="navbar sticky-top shadow-sm navbar-expand-lg navbar-dark bg-dark py-2 py-lg-0" aria-hidden="true">
+    <nav className={"navbar sticky-top shadow-sm navbar-expand-lg navbar-light py-2 py-lg-0 " + (props.contrast?"":"bg-white")} aria-hidden="true">
     <div className="container-fluid">
       <Link to="/" className="navbar-brand" ><img src="/logo.png" className="me-1" width="63" height="50" alt="Tech-Game History App"></img>History App</Link>
-      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
+      <button className={"navbar-toggler " + (props.contrast?"navbar-dark":"")} type="button" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-controls="navbarSupportedContent" aria-expanded="false">
         <span className="navbar-toggler-icon"></span>
       </button>
-      <section className="collapse navbar-collapse pt-4 pt-lg-0 flex-grow-1 justify-content-end" id="navbarSupportedContent">
-          <button className="btn btn-sm btn-outline-light btn-floating" onClick={e => handleContrastChange(e)}>
+      <a href="https://erasmus-plus.ec.europa.eu/" className="navbar-brand collapse multi-collapse navbar-collapse" target="_blank" rel="noreferrer" id="erasmus"><img src="/erasmus_plus.png" width="243" height="50" alt="Erasmus+"></img></a>
+
+      <section className="collapse multi-collapse navbar-collapse pt-4 pt-lg-0 flex-grow-1 justify-content-end" id="navbarSupportedContent">
+          <button className={"btn btn-sm btn-floating shadow-sm " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleContrastChange(e)}>
             <i className="fa fa-eye"></i>
           </button>
-          <div className="btn-group btn-group-sm ms-2" role="group">
-            <button type="button" className="btn btn-outline-light" onClick={e => handleFontChange(3)}>A+</button>
-            <button type="button" className="btn btn-outline-light" onClick={e => handleFontChange(2)}>A</button>
-            <button type="button" className="btn btn-outline-light" onClick={e => handleFontChange(1)}>A-</button>
+          <div className="btn-group btn-group-sm ms-2 shadow-sm" role="group">
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(3)}>A+</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(2)}>A</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(1)}>A-</button>
           </div>
           <ul className="navbar-nav">
             <li className="nav-item dropdown">
-              <a className="nav-link dropdown-toggle" href="/#" data-bs-toggle="dropdown" aria-expanded="false">{strings.language}</a>
-              <ul className="dropdown-menu dropdown-menu-dark bg-dark">
+              <a className="nav-link dropdown-toggle active" href="/#" data-bs-toggle="dropdown" aria-expanded="false">{strings.language}</a>
+              <ul className={"dropdown-menu dropdown-menu-end dropdown-menu-light " + (props.contrast?"":"bg-white")}>
                 <li><button type="button" className={"dropdown-item " + (props.language==="en"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("en")}><img className="me-1" src="/flag_us.png" alt="flag_us"></img>English</button></li>
                 <li><button type="button" className={"dropdown-item " + (props.language==="it"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("it")}><img className="me-1" src="/flag_it.png" alt="flag_it"></img>Italiano</button></li>
                 <li><button type="button" className={"dropdown-item " + (props.language==="mk"? props.contrast?"border border-primary":"active":"")} onClick={e => handleLanguageChange("mk")}><img className="me-1" src="/flag_mk.png" alt="flag_mk"></img>Македонски</button></li>
@@ -86,7 +88,6 @@ const Navbar = (props) => {
               </ul>
             </li>
           </ul>
-        <a href="https://erasmus-plus.ec.europa.eu/" className="navbar-brand ms-lg-2 ms-0" target="_blank" rel="noreferrer"><img className="mt-2 mt-lg-2" src="/erasmus_plus.png" width="243" height="50" alt="Erasmus+"></img></a>
       </section>
     </div>
   </nav>

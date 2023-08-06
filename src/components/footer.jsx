@@ -1,10 +1,10 @@
 import React from "react";
 
-const Footer = () => {
+const Footer = (props) => {
   let year = new Date().getFullYear()
 
   return (
-    <footer className="bg-dark text-center text-white" aria-hidden="true">
+    <footer className={"text-center text-white " + (props.contrast?"":"bg-dark")} aria-hidden="true">
 
       <div className="text-center p-4">
         © {year} Copyright: Mateusz Ptak, Adrian Wilk, Eryk Łuszczkiewicz. All rights reserved.
@@ -12,7 +12,7 @@ const Footer = () => {
 
       <div className="container pb-4">
         <section>
-          <a className="btn btn-outline-light btn-floating" href="https://github.com/PL-Kenshin/" target="_blank" rel="noreferrer" role="button">
+          <a className="btn btn-outline-light btn-floating shadow-sm" href="https://github.com/PL-Kenshin/" target="_blank" rel="noreferrer" role="button">
             <i className="fa fa-github"></i>
           </a>
         </section>

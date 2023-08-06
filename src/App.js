@@ -31,8 +31,7 @@ function App() {
         size=100
         break;
     }
-    console.log(localStorage.getItem("language"))
-  const [hightContrast, setHighContrast] = useState(contrast?contrast:false)
+  const [highContrast, setHighContrast] = useState(contrast?contrast:false)
   const [userfontSize, setUserFontSize] = useState(size)
   const [userLanguage, setUserLanguage] = useState(language?language:"en")
 
@@ -69,12 +68,14 @@ function App() {
   return (
     <div className="container-fluid p-0">
       <Helmet>
-        {hightContrast && <style>
+        {highContrast && <style>
           {`
             * {
               color:yellow !important;
               background-color: black !important;
-              --bs-bg-opacity:0 !important;
+            }
+            .jumbo {
+              background-image: none !important;
             }
           `}
         </style>}
@@ -86,13 +87,13 @@ function App() {
           `}
         </style>
       </Helmet>
-      <Navbar language={userLanguage} contrast={hightContrast}/>
-      <div className="container pt-5 min-vh-100">
+      <Navbar language={userLanguage} contrast={highContrast}/>
+      <div>
       <ErrorBoundary>
-        <Outlet context={[userLanguage]}/>
+        <Outlet context={[userLanguage, highContrast]}/>
       </ErrorBoundary>
       </div>
-      <Footer/>
+      <Footer contrast={highContrast}/>
     </div>
   );
 }
