@@ -74,7 +74,7 @@ const Home = (props) => {
                 src = URL.createObjectURL(blob)
                 setUrl(src)
                 setImgLoaded(true)
-                URL.revokeObjectURL(src)
+                
             }
         }
         fun().catch(console.error)
@@ -90,6 +90,9 @@ const Home = (props) => {
                 
         //     }, 'image/jpeg')
         // }
+        return () => {
+            URL.revokeObjectURL(src)
+        }
     },[])
     
 
