@@ -74,6 +74,13 @@ const ComponentQuiz = (props) => {
                         setQuestion(data[id - 1].questions[currentIndex])
                         setIsReady(true)
                         break;
+                    case "nl":
+                        data = require('../data/nl/quiz.json')
+                        setQuiz(data)
+                        strings.setLanguage(language)
+                        setQuestion(data[id - 1].questions[currentIndex])
+                        setIsReady(true)
+                        break;
                     default:
                         data = require('../data/en/quiz.json')
                         setQuiz(data)

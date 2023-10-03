@@ -1,0 +1,4104 @@
+[
+    {
+        "id": 1,
+        "topic": "De Eerste Wereldoorlog",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Een oorzaak van de Eerste Wereldoorlog was:",
+                "answers": [
+                    {
+                        "content": "het verlangen naar uitbreiding van de grote mogendheden",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Moord op de kroonprins van Servië",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De lancering van de atoombom",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Een andere oorzaak van de Eerste Wereldoorlog was:",
+                "answers": [
+                    {
+                        "content": "het verlangen naar uitbreiding van de kleine mogendheden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De moord op aartshertog Franz Ferdinand, erfgenaam van de Oostenrijks-Hongaarse troon, in Sarajevo, was de vonk",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "De uitvinding van de computer",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Wat waren de lidstaten van de Entente?",
+                "answers": [
+                    {
+                        "content": "Engeland, Frankrijk, Rusland",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Rusland, Frankrijk, Duitsland",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Engeland, Bulgarije, Nederland",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Wat waren de lidstaten van de Centrale Mogendheden?",
+                "answers": [
+                    {
+                        "content": "Engeland, Frankrijk, Rusland",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bulgarije, het Oostenrijks-Hongaarse rijk, Duitsland, het Ottomaanse rijk",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Duitsland, Bulgarije, Frankrijk",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De twee belangrijkste fronten van de oorlog waren:",
+                "answers": [
+                    {
+                        "content": "westelijk front en oostfront",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "het Noordelijk Front en het Zuidelijk Front",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Dagfront en Nachtfront",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "In 1916 vonden twee grote veldslagen plaats aan het westelijk front, waarbij in beide kampen veel slachtoffers vielen:",
+                "answers": [
+                    {
+                        "content": "Mărăști, Mărășești en Oituz",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De veldslagen van Verdun en de Somme",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Wenen en Berlijn",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Antwoord waar of niet waar: In 1916 mengden de Verenigde Staten zich in de oorlog.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Rusland kwam uit de Eerste Wereldoorlog in 1918 door het vredesverdrag van Brest-Litovsk.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "De Eerste Wereldoorlog eindigt in:",
+                "answers": [
+                    {
+                        "content": "1818",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1918",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1718",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "topic": "De Tweede Wereldoorlog",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Een oorzaak van de Tweede Wereldoorlog was:",
+                "answers": [
+                    {
+                        "content": "De strijd om territoria en invloedssferen van totalitaire staten.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Slag om Stalingrad",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Het laten vallen van de atoombommen op Hiroshima en Nagasaki",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Een andere oorzaak van de Tweede Wereldoorlog was:",
+                "answers": [
+                    {
+                        "content": "Japanse aanval op Pearl Harbor, VS",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De landing in Normandië",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hitlers revisionistische acties",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Wat zijn de leden van de Asmogendheden?",
+                "answers": [
+                    {
+                        "content": "Duitsland, Italië, Japan",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Verenigd Koninkrijk, Sovjet-Unie, VS, Frankrijk",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Italië, Frankrijk, VS",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "VS, Verenigd Koninkrijk, Italië",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Wat zijn de leden van de United Nations Coalition?",
+                "answers": [
+                    {
+                        "content": "Duitsland, Italië, Japan",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Verenigd Koninkrijk, Sovjet-Unie, VS, Frankrijk",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Italië, Frankrijk, VS",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "VS, Verenigd Koninkrijk, Italië",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De oorlog begon met de aanval van Duitsland op Polen in het jaar:",
+                "answers": [
+                    {
+                        "content": "1839",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1939",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1739",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Door Operatie Barbarossa valt Duitsland aan:",
+                "answers": [
+                    {
+                        "content": "VS",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "USSR",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Groot-Brittannië",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "De gebeurtenis die de oorzaak van de deelname van de VS aan de oorlog was:",
+                "answers": [
+                    {
+                        "content": "Het uitbreken van de Tweede Wereldoorlog",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Aanval op de Amerikaanse basis in Pearl Harbor",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Slag om Stalingrad",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "De grote zeeslag die de loop van de Tweede Wereldoorlog in het Pacific Theatre veranderde, was:",
+                "answers": [
+                    {
+                        "content": "Pearl Harbor",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Midway",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Washington",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Antwoord waar of niet waar: De slag om Stalingrad vond plaats op het grondgebied van URSS",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "De landingen in Normandië vonden plaats in:",
+                "answers": [
+                    {
+                        "content": "1944",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1744",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1844",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Antwoord waar of niet waar: De verovering van Berlijn door de Verenigde Naties zal leiden tot de capitulatie van Italië.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "De twee atoombommen die een einde maakten aan de Tweede Wereldoorlog werden gedropt op de Japanse steden Hiroshima en Nagasaki.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "topic": "De Koude Oorlog",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "De Koude Oorlog was een geopolitieke rivaliteit tussen twee landen: de VS en de Sovjet-Unie.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Koude Oorlog begon rond 1950, met de introductie van de Truman-doctrine en het Marshallplan.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In 1949 richtten de Verenigde Staten en hun Europese bondgenoten de Noord-Atlantische Verdragsorganisatie (NAVO) op om elkaar te beschermen in geval van een aanval.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De Verenigde Staten wilden niet dat het communisme zich verspreidde naar andere landen in Europa. De Verenigde Staten gaven die landen daarom geld om na de oorlog weer op te bouwen. Dit werd het Marshallplan genoemd, naar George Marshall, de Amerikaan die het plan opstelde.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De Koude Oorlog eindigde in 1980, na de ineenstorting en ontbinding van de Sovjet-Unie.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "topic": "De Industriële Revolutie (deel 1)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Welke nieuwe soorten bronnen voor historische kennis kwamen in de 19e eeuw beschikbaar?",
+                "answers": [
+                    {
+                        "content": "Kleurentelevisie",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Burgerlijke stand",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Massale pers",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Burgerlijke stand, massapers en audiovisuele media",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "In de 18e eeuw heerste overal in West-Europa de heersende orde nog steeds op het soevereine leiderschap van de vorst.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Deze situatie hield aan in de 19e eeuw.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Accepteerden de mensen in Frankrijk in de 19e eeuw de politieke situatie in de 18e eeuw?",
+                "answers": [
+                    {
+                        "content": "accepteerde de politieke situatie",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "aanvaard, maar vroegen om een paar kansen om het dagelijks leven te verbeteren",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Accepteerden niet en begonnen een opstand",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Accepteerden het niet en deden er niets aan",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Nadat de rechten en ambten toegankelijk werden voor de burgerij, heeft dit geleid tot grotere en duurzame vrijheid voor iedereen.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Wat gebeurde er na de laatste Napoleontische oorlog?",
+                "answers": [
+                    {
+                        "content": "Alle Europese naties waren weer vrij en konden weer gebruik maken van hun verworven rechten.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Alle Europese naties waren weer vrij en bekwaam, maar de oude politieke situatie trad weer in werking.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Alle Europese naties waren weer vrij en bekwaam, maar de oude politieke situatie trad weer in werking, maar voor een relatief korte periode.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "In de 19e eeuw begonnen de landen overzeese gebieden te koloniseren.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Slavernij werd in de 19e eeuw afgeschaft omdat er geen slaven meer nodig waren.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Wat veroorzaakte de industrialisatie in de 19e eeuw?",
+                "answers": [
+                    {
+                        "content": "Afschaffing van de slavernij",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Het gebruik van weefgetouwen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De uitvinding van de stoommachine",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Aanleg van spoorlijnen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Kenmerkend voor industrialisatie is",
+                "answers": [
+                    {
+                        "content": "Alle productie in eigen huis",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Alle productie kleinschalig",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Massaproductie die gecentraliseerd is in steden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Massaproductie die gecentraliseerd is in fabrieken",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "In bepaalde industrieën ontstaan ​​gespecialiseerde industriegebieden met grote afzetgebieden, waardoor het goederenverkeer sterk toeneemt.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Hoe is de industrialisatie ook in de landbouw terechtgekomen?",
+                "answers": [
+                    {
+                        "content": "Nieuwe dieren werden geïntroduceerd in de kuddes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nieuwe gewassen werden verbouwd om meer mensen te voeden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Boeren werden vervangen door robots voor een hogere productie van voedsel voor de groeiende bevolking",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De uitvinding van nieuwe gewassen voor een hogere productie van basisvoedsel",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 13,
+                "question": "Industrialisatie had en heeft ook positieve gevolgen voor het milieu.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 14,
+                "question": "Industrialisatie heeft en heeft grote invloed gehad op het landschap van stedelijke en landelijke gebieden.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 15,
+                "question": "De industriële revolutie bracht iedereen onmiddellijk welvaart.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 16,
+                "question": "Hoe hielp de industriële revolutie om vrouwen gelijke rechten te geven?",
+                "answers": [
+                    {
+                        "content": "Het creëerde een besef van een hogere morele standaard",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Er waren niet genoeg arbeiders om al het werk te doen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Vrouwen zijn beter voor werk in de industrie",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vrouwen waren niet langer nodig om voor de kinderen te zorgen",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 5,
+        "topic": "De Industriële Revolutie (deel 2)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Wat was de industriële revolutie?",
+                "answers": [
+                    {
+                        "content": "De geboorte van auto's",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Verspreiding van massaproductie",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Het begin van Amerika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De start van supermarkten",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Waar begon de industriële revolutie?",
+                "answers": [
+                    {
+                        "content": "Amerika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Afrika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Frankrijk",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Groot-Brittannië",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Waarom is de industriële revolutie belangrijk voor de geschiedenis?",
+                "answers": [
+                    {
+                        "content": "Het is niet.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Omdat de uitvindingen van de revolutie leidden tot de uitvindingen van vandaag.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Omdat het Amerika beter heeft gemaakt dan Frankrijk.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Omdat er toen veel belangrijks gebeurde.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Wat voor soort werkomgeving leverden fabrieken?",
+                "answers": [
+                    {
+                        "content": "Airconditioning, schoon en leuk",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Heet, schoon en veel pauzes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vochtig, stoffig en goed betaald",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hete, vuile, slechte luchtkwaliteit",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Op welk voertuig werd een stoommachine vaak aangetroffen?",
+                "answers": [
+                    {
+                        "content": "Auto",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Trein",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bus",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vliegtuig",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Welke van de volgende dingen hielpen bij het ontstaan ​​van de industriële revolutie?",
+                "answers": [
+                    {
+                        "content": "De Insluitings-Beweging",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Economisch stimuleringspakket dat Obama heeft bewerkstelligd",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De grondwet van de Verenigde Staten van Amerika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Fabriekswet van 1883",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Herbruikbare energiebronnen (RES):\n\nZon, wind, water, biobrandstoffen, biomassa, kernenergie - zijn dit allemaal herbruikbare energiebronnen? Waar/Niet waar",
+                "image":"1.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 6,
+        "topic": "De Franse Revolutie",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Wie genoten er in de achttiende eeuw privileges in Frankrijk?",
+                "answers": [
+                    {
+                        "content": "De bourgeoisie",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De edelen en de geestelijkheid",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "De mensen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De paus",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Welke vergadering werd er in Frankrijk bijeengeroepen om de economische crisis op te lossen?",
+                "answers": [
+                    {
+                        "content": "De Vergadering van Regionale Staten",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Vergadering van de regionale provincies",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Vergadering van de Algemene Provinciën",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Vergadering der Staten-Generaal",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In welk jaar werd de Bastille aangevallen en ingenomen?",
+                "answers": [
+                    {
+                        "content": "1787",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1789",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1798",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1889",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Waar werd de Franse monarchie in omgevormd?",
+                "answers": [
+                    {
+                        "content": "In een presidentiële monarchie",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Naar een constitutionele monarchie",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In een republiek",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In een federatie",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Wat was de reactie van de Franse koning op de revolutie?",
+                "answers": [
+                    {
+                        "content": "Hij probeerde aan de dood te ontsnappen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De alliantie met de paus",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Straatprotesten met hulp van de soldaten",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Abdicatie",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Hoe heette de periode van Robespierre?",
+                "answers": [
+                    {
+                        "content": "Vrede",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bestand",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Verlichting",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Terreur",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 7,
+        "topic": "Het Leven van Jezus en de Geboorte van het Christendom",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Wie is de stichter van het christendom?",
+                "answers": [
+                    {
+                        "content": "Jezus Christus",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Judea",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Allah",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Wie is Jezus Christus?",
+                "answers": [
+                    {
+                        "content": "Jezus Christus is de Zoon van Allah.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Jezus Christus is de Zoon van God.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Jezus Christus is de Zoon van Judea.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Christenen geloven dat Jezus de Zoon van God is. Ze volgen zijn leer en die van de christelijke kerk. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De christelijke plaats van aanbidding wordt een moskee genoemd. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De twee belangrijkste christelijke feesten zijn Pasen en Kerstmis. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 8,
+        "topic": "Het Leven van Muhammad en de Geboorte van de Islam",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "De profeet Muhammad werd geboren in het jaar 570 na Christus in Mekka.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Het Arabische woord 'Islam' betekent onderwerping en gehoorzaamheid en is afgeleid van een woord dat 'vrede' betekent.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "De islam is gebaseerd op de bediening van een man genaamd Jezus en op de woorden die Judea aan de wereld heeft gegeven via Muhammad.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Allah is de naam die moslims gebruiken voor de opperste en unieke God, die alles heeft geschapen en regeert.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 9,
+        "topic": "De Eerste Kruistocht (1095-1099) (Frankrijk, Turkije, Syrië, Palestina, Israël)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Jeruzalem werd door de moslims als heilige plaats beschouwd omdat:",
+                "answers": [
+                    {
+                        "content": "Profeet Mohammed daar werd geboren.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Profeet Mohammed daar werd begraven.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Profeet Mohammed daar ten hemel is opgestegen.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "De Eerste Kruistocht begon in 1096.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Een van de oorzaken van de Eerste Kruistocht was de zeer slechte oogst uit 1095. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De oproep tot de Heilige Oorlog werd gelanceerd door:",
+                "answers": [
+                    {
+                        "content": "Alexios Comnen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Peter de Kluizenaar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Paus Urbanus II",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Het doel van de Eerste Kruistocht was om de hulststad te bevrijden van:",
+                "answers": [
+                    {
+                        "content": "Jeruzalem",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Rome",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Santiago",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "De oproep tot de Heilige Oorlog werd gelanceerd in Clermont. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "De eersten die de kruistocht begonnen zijn de boeren. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Paus Urbanus II leidt de belegering van Jeruzalem. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Aan het einde van de Eerste Kruistocht keerde Jeruzalem terug onder christelijke heerschappij. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "De kruisvaardersstaten gevormd na de Eerste Kruistocht waren:",
+                "answers": [
+                    {
+                        "content": "Jeruzalem, Edessa, Tripoli, Antiochië.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Byzantium, Jeruzalem, Palestina, Egypte, Nicea, Constantinopel, Selgiuk, Fatimid.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Het woord 'kruisvaarder' betekent:",
+                "answers": [
+                    {
+                        "content": "Deelnemer aan de kruistochten met kruisteken op de borst.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Historicus die de oorzaken, gebeurtenissen en gevolgen van de kruistochten bestudeert.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een van de stukken van een ridderharnas, in de vorm van een kruis.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 10,
+        "topic": "Opkomst en ondergang van de Azteekse civilisatie",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "De Azteken leefden in het huidige Mexico T/F",
+                "answers": [
+                    {
+                        "content": "T",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "F",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "De Azteken hadden een maankalender T/F",
+                "answers": [
+                    {
+                        "content": "T",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "F",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Cortez was van Azteekse afkomst T/F",
+                "answers": [
+                    {
+                        "content": "T",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "F",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Het Azteekse rijk stortte in 1521 in. T/F",
+                "answers": [
+                    {
+                        "content": "T",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "F",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De Spanjaarden namen het Azteekse Rijk over T/F",
+                "answers": [
+                    {
+                        "content": "T",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "F",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 11,
+        "topic": "De zwarte dood (de builenpest) verwoest Europa",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Wat was de zwarte dood?",
+                "answers": [
+                    {
+                        "content": "Een plaag die naar Europa kwam",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Een plaag die naar Azië kwam",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een plaag die naar Australië kwam",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Waar kwam het vandaan?",
+                "answers": [
+                    {
+                        "content": "Europa en Afrika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Oost- en Centraal-Azië",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Noord- en Zuid-Amerika",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Welke jaren waren de ergste pest in Europa?",
+                "answers": [
+                    {
+                        "content": "1175-1184",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1251-1256",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1347-1353",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1410-1416",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De Zwarte Dood werd soms wat genoemd?",
+                "answers": [
+                    {
+                        "content": "Spaans",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Builenpest",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Russische Griep",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "COVID-19",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De Zwarte Dood doodde ongeveer welk percentage van de bevolking in Europa?",
+                "answers": [
+                    {
+                        "content": "Een seconde",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een derde",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Een kwart",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een vijfde",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Wat waren de twee belangrijkste problemen voor zowel de boeren als de adel tijdens de \"Zwarte Dood\"?",
+                "answers": [
+                    {
+                        "content": "Boeren - Er was een tekort aan mensen om in de velden te werken",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Edelen - moesten hun velden bewerken (ze waren er niet aan gewend of goed genoeg)",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Hoeveel procent van de Europeanen stierf ongeveer aan de pest?",
+                "answers": [
+                    {
+                        "content": "30%",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "40%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "50%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "60%",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Tijdens de Zwarte Dood waren er pestdoctoren die voor de zieken zorgden (waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 12,
+        "topic": "De Renaissance",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Bevestigt Copernicus het oude geloof dat de zon om de aarde draait?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Schildert Michelangelo de Mona Lisa?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Decoreert Leonardo da Vinci de Sixtijnse Kapel?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Plaatst de cultuur van de Renaissance de mens en zijn bestaan ​​centraal?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Worden kunstenaars, filosofen en dichters ontvangen aan de hoven?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Worden kastelen plaatsen van culturele productie?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Wanneer vond de culturele beweging van het Humanisme plaats?",
+                "answers": [
+                    {
+                        "content": "Renaissance",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Verlichting",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Middeleeuwen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Werd technopraktische kennis tijdens de Middeleeuwen verworpen?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Wat was een belangrijk aspect in de verspreiding van de Renaissance en werd het 'Signorie' genoemd?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Wat ontvingen kunstenaars en wetenschappers van heren voor hun werk?",
+                "answers": [
+                    {
+                        "content": "Bescherming",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Zorg",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Voogdijschap",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Patronage",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Wat zorgde ervoor dat de cultuur zich meer verspreidde?",
+                "answers": [
+                    {
+                        "content": "Uitvinding van de pen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Uitvinding van de boekdrukkunst met losse letters",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Grotere toegang tot boeken",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Wie heeft de uitvinding van de boekdrukkunst met losse letters gedaan?",
+                "answers": [
+                    {
+                        "content": "Muller",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bohte",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Gutenberg",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Peutinger",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 13,
+        "topic": "De Late Renaissance",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Wat heeft ons het meest geholpen om de Nieuwe Tijd te leren kennen?",
+                "answers": [
+                    {
+                        "content": "Opgravingen en overblijfselen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De uitvinding van boeken drukken",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Allerlei gebouwen en voorwerpen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Archeologische vondsten",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "De ontdekkingsreizen leidden tot:",
+                "answers": [
+                    {
+                        "content": "Een stuk betere scheepvaart",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Betere ambachten en wetenschap",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Verspreiding van culturen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Contacten tussen continenten die de natuur in verschillende delen van de wereld beïnvloedden",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Het belangrijkste centrum van handel en nijverheid in de Nieuwe Tijd lag in Nederland (T/F)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Wat gebeurde er met de inheemse bevolking op ontdekkingsreizen?",
+                "answers": [
+                    {
+                        "content": "Ze bekeerden zich tot het christendom",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ze vielen ten prooi aan de slavernij",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Ze werden heel rijk",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Welke naties openden nieuwe gebieden in de Nieuwe Tijd?",
+                "answers": [
+                    {
+                        "content": "Engeland en Spanje",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Portugal en Nederland",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Duitsland en België",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 14,
+        "topic": "De Boston Tea Party: Amerikaanse kolonisten protesteren tegen nieuwe Britse belastingen door thee te gooien in de haven van Boston: 16-12-1773",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "De Amerikaanse kolonisten wilden de theetaks niet betalen omdat:",
+                "answers": [
+                    {
+                        "content": "Ze waren tegen belastingheffing zonder vertegenwoordiging",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Ze dachten dat ze hun eigen thee konden verbouwen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De prijs van de thee zou te hoog worden",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "De Oost-Indische Compagnie had hulp nodig om een grote hoeveelheid thee te verkopen. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Na het einde van de 7-jarige oorlog had Groot-Brittannië nieuwe geldbronnen nodig. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De prijs van de thee werd verhoogd door de nieuwe wet. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De organisatie die betrokken was bij de voorbereidingen voor de vernietiging van de thee in Boston was:",
+                "answers": [
+                    {
+                        "content": "Broers bij Arms",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sons of Liberty",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boston Celtics",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Het aantal schepen dat eind 1773 een lading thee in de haven van Boston bracht, was ... (3)",
+                "answers": [
+                    {
+                        "content": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "5",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "De schepen hadden de haven van Boston kunnen verlaten en hun theelading naar een andere Amerikaanse haven of terug naar Engeland kunnen brengen. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "De schade veroorzaakt tijdens de Boston Tea Party:",
+                "answers": [
+                    {
+                        "content": "Veel mensen raakten gewond of gedood",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ongeveer 46 ton thee werd vernietigd",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "De bijna 100 kanonnen die de haveningang bewaakten werden in zee geworpen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Na de gebeurtenissen in Boston heroverwoog het Britse parlement hun standpunt en besloot een delegatie uit de koloniën te ontvangen. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "De Boston Tea Party wordt beschouwd als een van de gebeurtenissen die hebben geleid tot de Amerikaanse Onafhankelijkheidsoorlog. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Het Britse parlement heeft de Coercitive Acts aangenomen, ook wel genoemd: (Intolerable Acts)",
+                "answers": [
+                    {
+                        "content": "Intolerable Acts",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Restrictive Acts",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Oppressive Acts",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 15,
+        "topic": "De Amerikaanse Revolutie 1775-1783",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Een van de oorzaken van de Amerikaanse Revolutie was:",
+                "answers": [
+                    {
+                        "content": "Belasting zonder vertegenwoordiging",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Veroordeling zonder onderzoek",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Deportatie zonder veroordeling",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Tijdens de Boston Tea Party was de theelading van drie schepen:",
+                "answers": [
+                    {
+                        "content": "In zee gegooid",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In beslag genomen door de patriotten",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Verkocht tegen zeer hoge prijzen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Kies de variant met de juiste volgorde van de gebeurtenissen:",
+                "answers": [
+                    {
+                        "content": "Het Eerste Continentale Congres, The Boston Tea Party, De Lexington-schermutseling.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Boston Tea Party, het eerste continentale congres, de Lexington-schermutseling.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "De schermutseling in Lexington, het eerste continentale congres, de Boston Tea Party.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Het eerste continentale congres riep de onafhankelijkheid van de 13 koloniën uit. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De onafhankelijkheid van de koloniën werd uitgeroepen in het jaar (1776)",
+                "answers": [
+                    {
+                        "content": "1776",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1781",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1783",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "De belangrijkste bondgenoot van de Koloniën was Canada. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "De leider van het Amerikaanse leger was:",
+                "answers": [
+                    {
+                        "content": "Benjamin Franklin",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Thomas Jefferson",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "George Washington",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Frankrijk verklaarde de oorlog aan Groot-Brittannië na de Amerikaanse overwinning bij:",
+                "answers": [
+                    {
+                        "content": "Delaware",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yorktown",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Saratoga",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "De beslissende overwinning voor het Amerikaanse leger was bij .... (Yorktown)",
+                "answers": [
+                    {
+                        "content": "Yorktown",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boston",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Lexington",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Het vredesverdrag dat een einde maakte aan de Amerikaanse Onafhankelijkheidsoorlog werd ondertekend in.... (Versailles)",
+                "answers": [
+                    {
+                        "content": "Versailles",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Philadelphia",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "London",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "De overwinning van de koloniën had positieve gevolgen voor de inheemse stammen van Noord-Amerika. (Waar of niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Een kolonie is:",
+                "answers": [
+                    {
+                        "content": "Een groep schepen die samen thee vervoerden vanuit de haven van Keulen.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een land of gebied dat gebied onder de volledige of gedeeltelijke politieke controle van een ander land staat en bezet is door kolonisten uit dat land.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Een formele bijeenkomst of een reeks bijeenkomsten voor discussie tussen afgevaardigden, vooral die van een politieke partij of die dezelfde politieke ideeën hooghouden.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 16,
+        "topic": "De kiesrechtbeweging (suffragettebeweging): vrouwen vechten voor stemrecht: 1893-1928",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Kiesrecht (suffrage) afkomstig van het Latijnse woord suffragium verwijst naar...",
+                "answers": [
+                    {
+                        "content": "Degenen die hebben geleden om het stemrecht te verkrijgen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Een stem uitgebracht bij het beslissen over een controversiële kwestie",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De offers die moeten worden gebracht voor een representatieve regering",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Wat is het verschil tussen het woord suffragist en suffragette?",
+                "answers": [
+                    {
+                        "content": "Suffragist verwijst naar mannen en suffragette verwijst naar vrouwen.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Suffragist werd gebruikt om te verwijzen naar vrouwen die stemrecht zochten, terwijl deze vrouwen zichzelf suffragettes noemden.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Suffragette is een denigrerende term, terwijl suffragist dat niet is.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "De Vrouwenrechtenconventie werd gehouden in Seneca Falls in 1848. Het document dat op deze conventie werd opgesteld, heette...",
+                "answers": [
+                    {
+                        "content": "De onvervreemdbare rechten voor vrouwen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De verklaring van de rechten van de vrouw",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "The Declaration of Sentiments",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Werd het 19e amendement van de Amerikaanse grondwet op 18 augustus 1920 geratificeerd? (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Is dit een symbool van de feministische beweging? (Waar/Onwaar)",
+                "image":"2.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 17,
+        "topic": "De Russische Revolutie 1917-1922",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Vóór de revolutie werd Rusland geregeerd door een machtige monarch, de tsaar. De tsaar had de totale macht in Rusland. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "De Russische revolutie werd geleid door Vladimir Lenin en een groep revolutionairen die de bolsjewieken werden genoemd. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Een belangrijke gebeurtenis die leidde tot de Russische Revolutie vond plaats op 22 januari 1925. Deze dag wordt Bloody Sunday genoemd. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Van 1918 tot 1920 beleefde Rusland een burgeroorlog tussen de bolsjewieken (ook wel het Rode Leger genoemd) en de antibolsjewieken (het Witte Leger). De bolsjewieken wonnen en het nieuwe land werd de USSR (Unie van Socialistische Sovjetrepublieken) genoemd. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Het Russische volk kwam voor het eerst in opstand begin 1927. (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 18,
+        "topic": "De vorming van de Verenigde Naties (VN) 1945-1946 (Europa, Noord- en Zuid Amerika, Azië, Afrika, Australië)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "VN is opgericht in 1845 (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "VN is oorspronkelijk gericht op vredeshandhaving (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Er zijn 93 landen in de VN (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Tegenwoordig streeft de VN naar armoedebestrijding (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Tegenwoordig streeft de VN naar handhaving en navolging van de mensenrechten (Waar/Niet waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 19,
+        "topic": "De digitale revolutie: de uitvinding van de digitale elektrische computer",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Heeft de uitvinding van de micro-elektronica (transistoren, geïntegreerde schakelingen) de digitale revolutie ingeluid? (Waar/Onwaar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Wi-Fi wordt gebruikt voor draadloze communicatie van mobiele apparaten? (Waar/Onwaar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "We zien een zeer snelle ontwikkeling van elektronisch bankieren. Is Bitcoin een virtuele valuta? (Waar/Onwaar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Wordt een 3D-printer gebruikt om op papier te printen? (Waar/Onwaar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Virtual reality en kunstmatige intelligentie - betekenen ze hetzelfde? (Waar/Onwaar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 20,
+        "topic": "De Sovjet Unie (Rusland) lanceert de Spoetnik, de eerste door de mens gemaakte satelliet (04-10-1957)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "De Sovjet-Unie begon de Space Race door welke satelliet de ruimte in te lanceren?",
+                "answers": [
+                    {
+                        "content": "Kosmos",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Spektr",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Spoetnik",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "YoutSat",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Voyager",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Is de Spoetnik de eerste kunstmatige aardsatelliet? (Ja of nee)",
+                "image":"3.jpg",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Bekijk de tekening en geef de naam van het object aan:",
+                "image":"4.jpg",
+                "answers": [
+                    {
+                        "content": "Luna 10",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sojuz 4",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Spoetnik 1",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Wostok 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Gemini 8",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Wanneer werd de eerste aardsatelliet gelanceerd?",
+                "answers": [
+                    {
+                        "content": "14 december 1903",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "8 mei 1945",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "4 oktober 1957",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "20 juli 1969",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 21,
+        "topic": "Yuri Gagarin is de eerste mens in de ruimte (Rusland, 1961)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Yuri Alexeyevich Gagarin was een Russische kosmonaut (astronaut). Hij werd de eerste mens in de ruimte. (waar)",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Op 12 april 1981 werd Gagarin de eerste man die de ruimte in reisde en een baan om de aarde lanceerde aan boord van de Vostok 3KA-3 (Vostok 1).",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Westerse mensen beweerden dat Gagarin tijdens zijn ruimtevlucht de opmerking had gemaakt: \"Ik zie hier geen God.\"",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "In 1982 begon hij te dienen als plaatsvervanger van de Opperste Sovjet van de Sovjet-Unie.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De reden voor de crash is onbekend, maar de turbulentie van een Su-11 'Fish-pot-C'-interceptor die zijn naverbrandingen gebruikt, kan dit hebben veroorzaakt.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Onwaar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 22,
+        "topic": "De president van de Verenigde Staten van Amerika John F. Kennedy is vermoord in Dallas, Texas op 22-11-1963",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Is dit John Fitzgerald Kennedy, de 35e president van de Verenigde Staten van Amerika?",
+                "image":"5.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Een van de meest beroemde foto’s van de dag van de moordaanslag. Werd JFK in New York vermoord?",
+                "image":"6.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Een Sovjet transportschip zeilt naar een van de eilanden in Noord-Amerika. Was dit Haïti?",
+                "image":"7.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 23,
+        "topic": "Het ontstaan van het internet (USA, 1965-1995)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Het Engelse woord \"windows\" betekent ook de naam van het besturingssysteem voor computers?",
+                "image":"8.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Deze programma's geven je toegang tot inhoud die op internet is gepost. Zijn dit webbrowsers?",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Social media gebruiken programma's die contact vergemakkelijken tussen hun gebruikers (korte informatie, foto's, tekstberichten). Zijn de bovenstaande programma's communicatiemiddelen?",
+                "image":"9.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "We gebruiken het internet ook voor entertainment - we kijken films of luisteren naar muziek. Laten de hieronder gepresenteerde bedrijven je muziek beluisteren?",
+                "image":"10.jpg",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De kiemen van het internet werden geplant in",
+                "answers": [
+                    {
+                        "content": "1969",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1970",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1960",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1980",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Het oorspronkelijke ARPANET werd afgesloten in",
+                "answers": [
+                    {
+                        "content": "1990",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1995",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1980",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1970",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Het internet geeft ons toegang tot veel bronnen waartoe we anders geen toegang zouden hebben.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Informatie op het internet kan altijd als feitelijk worden beschouwd. Het zou niet online zijn als het niet waar was.",
+                "answers": [
+                    {
+                        "content": "Waar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Niet waar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Welk percentage van de huishoudens in de Europese Unie had toegang tot internet?",
+                "answers": [
+                    {
+                        "content": "boven 50%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "boven 80%",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 24,
+        "topic": "De tijd van jagers en boeren (Prehistorie - 3000 v.C.)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Hoe hebben we geleerd wat er gebeurde in de tijd van de eerste mensen?",
+                "answers": [
+                    {
+                        "content": "Liederen en gedichten",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vertelde verhalen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vondsten in de grond",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Opgegraven graven",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Konden de eerste mensen schrijven?",
+                "answers": [
+                    {
+                        "content": "Soms",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ja",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Hoe kwamen de eerste mensen aan hun eten?",
+                "answers": [
+                    {
+                        "content": "In een winkel",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Op de markt",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Door te jagen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Van de landbouw",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Waar leefden de eerste mensen?",
+                "answers": [
+                    {
+                        "content": "In kastelen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In houten huizen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Op de velden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In het bos",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In grotten",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Waar waren hun gebruiksvoorwerpen van gemaakt?",
+                "answers": [
+                    {
+                        "content": "IJzer",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Klei",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Brons",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ander metaal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Wat gebruikten de eerste mensen om dieren te vangen?",
+                "answers": [
+                    {
+                        "content": "Een handbijl",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een speerpunt",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Een schraper",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Mensen in de prehistorie maakten soms rotstekeningen. Hebben ze het met een potlood gemaakt?",
+                "answers": [
+                    {
+                        "content": "Ja",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nee",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Wat tekenden de eerste mensen het meest op de rotsen?",
+                "answers": [
+                    {
+                        "content": "Portretten",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vissen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Wilde dieren",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boten",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Hoe kwamen de eerste boeren aan hun meeste voedsel?",
+                "answers": [
+                    {
+                        "content": "Van vissen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van jagen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van hun vee",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Van hun land",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Waarom werd het hebben van een vaste plek belangrijk?",
+                "answers": [
+                    {
+                        "content": "Om bij hun familie te zijn",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Om vee te kunnen huisvesten",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Om het land te cultiveren",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Om het gebied te kunnen controleren",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Waarom was vuur zo belangrijk voor de vroege boeren?",
+                "answers": [
+                    {
+                        "content": "Om zich te verdedigen tegen wilde dieren",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Om bossen te verbranden voor farmland",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Om warm te blijven in de winter",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Om te koken",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Waar woonden de eerste boeren?",
+                "answers": [
+                    {
+                        "content": "In grotten",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In kastelen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In huizen van hout en modder",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In flats",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 13,
+                "question": "Wat deden de boeren vaak met de wilde dieren?",
+                "answers": [
+                    {
+                        "content": "Ze doodden ze",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ze jaagden erop",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ze verkochten ze aan de dierentuin",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ze domesticeerden ze",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 14,
+                "question": "Van welke materialen maakten de eerste boeren hun gereedschap en gebruiksvoorwerpen?",
+                "answers": [
+                    {
+                        "content": "Van goud",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van ijzer",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van brons",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van steen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Van klei",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Van hout",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 15,
+                "question": "Van welke materialen maakten de boeren later hun gereedschap?",
+                "answers": [
+                    {
+                        "content": "Van goud",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van ijzer",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Van brons",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Van steen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van klei",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Van hout",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 16,
+                "question": "De jagers leefden in groepen, in stammen. Hoe begonnen de boeren samen te leven?",
+                "answers": [
+                    {
+                        "content": "In kastelen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In steden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In dorpen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "In grotten",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 25,
+        "topic": "De tijd van de Grieken en Romeinen (700 v.C. – 500 n.C.)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Griekenland en Athene floreerden door overzeese handel. Ook het schrijven, het denken en de kunst ontwikkelden zich. Hoe weten we dit allemaal?",
+                "answers": [
+                    {
+                        "content": "Uit bewaard gebleven geschriften en overblijfselen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Door verhalen verteld",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Uit opgegraven graven",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Hoe verschilden de groeiende steden van de eerste boerennederzettingen, vooral qua uiterlijk?",
+                "answers": [
+                    {
+                        "content": "De steden hadden gebouwen gemaakt van steen en niet alleen voor huisvesting, maar ook aangepast aan ambachten en handel, zoals tempels of legerkazernes",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "De steden hadden wolkenkrabbers",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De steden hadden luchtkastelen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Waarom begonnen de Grieken en de Romeinen om hun territoria uit te breiden door verovering?",
+                "answers": [
+                    {
+                        "content": "Toen ze boten hadden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Toen ze meer ruimte nodig hadden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Toen ze meer land en meer macht wilden uit economische interesse",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Wat is het belangrijkste verschil tussen het christendom en de oude heidense religies?",
+                "answers": [
+                    {
+                        "content": "Het christendom heeft meer heiligen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Heidense religies hadden meestal veel goden",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Het christendom had slimmere priesters",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Hoe werd beschaving en cultuur verspreid door de Romeinen in hun veroverde gebieden?",
+                "answers": [
+                    {
+                        "content": "Door boeken",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Door oorlog en veroveringen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Door Romeinse nederzettingen",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Waarom bleef de Romeinse invloed niet permanent in al hun veroverde gebieden?",
+                "answers": [
+                    {
+                        "content": "Door klimaatverandering",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Door corruptie en slecht bestuur",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Door vijandige invallen",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 26,
+        "topic": "De tijd van monniken en ridders (500 – 1000/1200)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Wat gebeurde er in West-Europa toen de Romeinse tijd voorbij was?",
+                "answers": [
+                    {
+                        "content": "De Germaanse stammen namen de macht over",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Romeinen vertrokken en lieten chaos achter",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Germaanse stammen begonnen tegen elkaar te vechten",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Hoe beïnvloedde het christendom het dagelijks leven tijdens de migratieperiode?",
+                "answers": [
+                    {
+                        "content": "Mensen begonnen voor elke maaltijd te bidden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Het christendom dwong mensen drie keer per dag te bidden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Het christendom was de enige stabiele factor",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Mensen moesten op zondag naar de mis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "De middeleeuwen duurden van ongeveer 500 tot 1500. Hoeveel jaar is dat?",
+                "answers": [
+                    {
+                        "content": "950",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1100",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1000",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De meeste mensen in de Middeleeuwen bedreven landbouw. Sommige van die mensen verwierven op deze manier landgoederen en verpachtten land aan anderen die arm waren. Zo kwamen er steeds meer pachters. Waren deze mensen vrij? Wat moesten ze doen voor hun leenheer?",
+                "answers": [
+                    {
+                        "content": "Ze waren vrij, maar moesten ook dienen als soldaten in het leger van de heer",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ze waren vrij maar moesten in natura betalen voor het gebruik van het land",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ze waren niet helemaal vrij en moesten werken en dienen voor de heren",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De lijfeigene had de heer nodig en de heer de lijfeigene. Leg uit dat.",
+                "answers": [
+                    {
+                        "content": "Dit soort spel heeft twee spelers nodig",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Om land te hebben en te kunnen bewerken heb je arbeiders nodig om gewassen te produceren en vee te houden, voor voedsel en huisvesting heb je land nodig.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Alleen lijfeigenen kunnen brood bakken en de landheer heeft een leger ter bescherming",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "In de toenmalige omstandigheden hebben ze elkaar nodig om te overleven",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "De huizen van de landheren werden steeds groter. Van welk materiaal waren de grotere huizen voornamelijk gemaakt? Waarom?",
+                "answers": [
+                    {
+                        "content": "Ze waren van steen gebouwd voor een betere verdediging",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Ze waren van hout omdat dat makkelijker is",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ze waren van metaal omdat dat sterker is",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Welke drie regels moest een ridder volgen?",
+                "answers": [
+                    {
+                        "content": "Hij moest bezit een kasteel.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hij moest zijn beloften nakomen.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Hij moest de mensen beschermen.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Hij moet een boer zijn geweest.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hij moest trouw zijn aan zijn heer.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Sommige landheren kregen steeds grotere landgoederen en uiteindelijk ook legers met ridders en soldaten. Ze werden de meesters van steeds grotere gebieden en werden edelen genoemd. Hoe heet de grootste baas van allemaal?",
+                "answers": [
+                    {
+                        "content": "Keizer",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Koning",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Hertog",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Graaf",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Karel de Grote was:",
+                "answers": [
+                    {
+                        "content": "Een beruchte ridder",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een beroemde koning",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Een herenboer",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een groot dichter en schrijver",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Een beroemde troubadour",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Welke dreiging uit de zee bekend was in de Middeleeuwen?",
+                "answers": [
+                    {
+                        "content": "De Romeinen kwamen terug",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Aanvallen van grote zeedieren",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Plundering door de Noormannen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Plundering door monniken",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 27,
+        "topic": "De ontwikkeling van het Christendom - De kloosters",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "In de Hoge Middeleeuwen was de Kerk de enige instelling gebleven met een",
+                "answers": [
+                    {
+                        "content": "stabiele en meedogenloze organisatie",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "autoritaire en strikte organisatie",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "die veiligheid en bescherming kon garanderen aan de bewoners van het gebied, en om deze reden werd het erg",
+                "answers": [
+                    {
+                        "content": "krachtig",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "gevreesd",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In de steden was het vooral aanwezig in de",
+                "answers": [
+                    {
+                        "content": "bisschoppelijke zetels",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "pauselijke zetels",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "op het platteland in de kloosters, waar de monniken in",
+                "answers": [
+                    {
+                        "content": "gemeenschap",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "afzondering",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Kloosters hadden een zeer belangrijke functie: ze slaagden erin de bevolking te beschermen en te",
+                "answers": [
+                    {
+                        "content": "voeden",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "verrijken",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "veel land te redden van verlatenheid,",
+                "answers": [
+                    {
+                        "content": "cultuur",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "tradities",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "De eerste kloosters werden gesticht door de orde van de",
+                "answers": [
+                    {
+                        "content": "benedictijnen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "franciscanen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "De stichter,",
+                "answers": [
+                    {
+                        "content": "Benedictus van Nursia",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Franciscus van Assisi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "schreef een Regel, waarin de monniken werd gevraagd zich ertoe te verbinden de",
+                "answers": [
+                    {
+                        "content": "abt",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "heer van de curtis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "te beoefenen, het motto ora et labora te volgen, dat wil zeggen , om zich te wijden aan",
+                "answers": [
+                    {
+                        "content": "gebed en werk",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "meer aan werk dan aan gebed",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 28,
+        "topic": "Athene naar een voorbeeld van democratie",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Ostracisme is:",
+                "answers": [
+                    {
+                        "content": "een heilig beeld",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "een Grieks gerecht",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "ballingschap uit de stad",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Wie kon deelnemen aan het politieke leven van de polis?",
+                "answers": [
+                    {
+                        "content": "vrouwen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "alleen de ouderen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "mannen",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Solons hervorming had als belangrijkste effect:",
+                "answers": [
+                    {
+                        "content": "de geboorte van de democratie",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "de geboorte van de monarchie",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "het einde van de aristocratie",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De eerste Atheense wetgever was:",
+                "answers": [
+                    {
+                        "content": "Clisthenes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Solon",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Pericles",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De stad Athene hield van:",
+                "answers": [
+                    {
+                        "content": "oorlog",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "landbouw",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "kunst, cultuur en onderwijs",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Atheense vrouwen zorgden voornamelijk voor:",
+                "answers": [
+                    {
+                        "content": "hun kinderen",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "politiek",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "amusement",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 29,
+        "topic": "Opvoeding in Athene",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Atheense meisjes:",
+                "answers": [
+                    {
+                        "content": "zorgden alleen voor hun kinderen en huis",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "konden vrij uitgaan",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "konden stemmen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Atheense jongens:",
+                "answers": [
+                    {
+                        "content": "werden opgeleid om wapens te gebruiken",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "werden opgeleid in het huiselijk leven",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "werden opgeleid om visser te worden",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "In de aristocratische polis konden de edelen:",
+                "answers": [
+                    {
+                        "content": "zich opleiding veroorloven",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "kon voor de landbouw zorgen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "konden hun kinderen opvoeden",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "De jongens werden opgevoed:",
+                "answers": [
+                    {
+                        "content": "door hun grootmoeder of een opgeleide slaaf tot de leeftijd van 18",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "door hun moeder of een opgeleide slaaf tot de leeftijd van 6/7",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "door het orakel van de stad",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "De privé-leraar heette:",
+                "answers": [
+                    {
+                        "content": "musicus",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "algemeen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "grammaticus",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },    
+    {
+        "id": 30,
+        "topic": "De Burgeroorlog in de Verenigde Staten van Amerika",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Wanneer stierf Abraham Lincoln (jaar)? 1865 of 1866?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Wanneer eindigde de burgeroorlog wettelijk? 1865 of 1866?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Hoe heetten de soldaten uit het noorden? De Unionisten of de Geconfedereerden?",
+                "answers": [
+                    {
+                        "content": "De Unionisten",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "De Geconfedereerden",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Hoe heetten de soldaten uit het Zuiden? De Unionisten of de Geconfedereerden?",
+                "answers": [
+                    {
+                        "content": "De Unionisten",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "De Geconfedereerden",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Wie was de voorzitter van de Unie? Abraham Lincoln of Jefferson Davis",
+                "answers": [
+                    {
+                        "content": "Abraham Lincoln",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Jefferson Davis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Wie heeft de burgeroorlog gewonnen? De Unionisten of de Geconfedereerden?",
+                "answers": [
+                    {
+                        "content": "De Unionisten",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "De Geconfedereerden",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }    
+]

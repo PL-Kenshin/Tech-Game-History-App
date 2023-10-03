@@ -3,13 +3,10 @@ import { Link, useOutletContext } from "react-router-dom";
 import strings from '../locale/strings';
 import students from '../data/images/students.jpg'
 
-//const file = new Blob([students], {type: 'image/jpg'});
-
 const Home = (props) => {
     const [language] = useOutletContext();
     const [isReady, setIsReady] = useState(false)
     const [quizList, setQuizList] = useState([])
-    const [imgLoaded, setImgLoaded] = useState(false)
     const [url, setUrl] = useState(null)
 
     useEffect(() => {
@@ -46,6 +43,12 @@ const Home = (props) => {
                     strings.setLanguage('ro')
                     setIsReady(true)
                     break;
+                case "nl":
+                    data = require('../data/nl/quiz.json')
+                    setQuizList([...data])
+                    strings.setLanguage('nl')
+                    setIsReady(true)
+                    break;
                 default:
                     data = require('../data/en/quiz.json')
                     setQuizList([...data])
@@ -73,23 +76,9 @@ const Home = (props) => {
                 let blob = await new Promise(resolve => canvas.toBlob(resolve, 'image/jpeg'));
                 src = URL.createObjectURL(blob)
                 setUrl(src)
-                setImgLoaded(true)
-                
             }
         }
         fun().catch(console.error)
-
-        // await img.onload = () => {
-        //     console.log('jestesmy')
-        //     canvas.width = img.width;
-        //     canvas.height = img.height;
-        //     context.drawImage(img, 0, 0);
-        //     canvas.toBlob((blob) => {
-        //         src = URL.createObjectURL(blob)
-        //         setUrl(src)
-                
-        //     }, 'image/jpeg')
-        // }
         return () => {
             URL.revokeObjectURL(src)
         }
@@ -98,8 +87,7 @@ const Home = (props) => {
 
     return (
         <div>
-            {imgLoaded?<div>
-            <div className="jumbo pt-5 text-center shadow-sm mb-5 text-white" style={{backgroundImage:`linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(${url})`,backgroundRepeat:"no-repeat", backgroundSize:"cover", backgroundPosition:"center",backgroundAttachment:'fixed'}}>
+            <div className="jumbo pt-5 text-center shadow-sm mb-5 text-white" style={{backgroundImage:`linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(${url?url:undefined})`,backgroundRepeat:"no-repeat", backgroundSize:"cover", backgroundPosition:"center",backgroundAttachment:'fixed'}}>
                 <div className="pt-5">
                     <div className="d-flex justify-content-center pt-5 pb-2">
                         <h1 className="col-lg-8 pt-5">{strings.pick}</h1>
@@ -119,7 +107,6 @@ const Home = (props) => {
                 ))}
             </ul>
             </div>}
-            </div>:<div></div>}
         </div>
     )
 

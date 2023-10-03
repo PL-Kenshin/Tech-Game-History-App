@@ -31,7 +31,11 @@ const strings = new LocalizedStrings({
         dldNow: "Download now!",
         yourAnswers: "Your answers",
         corrShort: "correct",
-        wrongShort: "wrong"
+        wrongShort: "wrong",
+        contrast: "Enable or disable the contrast version",
+        enlargeFont: "Enlarge the font",
+        defaultFont: "Default font size",
+        reducefont: "Reduce font size"
     },
     it: {
         start: "inizio",
@@ -63,7 +67,11 @@ const strings = new LocalizedStrings({
         dldNow: "Scarica ora!",
         yourAnswers: "Le tue risposte",
         corrShort: "corretto",
-        wrongShort: "sbagliato"
+        wrongShort: "sbagliato",
+        contrast: "Attiva o disattiva la versione ad alto contrasto",
+        enlargeFont: "Ingrandisci il carattere",
+        defaultFont: "Carattere predefinito",
+        reducefont: "Riduci il carattere"
     },
     mk: {
         start: "почеток",
@@ -95,7 +103,11 @@ const strings = new LocalizedStrings({
         dldNow: "Преземете сега!",
         yourAnswers: "Вашите одговори",
         corrShort: "точни",
-        wrongShort: "неточни"
+        wrongShort: "неточни",
+        contrast: "Вклучи или исклучи верзија со висок контраст",
+        enlargeFont: "Зголеми големина на фонтот",
+        defaultFont: "Стандардна големина на фонтот",
+        reducefont: "Намали големина на фонтот"
     },
     pl: {
         start: "start",
@@ -127,7 +139,11 @@ const strings = new LocalizedStrings({
         dldNow: "Pobierz teraz!",
         yourAnswers: "Twoje odpowiedzi",
         corrShort: "poprawne",
-        wrongShort: "błędne"
+        wrongShort: "błędne",
+        contrast: "Włącz lub wyłącz wersję kontrastową",
+        enlargeFont: "Powiększ czcionkę",
+        defaultFont: "Domyślny rozmiar czcionki",
+        reducefont: "Pomniejsz czcionkę"
     },
     ro: {
         start: "start",
@@ -159,7 +175,47 @@ const strings = new LocalizedStrings({
         dldNow: "Descarcă acum!",
         yourAnswers: "Răspunsurile tale",
         corrShort: "corect",
-        wrongShort: "gresit"
+        wrongShort: "gresit",
+        contrast: "Activează sau dezactivează versiunea cu contrast înalt",
+        enlargeFont: "Mărește fontul",
+        defaultFont: "Dimensiunea implicită a fontului",
+        reducefont: "Micșorează fontul"
+    },
+    nl: {
+        start: "begin",
+        quiz: "Quiz:",
+        pick: "Kies een quizonderwerp",
+        language: "Taal",
+        requirement: "Om de quiz te halen, moet je 75% van de vragen juist beantwoorden.",
+        startQuiz: "Begin de quiz",
+        continue: "Doorgaan",
+        content: "inhoud",
+        next: "volgende",
+        finish: "Klaar",
+        goBack: "Terug gaan",
+        congratulations: "Gefeliciteerd",
+        unfortunately: "Helaas",
+        points: "punten",
+        passed: "Je hebt de quiz gehaald met",
+        failed: "Je bent gezakt voor de quiz met",
+        download: "Je kunt het bevestigingsdocument met je antwoorden hier downloaden:",
+        tryAgain: "Je kunt het opnieuw proberen",
+        certificate: "Certificaat",
+        question: "Vraag:",
+        outOf: "van de",
+        multipleSelection: "(meerdere juiste antwoorden)",
+        correct: "Juist antwoord!",
+        wrong: "Fout antwoord!",
+        corr: "Juist:",
+        loadDoc: "Document wordt geladen...",
+        dldNow: "Nu downloaden!",
+        yourAnswers: "Je antwoorden",
+        corrShort: "juist",
+        wrongShort: "fout",
+        contrast: "Zet de hoogcontrastversie aan of uit",
+        enlargeFont: "Vergroot lettertype",
+        defaultFont: "Standaard lettergrootte",
+        reducefont: "Verklein lettertype"
     }
 });
 

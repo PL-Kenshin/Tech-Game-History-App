@@ -66,13 +66,13 @@ const Navbar = (props) => {
       <a href="https://erasmus-plus.ec.europa.eu/" className="navbar-brand collapse multi-collapse navbar-collapse" target="_blank" rel="noreferrer" id="erasmus"><img src="/erasmus_plus.png" width="243" height="50" alt="Erasmus+"></img></a>
 
       <section className="collapse multi-collapse navbar-collapse pt-4 pt-lg-0 flex-grow-1 justify-content-end" id="navbarSupportedContent">
-          <button className={"btn btn-sm btn-floating shadow-sm " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleContrastChange(e)}>
+          <button className={"btn btn-sm btn-floating shadow-sm " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleContrastChange(e)} title={strings.contrast}>
             <i className="fa fa-eye"></i>
           </button>
           <div className="btn-group btn-group-sm ms-2 shadow-sm" role="group">
-            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(3)}>A+</button>
-            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(2)}>A</button>
-            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(1)}>A-</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(3)} title={strings.enlargeFont}>A+</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(2)} title={strings.defaultFont}>A</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(1)} title={strings.reducefont}>A-</button>
           </div>
           <ul className="navbar-nav">
             <li className="nav-item dropdown">
