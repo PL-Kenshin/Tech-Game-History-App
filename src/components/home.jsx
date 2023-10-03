@@ -1,11 +1,16 @@
 import React, { useEffect, useState } from "react";
 import { Link, useOutletContext } from "react-router-dom";
 import strings from '../locale/strings';
+import students from '../data/images/students.jpg'
+
+//const file = new Blob([students], {type: 'image/jpg'});
 
 const Home = (props) => {
     const [language] = useOutletContext();
     const [isReady, setIsReady] = useState(false)
     const [quizList, setQuizList] = useState([])
+    const [imgLoaded, setImgLoaded] = useState(false)
+    const [url, setUrl] = useState(null)
 
     useEffect(() => {
         const loadData = async () => {
@@ -52,10 +57,46 @@ const Home = (props) => {
         loadData()
     },[language])
     
-    // let quizList = [...quiz]
+    
+    useEffect(() => {
+        let src
+        let fun = async () => {
+            const canvas = document.createElement('canvas');
+            const context = canvas.getContext('2d')
+            const img = new Image()
+            img.src = students
+            img.onload = async () => {
+                canvas.width = img.width;
+                canvas.height = img.height;
+                context.drawImage(img, 0, 0);
+                
+                let blob = await new Promise(resolve => canvas.toBlob(resolve, 'image/jpeg'));
+                src = URL.createObjectURL(blob)
+                setUrl(src)
+                setImgLoaded(true)
+                URL.revokeObjectURL(src)
+            }
+        }
+        fun().catch(console.error)
+
+        // await img.onload = () => {
+        //     console.log('jestesmy')
+        //     canvas.width = img.width;
+        //     canvas.height = img.height;
+        //     context.drawImage(img, 0, 0);
+        //     canvas.toBlob((blob) => {
+        //         src = URL.createObjectURL(blob)
+        //         setUrl(src)
+                
+        //     }, 'image/jpeg')
+        // }
+    },[])
+    
+
     return (
         <div>
-            <div className="jumbo pt-5 text-center shadow-sm mb-5 text-white" style={{backgroundImage:'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/students.jpg")',backgroundRepeat:"no-repeat", backgroundSize:"cover", backgroundPosition:"center",backgroundAttachment:'fixed'}}>
+            {imgLoaded?<div>
+            <div className="jumbo pt-5 text-center shadow-sm mb-5 text-white" style={{backgroundImage:`linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(${url})`,backgroundRepeat:"no-repeat", backgroundSize:"cover", backgroundPosition:"center",backgroundAttachment:'fixed'}}>
                 <div className="pt-5">
                     <div className="d-flex justify-content-center pt-5 pb-2">
                         <h1 className="col-lg-8 pt-5">{strings.pick}</h1>
@@ -75,6 +116,7 @@ const Home = (props) => {
                 ))}
             </ul>
             </div>}
+            </div>:<div></div>}
         </div>
     )
 
