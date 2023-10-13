@@ -8,13 +8,18 @@ import Footer from "./components/footer"
 import ErrorBoundary from "./components/ErrorBoundary"
 import { Helmet } from 'react-helmet';
 import { useState } from 'react';
+import dyslexic from './fonts/DyslexicFZF-Regular.ttf';
 
 function App() {
   let contrast = JSON.parse(localStorage.getItem("isHighContrastOn"))
   let fontSize = parseInt(localStorage.getItem("fontSize"))
   let language = localStorage.getItem("language")
+  let fontFamily = localStorage.getItem("fontFamily")
   if(language === null) {
     localStorage.setItem("language", "en")
+  }
+  if(fontFamily === null) {
+    localStorage.setItem("fontFamily", false)
   }
   let size = 100
     switch (fontSize) {
@@ -34,6 +39,7 @@ function App() {
   const [highContrast, setHighContrast] = useState(contrast?contrast:false)
   const [userfontSize, setUserFontSize] = useState(size)
   const [userLanguage, setUserLanguage] = useState(language?language:"en")
+  const [userFontFamily, setUserFontFamily] = useState(fontFamily?fontFamily:false)
 
 
   window.addEventListener('contrast', () => {
@@ -64,6 +70,10 @@ function App() {
     language = localStorage.getItem("language")
     setUserLanguage(language)
   })
+  window.addEventListener('fontFamily', () => {
+    fontFamily = JSON.parse(localStorage.getItem("fontFamily"))
+    setUserFontFamily(fontFamily)
+  })
 
   return (
     <div className="container-fluid p-0">
@@ -81,8 +91,14 @@ function App() {
         </style>}
         <style>
           {`
+            @font-face {
+              font-family: "Dyslexic";   /*Can be any text*/
+              src: local("DyslexicFZF-Regular"),
+                url(${dyslexic}) format("OpenType");
+            }
             * {
-              font-size:${userfontSize}%
+              font-size:${userfontSize}%;
+              font-family:"${userFontFamily?"Dyslexic":"Arial"}";
             }
           `}
         </style>

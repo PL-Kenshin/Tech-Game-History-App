@@ -35,7 +35,8 @@ const strings = new LocalizedStrings({
         contrast: "Enable or disable the contrast version",
         enlargeFont: "Enlarge the font",
         defaultFont: "Default font size",
-        reducefont: "Reduce font size"
+        reducefont: "Reduce font size",
+        dyslexicFont: "Enable dyslexic font"
     },
     it: {
         start: "inizio",
@@ -71,7 +72,8 @@ const strings = new LocalizedStrings({
         contrast: "Attiva o disattiva la versione ad alto contrasto",
         enlargeFont: "Ingrandisci il carattere",
         defaultFont: "Carattere predefinito",
-        reducefont: "Riduci il carattere"
+        reducefont: "Riduci il carattere",
+        dyslexicFont: "Abilita il carattere per dislessici"
     },
     mk: {
         start: "почеток",
@@ -107,7 +109,8 @@ const strings = new LocalizedStrings({
         contrast: "Вклучи или исклучи верзија со висок контраст",
         enlargeFont: "Зголеми големина на фонтот",
         defaultFont: "Стандардна големина на фонтот",
-        reducefont: "Намали големина на фонтот"
+        reducefont: "Намали големина на фонтот",
+        dyslexicFont: "Овозможете фонт за дислексичар"
     },
     pl: {
         start: "start",
@@ -143,7 +146,8 @@ const strings = new LocalizedStrings({
         contrast: "Włącz lub wyłącz wersję kontrastową",
         enlargeFont: "Powiększ czcionkę",
         defaultFont: "Domyślny rozmiar czcionki",
-        reducefont: "Pomniejsz czcionkę"
+        reducefont: "Pomniejsz czcionkę",
+        dyslexicFont: "Włącz czcionkę dla dyslektyków"
     },
     ro: {
         start: "start",
@@ -179,7 +183,8 @@ const strings = new LocalizedStrings({
         contrast: "Activează sau dezactivează versiunea cu contrast înalt",
         enlargeFont: "Mărește fontul",
         defaultFont: "Dimensiunea implicită a fontului",
-        reducefont: "Micșorează fontul"
+        reducefont: "Micșorează fontul",
+        dyslexicFont: "Activați fontul pentru dislexic"
     },
     nl: {
         start: "begin",
@@ -215,7 +220,8 @@ const strings = new LocalizedStrings({
         contrast: "Zet de hoogcontrastversie aan of uit",
         enlargeFont: "Vergroot lettertype",
         defaultFont: "Standaard lettergrootte",
-        reducefont: "Verklein lettertype"
+        reducefont: "Verklein lettertype",
+        dyslexicFont: "Schakel dyslectisch lettertype in"
     }
 });
 

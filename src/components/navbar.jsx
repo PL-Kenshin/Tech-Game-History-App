@@ -17,7 +17,7 @@ const Navbar = (props) => {
     window.dispatchEvent(new Event("contrast"));
   }
 
-  const handleFontChange = (size) => {
+  const handleFontSizeChange = (size) => {
     let font = localStorage.getItem("fontSize")
     if(font){
       if(size === font) {
@@ -56,6 +56,17 @@ const Navbar = (props) => {
     window.dispatchEvent(new Event("language"));
   }
 
+  const handleFontChange = () => {
+    let fontFamily = JSON.parse(localStorage.getItem("fontFamily"))
+    console.log(fontFamily)
+    if(fontFamily){
+      localStorage.setItem("fontFamily",!fontFamily)
+    } else{
+      localStorage.setItem("fontFamily",true)
+    }
+    window.dispatchEvent(new Event("fontFamily"));
+  }
+
    return (
     <nav className={"navbar sticky-top shadow-sm navbar-expand-lg navbar-light py-2 py-lg-0 " + (props.contrast?"":"bg-white")} aria-hidden="true">
     <div className="container-fluid">
@@ -66,13 +77,16 @@ const Navbar = (props) => {
       <a href="https://erasmus-plus.ec.europa.eu/" className="navbar-brand collapse multi-collapse navbar-collapse" target="_blank" rel="noreferrer" id="erasmus"><img src="/erasmus_plus.png" width="243" height="50" alt="Erasmus+"></img></a>
 
       <section className="collapse multi-collapse navbar-collapse pt-4 pt-lg-0 flex-grow-1 justify-content-end" id="navbarSupportedContent">
-          <button className={"btn btn-sm btn-floating shadow-sm " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleContrastChange(e)} title={strings.contrast}>
+          <button className={"btn btn-sm btn-floating shadow-sm " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange()} title={strings.dyslexicFont}>
+            <i className="fa fa-font"></i>
+          </button> 
+          <button className={"btn btn-sm btn-floating shadow-sm ms-2 " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleContrastChange(e)} title={strings.contrast}>
             <i className="fa fa-eye"></i>
           </button>
           <div className="btn-group btn-group-sm ms-2 shadow-sm" role="group">
-            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(3)} title={strings.enlargeFont}>A+</button>
-            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(2)} title={strings.defaultFont}>A</button>
-            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontChange(1)} title={strings.reducefont}>A-</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontSizeChange(3)} title={strings.enlargeFont}>A+</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontSizeChange(2)} title={strings.defaultFont}>A</button>
+            <button type="button" className={"btn " + (props.contrast?"btn-outline-light":"btn-outline-dark")} onClick={e => handleFontSizeChange(1)} title={strings.reducefont}>A-</button>
           </div>
           <ul className="navbar-nav">
             <li className="nav-item dropdown">
