@@ -18,19 +18,27 @@ const MyDoc = (props) => {
 
     return (
         <Document>
-            <Page size="A5" orientation="landscape" style={styles.page} wrap>
-                <View style={styles.section}>
+            <Page size="A4" style={styles.page} wrap>
+                <View style={styles.between}>
+                    <Image src="/logo.png" style={{ width: 37, height: 30 }}></Image>
+                    <Image src="/erasmus_plus.png" style={{ width: 141, height: 30 }}></Image>
+                </View>
+                <View style={styles.sectionFirst}>
                     <Text style={styles.container}>{strings.congratulations}</Text>
                     <Text style={styles.text}>{strings.passed} {props.points}/{props.maxPoints} {strings.points}</Text>
                     <Text style={styles.title}>{props.quiz.topic}</Text>
                 </View>
                 <View style={styles.between}>
-                        <Image src="/logo.png" style={{width:37, height:30}}></Image>
-                        <Image src="/erasmus_plus.png" style={{width:141, height:30}}></Image>
+                    <Image src="/AT.png" style={{ height: 50 }}></Image>
+                    <Image src="/IISM.png" style={{  height: 50 }}></Image>
+                    <Image src="/CDI.png" style={{  height: 50 }}></Image>
+                    <Image src="/IER.png" style={{  height: 50 }}></Image>
+                    <Image src="/SPDV.png" style={{  height: 50 }}></Image>
+                    <Image src="/EISA.jpg" style={{  height: 50 }}></Image>
                 </View>
             </Page>
             <Page size="A4" style={styles.page} wrap>
-                <View style={styles.section}>
+                <View style={styles.sectionSecond}>
                     <Text>{strings.yourAnswers}</Text>
                     <View style={styles.table}>
                         {props.answers.map((elem, key) => {
@@ -85,11 +93,18 @@ const styles = StyleSheet.create({
         fontSize: 14,
         fontFamily: "Roboto"
     },
-    section: {
+    sectionFirst: {
         margin: 10,
         padding: 10,
         flex:10,
-        fontFamily: "Roboto"
+        fontFamily: "Roboto",
+        justifyContent:'center'
+    },
+    sectionSecond: {
+        margin: 10,
+        padding: 10,
+        flex:10,
+        fontFamily: "Roboto",
     },
     table: {
         display: "table",

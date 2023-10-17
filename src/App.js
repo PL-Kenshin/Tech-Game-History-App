@@ -2,6 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import 'font-awesome/css/font-awesome.min.css'
+
 import Navbar from "./components/navbar";
 import { Outlet } from "react-router-dom";
 import Footer from "./components/footer"
@@ -14,7 +15,7 @@ function App() {
   let contrast = JSON.parse(localStorage.getItem("isHighContrastOn"))
   let fontSize = parseInt(localStorage.getItem("fontSize"))
   let language = localStorage.getItem("language")
-  let fontFamily = localStorage.getItem("fontFamily")
+  let fontFamily = JSON.parse(localStorage.getItem("fontFamily"))
   if(language === null) {
     localStorage.setItem("language", "en")
   }
@@ -39,8 +40,7 @@ function App() {
   const [highContrast, setHighContrast] = useState(contrast?contrast:false)
   const [userfontSize, setUserFontSize] = useState(size)
   const [userLanguage, setUserLanguage] = useState(language?language:"en")
-  const [userFontFamily, setUserFontFamily] = useState(fontFamily?fontFamily:false)
-
+  const [userFontFamily, setUserFontFamily] = useState(fontFamily !== null ?fontFamily:false)
 
   window.addEventListener('contrast', () => {
     contrast = JSON.parse(localStorage.getItem("isHighContrastOn"))
@@ -83,6 +83,10 @@ function App() {
             * {
               color:yellow !important;
               background-color: black !important;
+              &::before, &::after {
+                background-image: none !important;
+              }
+              
             }
             .jumbo {
               background-image: none !important;

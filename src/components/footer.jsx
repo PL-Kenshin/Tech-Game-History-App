@@ -7,7 +7,7 @@ const Footer = (props) => {
     <footer className={"text-center text-white " + (props.contrast?"":"bg-dark")} aria-hidden="true">
 
       <div className="text-center p-4">
-        © {year} Copyright: Mateusz Ptak, Adrian Wilk, Eryk Łuszczkiewicz. All rights reserved.
+        © {year} Mateusz Ptak, Adrian Wilk, Eryk Łuszczkiewicz. Some rights reserved.
       </div>
 
       <div className="container pb-4">

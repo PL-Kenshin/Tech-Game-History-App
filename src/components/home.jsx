@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link, useOutletContext } from "react-router-dom";
 import strings from '../locale/strings';
 import students from '../data/images/students.jpg'
+import AutoPlaySlider from "./slider/AutoPlaySlider"
 
 const Home = (props) => {
     const [language] = useOutletContext();
@@ -94,6 +95,7 @@ const Home = (props) => {
                     </div>
                 </div>
             </div>
+            <div className="container mb-3"><AutoPlaySlider></AutoPlaySlider></div>
             {isReady && <div className="container min-vh-100">
             <ul className="list-group mb-5 shadow-sm">
                 {quizList.map((quiz, key) =>
