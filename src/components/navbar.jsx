@@ -58,7 +58,6 @@ const Navbar = (props) => {
 
   const handleFontChange = () => {
     let fontFamily = JSON.parse(localStorage.getItem("fontFamily"))
-    console.log(fontFamily)
     if(fontFamily){
       localStorage.setItem("fontFamily",!fontFamily)
     } else{
