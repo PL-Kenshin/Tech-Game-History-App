@@ -1,0 +1,4108 @@
+[
+    {
+        "id": 1,
+        "topic": "Dünya Savaşı",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Birinci Dünya Savaşı'nın bir nedeni şunlardı:",
+                "answers": [
+                    {
+                        "content": "büyük güçlerin genişleme arzusu",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Sırbistan Veliaht Prensine Suikast",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Atom bombasının fırlatılması",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Birinci Dünya Savaşı'nın bir başka nedeni de şuydu:",
+                "answers": [
+                    {
+                        "content": "küçük güçlerin genişlemesi arzusu",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Avusturya-Macaristan tahtının varisi Arşidük Franz Ferdinand'ın Saraybosna'da öldürülmesi kıvılcımdı",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bilgisayarın icadı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "İtilaf devletleri neydi?",
+                "answers": [
+                    {
+                        "content": "İngiltere, Fransa, Rusya",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Rusya, Fransa, Almanya",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "İngiltere, Bulgaristan, Hollanda",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Merkezi Güçlerin üye devletleri neydi?",
+                "answers": [
+                    {
+                        "content": "İngiltere, Fransa, Rusya",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bulgaristan, Avusturya-Macaristan İmparatorluğu, Almanya, Osmanlı İmparatorluğu",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Almanya, Bulgaristan, Fransa",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Savaşın iki ana cephesi şunlardı:",
+                "answers": [
+                    {
+                        "content": "Batı Cephesi ve Doğu Cephesi",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kuzey Cephesi ve Güney Cephesi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Gündüz ve Gece Cephesi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "1916'da batı cephesi'nde iki büyük savaş gerçekleşti ve her iki kampta da birçok zayiatla sonuçlandı:",
+                "answers": [
+                    {
+                        "content": "Marasti, Marasesti ve Yulaf Ezmesi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Verdun ve Somme savaşları",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Viyana ve Berlin",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Doğru veya yanlış yanıtla: 1916'da Amerika Birleşik Devletleri savaşa girdi. (Y)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Rusya, 1918'de I. Dünya Savaşı'ndan çıktı. Nasıl?",
+                "answers": [
+                    {
+                        "content": "Brest-Litovsk barış antlaşması",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Compiègne ateşkesi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yalta barışı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Birinci Dünya Savaşı ne zaman sona erdi?",
+                "answers": [
+                    {
+                        "content": "1818",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1918",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1718",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "topic": "Dünya Savaşı",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "İkinci Dünya Savaşı'nın bir nedeni şunlardı:",
+                "answers": [
+                    {
+                        "content": "Totaliter devletlerin toprakları ve etki alanları için mücadele",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Stalingrad Savaşı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hiroşima ve Nagazaki'ye atom bombası atmak",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "İkinci Dünya Savaşı'nın bir başka nedeni de şunlardı:",
+                "answers": [
+                    {
+                        "content": "Pearl Harbor'a Japon saldırısı, ABD",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Normandiya çıkarmaları",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hitler'in revizyonist eylemleri",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Mihver Güçlerinin üyeleri nelerdir?",
+                "answers": [
+                    {
+                        "content": "Almanya, İtalya, Japonya",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Birleşik Krallık, Sovyetler Birliği, ABD, Fransa",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "İtalya, Fransa, ABD",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "ABD, Birleşik Krallık, İtalya",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Birleşmiş Milletler Koalisyonunun üyeleri nelerdir?",
+                "answers": [
+                    {
+                        "content": "Almanya, İtalya, Japonya",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Birleşik Krallık, Sovyetler Birliği, ABD, Fransa",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "İtalya, Fransa, ABD",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "ABD, Birleşik Krallık, İtalya",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Savaş, yıl içinde Almanya'nın Polonya'ya saldırmasıyla başladı:",
+                "answers": [
+                    {
+                        "content": "1839",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1939",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1739",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Barbarossa Operasyonu ile Almanya saldırıyor:",
+                "answers": [
+                    {
+                        "content": "AMERİKA Birleşik Devletleri",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "SSCB",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Büyük Britanya",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "ABD'nin savaşa girmesine neden olan olay şuydu:",
+                "answers": [
+                    {
+                        "content": "İkinci dünya savaşı'nın patlak vermesi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Pearl Harbor'daki Amerikan üssüne saldırmak",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Stalingrad Savaşı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Pasifik Tiyatrosu'nda II. Dünya Savaşı'nın gidişatını değiştiren en büyük deniz savaşı şunlardı:",
+                "answers": [
+                    {
+                        "content": "İnci Liman",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yarı yolda",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Washington",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Doğru veya yanlış yanıtla: Stalingrad Savaşı RUSYA topraklarında gerçekleşti (D)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Normandiya çıkarmaları ne zaman gerçekleşti:",
+                "answers": [
+                    {
+                        "content": "1944",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1744",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1844",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Doğru veya yanlış yanıtla: Berlin'in Birleşmiş Milletler tarafından ele geçirilmesi İtalya'nın teslim olmasına yol açacaktır. (Y)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "İkinci Dünya Savaşı'nı sona erdiren iki atom bombası, Japonya'nın Hiroşima ve Nagazaki şehirlerine atıldı. (D)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "topic": "Soğuk Savaş",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Soğuk Savaş, iki ülke arasındaki jeopolitik bir rekabetti: ABD ve Sovyetler Birliği.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Soğuk Savaş, Truman Doktrini ve Marshall Planı'nın yürürlüğe girmesiyle 1950 civarında başladı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "1949'da Amerika Birleşik Devletleri ve Avrupalı müttefikleri, saldırı durumunda her birini korumak için Kuzey Atlantik Antlaşması Örgütü'nü (NATO) kurdu.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Amerika Birleşik Devletleri komünizmin Avrupa'daki diğer ülkelere yayılmasını istemedi. Bu nedenle ABD, savaştan sonra yeniden inşa etmeleri için bu ülkelere para verdi. Buna, planı öneren Amerikalı George Marshall'ın ardından Marshall Planı adı verildi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Soğuk Savaş, Sovyetler Birliği'nin dağılmasından ve dağılmasından sonra 1980'de sona erdi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "topic": "Sanayi Devrimi (bölüm 1)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "19. yüzyılda tarihsel bilgi için ne tür yeni kaynaklar ortaya çıktı?",
+                "answers": [
+                    {
+                        "content": "Renkli televizyon",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Medeni sicil",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Toplu baskı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sicil, kitle basını ve görsel-işitsel medya",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "18. Yüzyılda, Batı Avrupa'nın her yerindeki egemen düzen hala hükümdarın egemen liderliğine dayanıyor.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Bu durum 19. yüzyılda da devam etti.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "19. Yüzyılda Fransa'daki insanlar 18. Yüzyıldaki siyasi durumu kabul ettiler mi?",
+                "answers": [
+                    {
+                        "content": "siyasi durumu kabullenmek",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "kabul edildi, ancak günlük yaşamı iyileştirmek için birkaç şans istedi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "İsyanı kabul etmedi ve başlattı",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kabul etmedi ve bu konuda hiçbir şey yapmadı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Haklar ve makamlar vatandaşlar tarafından erişilebilir hale geldikten sonra, bu herkes için daha büyük ve kalıcı bir özgürlüğe yol açtı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Son Napolyon Savaşı'ndan sonra ne oldu?",
+                "answers": [
+                    {
+                        "content": "Bütün Avrupa ülkeleri yeniden özgürdü ve edindikleri haklardan bir kez daha yararlanabiliyorlardı.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bütün Avrupa ülkeleri yeniden özgür ve güçlüydü, ancak eski siyasi durum yeniden yürürlüğe girdi.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bütün Avrupa ülkeleri yeniden özgür ve güçlüydü, ancak eski siyasi durum yeniden yürürlüğe girdi, ancak göreceli olarak kısa bir süre için.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "19. yüzyılda ülkeler denizaşırı bölgeleri kolonileştirmeye başladı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "19. yüzyılda köleliğe artık ihtiyaç duyulmadığı için kölelik kaldırıldı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Sanayileşmeyi 19. yüzyılda ne tetikledi?",
+                "answers": [
+                    {
+                        "content": "Köleliğin kaldırılması",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tezgahların kullanımı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Buhar motorunun icadı",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Demiryolu hatlarının inşası",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Sanayileşmenin özelliği",
+                "answers": [
+                    {
+                        "content": "Evde bulunan tüm üretim",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tüm üretim küçük ölçekli",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Merkezileştirilmiş şehirlerde kitle üretim",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Merkezileştirilmiş fabrikalarda kitle üretim",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Özel endüstriyel alanlar, büyük satış alanlarına sahip belirli endüstrilerde oluşturularak mal trafiğinde büyük bir artışa neden olur.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Sanayileşme tarıma nasıl girdi?",
+                "answers": [
+                    {
+                        "content": "Yeni hayvanlar sürülere tanıtıldı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Daha fazla insanı beslemek için yeni mahsuller yetiştirildi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Çiftçiler, artan nüfus için daha yüksek üretim gıdaları için robotlarla değiştirildi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Temel gıdaların daha yüksek üretimi için yeni mahsullerin icadı",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 13,
+                "question": "Sanayileşmenin çevre için olumlu sonuçları oldu ve oldu.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 14,
+                "question": "Sanayileşmenin kentsel ve kırsal alanların peyzajı üzerinde büyük etkisi oldu ve oluyor.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 15,
+                "question": "Sanayi devrimi hemen herkese refah getirdi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 16,
+                "question": "Sanayi devrimi kadınlara eşit haklar verilmesine nasıl yardımcı oldu?",
+                "answers": [
+                    {
+                        "content": "Daha yüksek bir ahlaki standart bilinci yarattı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tüm işi yapacak kadar işçi yoktu",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kadınlar sanayide çalışmak için daha iyidir",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kadınlar artık çocuklara bakmaları gerekmiyordu",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "topic": "Sanayi Devrimi (bölüm 2)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Sanayi Devrimi neydi?",
+                "answers": [
+                    {
+                        "content": "Arabaların doğuşu",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Seri üretimin yayılması",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Amerika'nın başlangıcı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Walmart'ın başlangıcı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Sanayi Devrimi nerede başladı?",
+                "answers": [
+                    {
+                        "content": "Amerika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Afrika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Fransa",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Büyük Britanya",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Sanayi Devrimi tarih için neden önemlidir?",
+                "answers": [
+                    {
+                        "content": "Değil.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Çünkü devrimin icatları bugünün icatlarına yol açtı.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Çünkü Amerika'yı Fransa'dan daha iyi yaptı.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Çünkü o zaman çok önemli bir şey oldu.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Fabrikalar ne tür bir çalışma ortamı sağladı?",
+                "answers": [
+                    {
+                        "content": "Klimalı, temiz ve eğlenceli",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sıcak, temiz ve çok fazla mola",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Nemli, tozlu ve iyi ödeme",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sıcak, kirli, kötü hava kalitesi",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Bir buhar motoru genellikle hangi Araç cihazında bulunur?",
+                "answers": [
+                    {
+                        "content": "Araba",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tren",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Otobüs",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Uçak",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Aşağıdakilerden hangisi Sanayi Devriminin başlamasına yardımcı oldu?",
+                "answers": [
+                    {
+                        "content": "Muhafaza Hareketi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Obama'nın kabul ettiği ekonomik teşvik paketi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Amerika Birleşik Devletleri Anayasası",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1883 Fabrikalar Yasası",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Yenilenebilir Enerji Kaynakları (RES):\n\nGüneş, rüzgar, su, biyoyakıtlar, biyokütle, nükleer enerji - bunlar Yenilenebilir Enerji Kaynakları mı?",
+                "image": "1.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "topic": "Fransız Devrimi",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "On sekizinci yüzyılda Fransa'da ayrıcalıklardan kim yararlandı?",
+                "answers": [
+                    {
+                        "content": "Burjuva",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Soylular ve din adamları",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Halkın",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Papa",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Ekonomik krizi çözmek için Fransa'da hangi meclis toplandı?",
+                "answers": [
+                    {
+                        "content": "Bölgesel Devletler Meclisi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bölge illeri Meclisi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Genel İller Meclisi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Genel Devletler Meclisi",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Bastille hangi yıl saldırıya uğradı ve alındı?",
+                "answers": [
+                    {
+                        "content": "1787 Yılında",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1789 yılında",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1798 yılında",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1889 yılında",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Fransız monarşisi neye dönüştü?",
+                "answers": [
+                    {
+                        "content": "Başkanlık monarşisine",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Anayasal bir monarşiye dönüşmek",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bir Cumhuriyete",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Federasyona katılmak",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Devrim sırasında Fransız kralına ne oldu?",
+                "answers": [
+                    {
+                        "content": "Kaçtı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Papa ile ittifak kurdu",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Askerlerin yardımıyla sokak protestoları düzenledi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ölüm cezasına çarptırıldı",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Robespierre döneminin adı neydi?",
+                "answers": [
+                    {
+                        "content": "Barış",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ateşkes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Aydınlanma",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Terör",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "topic": "İsa'nın Hayatı ve Hıristiyanlığın Doğuşu",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Hıristiyanlığın kurucusu kimdir?",
+                "answers": [
+                    {
+                        "content": "İsa Mesih",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yahudiye",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Allah",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "İsa Mesih kim?",
+                "answers": [
+                    {
+                        "content": "İsa Mesih, Allah'ın Oğludur.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "İsa Mesih, Tanrı'nın Oğludur.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "İsa Mesih, Yahudiye'nin Oğludur.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Hıristiyanlar, İsa'nın Tanrı'nın Oğlu olduğuna inanırlar. Onun öğretilerini ve Hıristiyan kilisesi'nin öğretilerini takip ederler (Doğru / Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Hıristiyan ibadet yerine Cami denir. (Doğru / Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "İki ana Hıristiyan festivali Paskalya ve Noel'dir. (Doğru / Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "topic": "Muhammed'in Hayatı ve İslam'ın Doğuşu",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Hz. Muhammed, M.S. 570 yılında Mekke'de doğdu. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Arapça 'İslam' kelimesi teslimiyet ve itaat anlamına gelir ve 'barış' anlamına gelen bir kelimeden türemiştir. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "İslam, İsa adında bir adamın hizmetine ve Yahudiye'nin Muhammed aracılığıyla dünyaya verdiği sözlere dayanır. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Allah, Müslümanların her şeyi yaratan ve yöneten yüce ve eşsiz Tanrı için kullandıkları isimdir. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "topic": "Birinci Haçlı Seferi: 1095-1099 (Fransa, Türkiye, Suriye, Filistin, İsrail)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Kudüs Müslümanlar tarafından kutsal kabul edildi çünkü: ",
+                "answers": [
+                    {
+                        "content": "Hz. Muhamad orada doğdu.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hz. Muhamad orada defnedildi.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Peygamber Muhamad orada Cennete yükseltildi.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "İlk Haçlı Seferi başladı... (1096)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Birinci Haçlı Seferi'nin nedenlerinden biri, 1095'ten kalma çok fakir hasattı. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Kutsal Savaş çağrısı tarafından başlatıldı: ",
+                "answers": [
+                    {
+                        "content": "Aleksios Komnen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Münzevi Peter",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Papa II. Urban",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Birinci Haçlı Seferi'nin amacı kutsal şehri kurtarmaktı.:",
+                "answers": [
+                    {
+                        "content": "Kudüs",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Roma",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Santiago",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Holly Savaşı çağrısı Clermont'ta başlatıldı. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Haçlı Seferi'ne ilk başlayanlar köylülerdir. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Papa II. Urban, Kudüs kuşatmasına öncülük eder. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Birinci Haçlı Seferi'nin sonunda Kudüs, Hristiyan yönetimi altına geri döndü. (Doğru veya Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Birinci Haçlı Seferi'nden sonra kurulan haçlı devletleri şunlardı:",
+                "answers": [
+                    {
+                        "content": "Kudüs, Edessa, Trablusgarp, Antakya",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bizans, Kudüs, Filistin, Mısır, İznik, Konstantinopolis, Selçuklu, Fatımi.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "\"Haçlı\" kelimesi şu anlama gelir:",
+                "answers": [
+                    {
+                        "content": "Göğsüne haç işareti takan haçlı seferlerine katılan",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Haçlı seferlerinin nedenlerini, olaylarını ve sonuçlarını inceleyen tarihçi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Haç şeklinde bir şövalye zırhının parçalarından biri",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "topic": "Aztek Uygarlığının Yükselişi ve Düşüşü",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Aztekler günümüz Meksika'sında yaşadılar.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Azteklerin bir ay takvimi vardı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Cortez Aztek kökenliydi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Aztek imparatorluğu 1521'de çöktü.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "İspanyollar Aztek imparatorluğunu devraldı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "topic": "Kara Ölüm (Hıyarcıklı Veba) Avrupa'yı Harap Ediyor",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Kara ölüm neydi?",
+                "answers": [
+                    {
+                        "content": "Avrupa'ya gelen bir veba",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Asya'ya gelen bir veba",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Avustralya'ya gelen bir veba",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Nereden geldi?",
+                "answers": [
+                    {
+                        "content": "Avrupa ve Afrika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Doğu ve Orta Asya",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kuzey ve Güney Amerika",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Avrupa'da veba hangi yıllarda en kötüsüydü?",
+                "answers": [
+                    {
+                        "content": "1175-1184",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1251-1256",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1347-1353",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1410-1416",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Kara Ölüm bazen ne denirdi?",
+                "answers": [
+                    {
+                        "content": "İspanyolca",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hıyarcıklı Veba",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Rus Gribi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "COVID-19",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Kara Ölüm, Avrupa'daki nüfusun yaklaşık yüzde kaçını öldürdü?",
+                "answers": [
+                    {
+                        "content": "Bir saniye",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Üçte Biri",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Dörtlü",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Beşte Bir",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Kara Ölüm sırasında hem bezelye karıncaları hem de soylular için iki temel sorun neydi?",
+                "answers": [
+                    {
+                        "content": "Köylüler - Tarlalarda çalışacak insan sıkıntısı vardı",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Soylular - Tarlalarında çalışmak zorundaydılar (buna alışkın değillerdi veya yeterince iyi değillerdi)",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Avrupalıların yaklaşık yüzde kaçı vebadan öldü?",
+                "answers": [
+                    {
+                        "content": "30%",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "40%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "50%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "60%",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Kara Ölüm sırasında, hastaları önemseyen veba doktorları vardı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "topic": "Rönesans",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Kopernik, Güneş'in Dünya etrafında döndüğü eski inancını doğrular",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Michelangelo Mona Lisa'yı boyar",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Leonardo da Vinci, Sistine Şapeli'ni süslüyor",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Rönesans kültürü insanı ve varlığını merkeze yerleştirir",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Sanatçılar, filozoflar, şairler mahkemelerde ağırlanır",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Kaleler kültürel üretim yerleri haline gelir",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Hümanizmin kültürel hareketi ne zamandı?",
+                "answers": [
+                    {
+                        "content": "Rönesans",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Aydınlanma",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Orta Çağ",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Tekno-pratik bilgi, Orta Çağ geleneklerini reddetti",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Rönesans'ın yayılmasında önemli bir faktör - Signorie",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Sanatçılar ve bilim adamları çalışmaları için lordlardan ne aldı?",
+                "answers": [
+                    {
+                        "content": "Koruma",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bakım",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vesayet",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Himaye",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Kültürün daha fazla yayılmasını sağlayan nedir?",
+                "answers": [
+                    {
+                        "content": "Kalem icadı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hareketli tip baskı",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kitaplara daha fazla erişim",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Hareketli tip baskıyı kim icat etti?",
+                "answers": [
+                    {
+                        "content": "Muller",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bohte",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Gutenberg",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Peutinger",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "topic": "Geç Rönesans",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Yeni Çağı tanımamıza en çok hangisi yardımcı oldu?",
+                "answers": [
+                    {
+                        "content": "Kazılar ve kalıntılar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kitap basmanın icadı",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Her türlü bina ve obje",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Arkeolojik buluntular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Keşif yolculukları şunlara yol açar:",
+                "answers": [
+                    {
+                        "content": "Tüm yol daha iyi nakliye",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Daha iyi el sanatları ve bilim",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kültürlerin yayılması",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Dünyanın farklı yerlerinde doğayı etkileyen kıtalar arasındaki temaslar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Yeni Çağda ticaret ve sanayinin ana merkezi Hollanda'daydı",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Keşif yolculuklarında yerli halka ne oldu?",
+                "answers": [
+                    {
+                        "content": "Hıristiyanlığa dönüştürüldüler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Köleliğin avını hissettiler",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Çok zengin oldular",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Yeni Çağda hangi uluslar yeni alanlar açtı?",
+                "answers": [
+                    {
+                        "content": "İngiltere ve İspanya",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Portekiz ve Hollanda",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Almanya ve Belçika",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "topic": "Boston Çay Partisi: Amerikalı Sömürgeciler Boston Limanı'na Çay Atarak Yeni İngiliz Vergilerini Protesto Ettiler: 12/16/1773",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Amerikalı sömürgeciler çay vergilerini neden ödemek istemediler:",
+                "answers": [
+                    {
+                        "content": "Temsil edilmeksizin vergilendirmeye karşı çıktılar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kendi çaylarını yetiştirebileceklerini düşündüler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Çayın fiyatı yüksek olur",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Doğu Hindistan Şirketi'nin çok miktarda çay satmak için yardıma ihtiyacı vardı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "7 Yıl Savaşı'nın sona ermesinden sonra, Büyük Britanya'nın yeni para kaynaklarına ihtiyacı vardı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Çayın fiyatı yeni yasa ile yükseltildi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Boston çayının imhası için hazırlıklara dahil olan organizasyon şunlardı:",
+                "answers": [
+                    {
+                        "content": "Silahlı Kardeşler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Özgürlüğün Oğulları",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boston Celtics",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "1773'ün sonunda Boston Limanı'na bir çay kargosu getiren gemi sayısı oldu...",
+                "answers": [
+                    {
+                        "content": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "5",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Gemiler Boston Limanı'ndan ayrılarak çay yüklerini başka bir Amerikan limanına veya İngiltere'ye götürmüş olabilirlerdi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Boston Çay Partisi sırasında meydana gelen zararlar:",
+                "answers": [
+                    {
+                        "content": "Birçok kişi yaralandı veya öldürüldü",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yaklaşık 46 ton çay imha edildi",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Liman girişini koruyan yaklaşık 100 silah denize atıldı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Boston'daki olaylardan sonra İngiliz Parlamentosu konumlarını yeniden gözden geçirdi ve kolonilerden bir heyet almaya karar verdi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Boston Çay Partisi, Amerikan Bağımsızlık Savaşı'na yol açan olaylardan biri olarak kabul edilir.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "İngiliz Parlamentosu, aynı zamanda şu şekilde adlandırılan Zorlayıcı Eylemleri kabul etti:",
+                "answers": [
+                    {
+                        "content": "Dayanılmaz Eylemler",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kısıtlayıcı Eylemler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Baskıcı Eylemler",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "topic": "Amerikan Devrimi: 1775-1783",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Amerikan Devrimi'nin nedenlerinden biri şunlardı:",
+                "answers": [
+                    {
+                        "content": "Temsil edilmeyen vergilendirme",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Soruşturmasız kınama",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kınamadan sınır dışı etme",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Boston Çay Partisi sırasında, üç geminin çay kargosu:",
+                "answers": [
+                    {
+                        "content": "Denize atılmış",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Vatanseverler tarafından el konuldu",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Çok yüksek fiyatlarla satılır",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Olayların doğru sırasına sahip varyantı seçin:",
+                "answers": [
+                    {
+                        "content": "Birinci Kıta Kongresi, Boston Çay Partisi, Lexington çatışması",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Boston Çay Partisi, Birinci Kıta Kongresi, Lexington çatışması",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Lexington çatışması, Birinci Kıta Kongresi, Boston Çay Partisi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Birinci Kıta Kongresi, 13 koloninin Bağımsızlığını ilan etti.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Kolonilerin bağımsızlığı 1776 yılında ilan edildi.",
+                "answers": [
+                    {
+                        "content": "1776",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1781",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1783",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Kolonilerin ana müttefiki Kanada değildi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Amerikan ordusunun lideri şunlardı:",
+                "answers": [
+                    {
+                        "content": "Benjamin Franklin",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Thomas Jefferson",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "George Washington",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Fransa, Amerikan zaferinden sonra Büyük Britanya'ya savaş ilan ettiği yer:",
+                "answers": [
+                    {
+                        "content": "Delaware",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yorktown",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Saratoga",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Amerikan ordusu için kesin zaferin olduğu yer:",
+                "answers": [
+                    {
+                        "content": "Yorktown",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Boston",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Lexington",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Amerikan Devrim Savaşı'nı sona erdiren barış antlaşması imzalandı:",
+                "answers": [
+                    {
+                        "content": "Versay",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Philadelphia",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Londra",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "Kolonilerin zaferi Kuzey Amerika yerli kabileleri için olumlu sonuçlar doğurdu.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "Bir koloni:",
+                "answers": [
+                    {
+                        "content": "Köln limanından çay taşıyan, birlikte seyahat eden bir grup gemi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Başka bir ülkenin tam veya kısmi siyasi kontrolü altındaki ve o ülkeden yerleşimciler tarafından işgal edilen bir ülke veya bölge",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Resmi bir toplantı veya bir dizi toplantı için delegeler arasında, özellikle bir siyasi parti veya aynı siyasi fikirleri savunanlar arasında",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "topic": "Oy Hakkı Hareketi: Kadınlar Oy Hakkı için Savaşıyor: 1893-1928",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Suffrage kelimesi, Latincedeki suffragium kelimesinden gelir ve şunu ifade eder:",
+                "answers": [
+                    {
+                        "content": "Oy hakkı elde etmek için acı çekenler",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Tartışmalı bir soruyu çözmek için verilen oy",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Temsilî hükümet için yapılması gereken fedakârlıklar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Suffragist ve suffragette kelimeleri arasındaki fark nedir?",
+                "answers": [
+                    {
+                        "content": "Suffragist erkekleri, suffragette ise kadınları ifade eder.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Suffragist, oy hakkını isteyen kadınları ifade etmek için kullanılmıştır, bu kadınlar kendilerine suffragette demiştir.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Suffragette küçültücü bir terimken, suffragist değildir.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Kadın Hakları Konvansiyonu 1848'de Seneca Falls'ta düzenlendi. Bu konvansiyonda taslağı hazırlanan belge şu adı taşıyor:",
+                "answers": [
+                    {
+                        "content": "Kadınların Dokunulmaz Hakları",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kadın Hakları Bildirgesi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Duygular Bildirgesi",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "ABD Anayasası'nın 19. Değişikliği 18 Ağustos 1920'de onaylandı mı?",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Bu feminist hareketin bir sembolü müdür?",
+                "image": "2.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "topic": "Rus Devrimi: 1917-1922",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Devrimden önce Rusya, Çar adında güçlü bir hükümdar tarafından yönetiliyordu. Çarın Rusya'da toplam gücü vardı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Rus devrimi, Vladimir Lenin ve Bolşevikler adlı bir grup devrimci tarafından yönetildi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Rus Devrimi'ne yol açan büyük bir olay 22 Ocak 1925'te gerçekleşti. Bu güne Kanlı Pazar denir.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "1918'den 1920'ye kadar Rusya, Bolşevikler (Kızıl Ordu olarak da adlandırılır) ile Bolşevik Karşıtları (Beyaz Ordu) arasında bir iç savaş yaşadı. Bolşevikler kazandı ve yeni ülkeye SSCB (Sovyet Sosyalist Cumhuriyetler Birliği) adı verildi.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Rusya halkı ilk olarak 1927'nin başlarında isyan etti.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "topic": "Birleşmiş Milletler Kuruldu: 1945-1946 (Avrupa, K. ve G. Amerika, Asya, Afrika, Avustralya)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "BM 1845 yılında kuruldu",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "BM başlangıçta barışı koruma amaçlı",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "BM'de 93 ülke var",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Günümüzde BM yoksulluğun azaltılmasını hedefliyor",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Günümüzde BM insan haklarını hedefliyor",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "topic": "Dijital Devrim: Dijital Elektrik Bilgisayarının İcadı",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Mikroelektroniğin (transistörler, entegre devreler) icadı dijital devrimi başlattı mı?",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Mobil cihazların kablosuz iletişimi için Wi-Fi kullanılıyor mu?",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Elektronik bankacılığın çok hızlı bir şekilde geliştiğini gözlemleyebiliriz. Bitcoin sanal bir para birimi midir?",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "3D yazıcı kağıda yazdırmak için kullanılıyor mu?",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Sanal gerçeklik ve yapay zeka - aynı şeyi mi kastediyorlar?",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "topic": "Sovyetler Birliği, İlk İnsan Yapımı Uydu Olan Sputnik'i Fırlattı: 10/4/1957 (Rusya)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Sovyetler Birliği uzaya hangi uyduyu fırlatarak Uzay Yarışını başlattı?",
+                "answers": [
+                    {
+                        "content": "Kosmos",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Spektr",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sputnik",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "YoutSat",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Voyager",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Bu Sputnik - ilk yapay dünya uydusu mu?",
+                "image": "3.jpg",
+                "answers": [
+                    {
+                        "content": "Evet",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hayır",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Çizime bakın ve nesnenin adını belirtin:",
+                "image": "4.jpg",
+                "answers": [
+                    {
+                        "content": "Luna 10",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sojuz 4",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sputnik 1",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Wostok 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Gemini 8",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "İlk dünya uydusu ne zaman fırlatıldı?",
+                "answers": [
+                    {
+                        "content": "14 Aralık 1903",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "8 Mayıs 1945",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "4 Ekim 1957",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "20 Temmuz 1969",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "topic": "Yuri Gagarin Uzaydaki İlk Adam Oldu: 1961 (Rusya)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Yuri Alekseevich Gagarin bir Rus kozmonotuydu (astronot). 1 Nisan'da uzayda ilk insan oldu.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "12 Nisan 1981'de Gagarin, Vostok 3KA-3'te (Vostok 1) yörüngeye çıkarak uzaya giden ilk adam oldu.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Batılı insanlar Gagarin'in uzay uçuşu sırasında şu yorumu yaptığını iddia etti: \"Burada hiçbir Tanrı görmüyorum.\"",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "1982'de Sovyetler Birliği Yüksek Sovyeti'ne milletvekili olarak görev yapmaya başladı.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Kazanın nedeni bilinmiyor, ancak bir Su-11 'Fish-pot-C' önleyicisinin yanmasını kullanan türbülansı buna neden olmuş olabilir.",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "topic": "U.S. Başkan John F. Kennedy, Dallas, Teksas'ta öldürüldü: 11/22/1963 (ABD)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Bu John Fitzgerald Kennedy mi, ABD'nin 35. başkanı mı? (Doğru / Yanlış)",
+                "image": "5.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Suikast gününün en ünlü fotoğraflarından biri. JFK New York'ta öldürüldü mü? (Doğru / Yanlış)",
+                "image": "6.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Bir Sovyet nakliye gemisi Kuzey Amerika'daki adalardan birine yelken açtı. Haiti miydi? (Doğru / Yanlış)",
+                "image": "7.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "topic": "İnternetin Doğuşu: 1965-1995 (ABD)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "İngilizce \"windows\" kelimesi aynı zamanda bilgisayarlar için işletim sisteminin adı anlamına mı geliyor? (Doğru / Yanlış)",
+                "image": "8.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Bu programlar, internette yayınlanan içeriğe erişmenizi sağlar. Web tarayıcıları mı? (Doğru / Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Sosyal medya, kullanıcıları arasındaki teması kolaylaştıran programlar kullanır (kısa bilgiler, fotoğraflar, kısa mesajlar). Yukarıda sunulanlar iletişimciler mi? (Doğru / Yanlış)",
+                "image": "9.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "İnterneti bir eğlence kaynağı olarak da kullanıyoruz - film izliyoruz veya müzik dinliyoruz. Aşağıda sunulan şirketler müzik dinlemenize izin veriyor mu? (Doğru / Yanlış)",
+                "image": "10.jpg",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "İnternetin tohumları ekildi",
+                "answers": [
+                    {
+                        "content": "1969",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1970",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1960",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1980",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Orijinal ARPANET kapatıldı",
+                "answers": [
+                    {
+                        "content": "1990",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1995",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1980",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1970",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "İnternet, başka türlü iletişim kuramadığımız birçok kaynağa erişmemizi sağlar. (Doğru / Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "İnternetteki bilgilerin her zaman gerçek olduğuna güvenilebilir. Doğru olmasaydı internette olmazdı. (Doğru / Yanlış)",
+                "answers": [
+                    {
+                        "content": "Doğru",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yanlış",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Avrupa Birliği'ndeki hanelerin yüzde kaçının internete erişimi vardı?",
+                "answers": [
+                    {
+                        "content": "50'nin üzerinde%",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "80'in üstünde%",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "topic": "The Time of Avcılar ve Köylüler (MÖ 3000)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "İlk insanlar zamanında olanları nasıl öğrendik?",
+                "answers": [
+                    {
+                        "content": "Şarkılar ve şiirler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Anlatılan hikayeler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yerdeki bulgular",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kazılan mezarlar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "İlk insanlar yazabilir mi?",
+                "answers": [
+                    {
+                        "content": "Bazen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Evet",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hayır",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "İlk insanlar yiyeceklerini nasıl aldılar?",
+                "answers": [
+                    {
+                        "content": "Bir dükkanda",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Piyasada",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Avlanmak",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Çiftçilikten",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "İlk insanlar nerede yaşıyordu?",
+                "answers": [
+                    {
+                        "content": "Kalelerde",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ahşap evlerde",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tarlalarda",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ormanda",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Mağaralarda",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Eşyaları neyden yapılmıştı?",
+                "answers": [
+                    {
+                        "content": "Demir",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kil",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bronz",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Diğer metal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "İlk insanlar hayvanları yakalamak için ne kullandı?",
+                "answers": [
+                    {
+                        "content": "El baltası",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bir mızrak ucu",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bir kazıyıcı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Tarih öncesi çağlardaki insanlar bazen petroglifler yaptılar. Kalemle mi yapmışlar?",
+                "answers": [
+                    {
+                        "content": "Evet",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hayır",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "İlk insanlar kayalara en çok ne çizdi?",
+                "answers": [
+                    {
+                        "content": "Portreler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Balıklar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Vahşi hayvanlar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Tekneler",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "İlk çiftçiler yiyeceklerinin çoğunu nasıl elde ettiler?",
+                "answers": [
+                    {
+                        "content": "Balıkçılıktan",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Avcılıktan",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sığırlarından",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Topraklarından",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Kalıcı bir yere sahip olmak neden önemli hale geldi?",
+                "answers": [
+                    {
+                        "content": "Ailesiyle birlikte olmak",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sığırları barındırabilmek",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Toprağı işlemek",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bölgeyi kontrol etmek",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 11,
+                "question": "İlk çiftçiler için ateş neden bu kadar önemliydi?",
+                "answers": [
+                    {
+                        "content": "Vahşi hayvanlara karşı kendilerini savunmak",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tarım arazileri için ormanları yakmak",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kışın sıcak tutmak",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Yemek pişirmek",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 12,
+                "question": "İlk çiftçiler nerede yaşıyordu?",
+                "answers": [
+                    {
+                        "content": "Mağaralarda",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kalelerde",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ahşap ve çamurdan evlerde",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Dairelerde",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 13,
+                "question": "Çiftçiler vahşi hayvanlara ne yaptı?",
+                "answers": [
+                    {
+                        "content": "Onları öldürdüler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Onları avladılar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Onları hayvanat bahçesine sattılar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Onları evcilleştirdiler",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 14,
+                "question": "İlk çiftçiler aletlerini ve gereçlerini hangi malzemelerden yaptılar?",
+                "answers": [
+                    {
+                        "content": "Altından",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Demirden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bronzdan",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Taştan",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Kilden",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Ahşaptan",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 15,
+                "question": "Çiftçiler daha sonra araçlarını hangi malzemelerden yaptılar?",
+                "answers": [
+                    {
+                        "content": "Altından",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Demirden",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Bronzdan",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Taştan",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kilden",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ahşaptan",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 16,
+                "question": "Avcılar gruplar halinde, kabileler halinde yaşadılar. Köylüler nasıl birlikte yaşamaya başladı?",
+                "answers": [
+                    {
+                        "content": "Kalelerde",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Şehirlerde",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Köylerde",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Mağaralarda",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "topic": "Yunan ve Romalılar Zamanı (MÖ 3000 - MS 500)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Yunanistan ve Atina denizaşırı ticaret yaparak gelişti. Yazma düşüncesi ve sanat da gelişti. Bütün bunları nereden biliyoruz?",
+                "answers": [
+                    {
+                        "content": "Korunmuş yazı ve kalıntılardan",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Anlatılan hikayelerle",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kazılan mezarlardan",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Büyüyen şehirler, özellikle görünüşte ilk köylü yerleşimlerinden nasıl farklıydı?",
+                "answers": [
+                    {
+                        "content": "Şehirlerin sadece barınma amaçlı değil, aynı zamanda tapınak veya ordu kışlası olarak el sanatlarına ve ticarete uyarlanmış taştan yapılmış binaları vardı.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Şehirlerin gökdelenleri vardı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Şehirlerin havada kaleleri vardı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Yunanlılar ve Romalılar neden topraklarını fethederek genişletmeye başladılar?",
+                "answers": [
+                    {
+                        "content": "Tekneleri olduğunda",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Daha fazla alana ihtiyaç duyduklarında",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Daha fazla toprak ve daha fazla güç istediklerinde",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Hıristiyanlık ile eski putperest dinler arasındaki temel fark nedir?",
+                "answers": [
+                    {
+                        "content": "Hıristiyanlığın daha fazla azizi vardır",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Putperest dinlerin genellikle birçok tanrısı vardı",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Hıristiyanlığın daha akıllı rahipleri vardı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Medeniyet ve kültür Romalılar tarafından fethedilen topraklarda nasıl yayıldı?",
+                "answers": [
+                    {
+                        "content": "Kitaplara göre",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Savaş ve fetihlerle",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Roma yerleşimlerine göre",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Fethedilen tüm topraklarda Roma etkisi neden kalıcı kalmadı?",
+                "answers": [
+                    {
+                        "content": "İklim değişikliği nedeniyle",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Yolsuzluk ve kötü yönetişim nedeniyle",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Düşmanca baskınlar nedeniyle",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "topic": "Rahipler ve Şövalyeler Zamanı (500 - 1000/2000)",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Roma dönemi bittiğinde Batı Avrupa'da ne oldu?",
+                "answers": [
+                    {
+                        "content": "Cermen kabileleri iktidarı ele geçirdi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Romalılar kaosu geride bırakarak ayrıldılar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Cermen kabileleri birbirlerine karşı savaşmaya başladılar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Hıristiyanlık Göç Döneminde günlük yaşamı nasıl etkiledi?",
+                "answers": [
+                    {
+                        "content": "İnsanlar her öğün için dua etmeye başladılar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hıristiyanlık insanları günde üç kez dua etmeye zorladı",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Hıristiyanlık tek istikrarlı faktördü",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "İnsanlar Pazar günleri ayine gitmek zorunda kaldılar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Orta Çağ, MS 500'den 1500'e kadar sürdü. Bu kaç yıl?",
+                "answers": [
+                    {
+                        "content": "950",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1100",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1000",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Orta Çağ'daki çoğu insan tarım yapıyordu. Bu insanlardan bazıları bu şekilde mülk edinerek fakir olan diğerlerine arazi kiraladı. Bu şekilde giderek daha fazla kiracı geldi. Bu insanlar özgür müydü? Efendileri için ne yapmak zorundaydılar?",
+                "answers": [
+                    {
+                        "content": "Özgürdüler, ama aynı zamanda Lord'un amy'sinde asker olarak da hizmet etmek zorunda kaldılar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Özgürdüler, ancak arazinin kullanımı için ayni ödeme yapmak zorunda kaldılar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tamamen özgür değillerdi ve lordlar için çalışmak ve hizmet etmek zorunda kaldılar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Serfin rab'be ve serf rab'be ihtiyacı vardı. Bunu açıkla.",
+                "answers": [
+                    {
+                        "content": "Bu tür bir oyunun iki oyuncuya ihtiyacı vardır",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Toprak sahibi olmak için ekin üretmek ve sığır tutmak için işçiye, yiyecek ve barınma için toprağa ihtiyaç vardır.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Sadece serfler ekmek pişirebilir ve ev sahibinin korunmak için bir ordusu vardır",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "O günlerin koşullarında hayatta kalmak için birbirlerine ihtiyaçları vardır",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Ev sahiplerinin evleri gittikçe büyüdü. Daha büyük evler esas olarak hangi malzemeden inşa edildi? Niçin?",
+                "answers": [
+                    {
+                        "content": "Daha iyi savunma için taştan yapılmışlardır",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Tahtadan yapılmışlar çünkü bu daha kolay",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Metalden yapılmışlardı çünkü daha güçlüydü",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "Bir şövalyenin uyması gereken üç kural neydi?",
+                "answers": [
+                    {
+                        "content": "Bir kaleye sahip olması gerekiyordu.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Verdiği sözleri tutmak zorundaydı.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Halkı korumak zorundaydı.",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Çiftçi olmalı.",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Rabbine sadık kalmak zorundaydı.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Bazı ev sahipleri giderek daha büyük mülklere ve sonunda şövalyeler ve askerlerle ordulara kavuştu. Daha büyük toprakların efendisi oldular ve soylular olarak adlandırıldılar. Hepsinin en büyük patronu nasıl denir?",
+                "answers": [
+                    {
+                        "content": "İmparator",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Kral",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Dük",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Saymak",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "Charlemagne kimdi?",
+                "answers": [
+                    {
+                        "content": "Kötü şöhretli bir şövalye",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ünlü bir kral",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Beyefendi bir çiftçi",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Büyük bir şair ve yazar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Ünlü bir ozandı",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "Orta Çağ'da denizden hangi tehdit biliniyordu?",
+                "answers": [
+                    {
+                        "content": "Romalılar geri döndü",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Büyük deniz hayvanlarının saldırıları",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Normanların Yağmalanması",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Keşişlerin Yağmalanması",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "topic": "Hristiyanlığın Doğuşu: Manastırlar",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Yüksek Orta Çağ'da Kilise, tek başına kalmış ve",
+                "answers": [
+                    {
+                        "content": "istikrarlı ve acımasız bir örgüt",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "otoriter ve katı bir örgüt",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "hangi topraklardaki sakinlere güvenlik ve koruma sağlayabilen tek kurumdu ve bu nedenle çok",
+                "answers": [
+                    {
+                        "content": "güçlü",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "korkulan",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Şehirlerde, özellikle",
+                "answers": [
+                    {
+                        "content": "papa makamlarında",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "piskopos makamlarında",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "kırsalda ise manastırlarda, keşişlerin birlikte yaşadığı yerde bulunuyordu",
+                "answers": [
+                    {
+                        "content": "topluluk",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "izolasyon",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Manastırların çok önemli bir işlevi vardı: korumayı ve",
+                "answers": [
+                    {
+                        "content": "beslemeyi",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "zenginleştirmeyi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "nüfusu kurtardı, birçok araziyi terkten kurtardı, kültürü korudu ve yaydı",
+                "answers": [
+                    {
+                        "content": "kültür",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "gelenekleri",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 7,
+                "question": "İlk manastırlar,",
+                "answers": [
+                    {
+                        "content": "Franciscanlar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Benedictines",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 8,
+                "question": "Kurucusu,",
+                "answers": [
+                    {
+                        "content": "Benedict of Nursia",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Francis of Assisi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 9,
+                "question": "bir Kural yazdı, keşişlerden",
+                "answers": [
+                    {
+                        "content": "curtis'in efendisine",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "abbye",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 10,
+                "question": "yoksulluk ve iffeti uygulamaya, ora et labora yani, kendilerini adamaya çağrıldı",
+                "answers": [
+                    {
+                        "content": "duaya ve çalışmaya",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "duadan daha çok çalışmaya",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "topic": "Atina: Demokrasiye Doğru / Bir Örnek",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Dışlanma nedir?",
+                "answers": [
+                    {
+                        "content": "Kutsal bir görüntü",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Bir Yunan yemeği",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Şehirden sürgün",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Polis'in siyasi hayatına kimler katılabilir?",
+                "answers": [
+                    {
+                        "content": "Kadınlar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sadece yaşlılar",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Erkekler",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Solon'un reformunun ana etkisi nedir?",
+                "answers": [
+                    {
+                        "content": "Demokrasinin doğuşu",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Monarşinin doğuşu",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Aristokrasinin sonu",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "İlk Atinalı yasa koyucu kimdi?",
+                "answers": [
+                    {
+                        "content": "Cleisthenes",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Solon",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Perikles",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Atina şehri hangisini sevdi?",
+                "answers": [
+                    {
+                        "content": "Savaş",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Tarım",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Sanat, kültür ve eğitim",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "Atinalı kadınlar ne ile ilgilendiler?",
+                "answers": [
+                    {
+                        "content": "Çocukları",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Politika",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Eğlenceler",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "topic": "Atina'da Eğitim",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Doğru cevabı seçin: Atinalı kızlar",
+                "answers": [
+                    {
+                        "content": "Sadece çocuklarına ve evlerine baktılar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Özgürce dışarı çıkabiliyordu",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Oy kullanabilir",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "Atinalı çocuklar:",
+                "answers": [
+                    {
+                        "content": "Silah kullanmak için eğitildiler",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Ev hayatı konusunda eğitildiler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Balıkçı olmak için eğitildiler",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Aristokrat polislerde soylular",
+                "answers": [
+                    {
+                        "content": "Eğitim parası yetebilir",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Tarımla ilgilenebilir",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Çocuklarını eğitebilir",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Çocuklar eğitildi",
+                "answers": [
+                    {
+                        "content": "Büyükanneleri veya 18 yaşına kadar eğitimli bir kölesi tarafından",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Anneleri veya eğitimli bir kölesi tarafından 6/7 yaşına kadar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Şehrin kahini tarafından",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Özel öğretmen çağrıldı",
+                "answers": [
+                    {
+                        "content": "Müzisyen",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Genel",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Dilbilimci",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "topic": "ABD'de İç Savaş",
+        "questions": [
+            {
+                "questionId": 1,
+                "question": "Abraham Lincoln ne zaman öldü (yıl)? 1865 mi, 1866 mı?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 2,
+                "question": "İç savaş yasal olarak ne zaman sona erdi? 1865 mi, 1866 mı?",
+                "answers": [
+                    {
+                        "content": "1865",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "1866",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 3,
+                "question": "Kuzeyden gelen askerlere ne deniyordu? Birleşmiş Milletler mi, Konfederasyonlar mı?",
+                "answers": [
+                    {
+                        "content": "Birleşmiş Milletler",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Konfederasyonlar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 4,
+                "question": "Güneydeki askerlerin adı neydi? Birleşmiş Milletler mi, Konfederasyonlar mı?",
+                "answers": [
+                    {
+                        "content": "Birleşmiş Milletler",
+                        "isCorrect": false
+                    },
+                    {
+                        "content": "Konfederasyonlar",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "questionId": 5,
+                "question": "Birliğin Başkanı kimdi? Abraham Lincoln veya Jefferson Davis",
+                "answers": [
+                    {
+                        "content": "Abraham Lincoln",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Jefferson Davis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "questionId": 6,
+                "question": "İç savaşı kim kazandı? Sendikacılar mı, Konfederasyonlar mı?",
+                "answers": [
+                    {
+                        "content": "Sendikacılar",
+                        "isCorrect": true
+                    },
+                    {
+                        "content": "Konfederasyonlar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

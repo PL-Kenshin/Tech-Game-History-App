@@ -50,6 +50,12 @@ const Home = (props) => {
                     strings.setLanguage('nl')
                     setIsReady(true)
                     break;
+                case "tr":
+                    data = require('../data/tr/quiz.json')
+                    setQuizList([...data])
+                    strings.setLanguage('tr')
+                    setIsReady(true)
+                    break;
                 default:
                     data = require('../data/en/quiz.json')
                     setQuizList([...data])
