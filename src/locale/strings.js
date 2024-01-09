@@ -37,8 +37,7 @@ const strings = new LocalizedStrings({
         defaultFont: "Default font size",
         reducefont: "Reduce font size",
         dyslexicFont: "Enable dyslexic font",
-        projectReference: "Project reference number",
-        license: "This work is licensed under a Creative Commons Attribution 4.0 International License"
+        projectReference: "Project reference number"
     },
     it: {
         start: "inizio",
@@ -76,8 +75,7 @@ const strings = new LocalizedStrings({
         defaultFont: "Carattere predefinito",
         reducefont: "Riduci il carattere",
         dyslexicFont: "Abilita il carattere per dislessici",
-        projectReference: "Numero di riferimento del progetto",
-        license: "Quest'opera è concessa in licenza con una Licenza Creative Commons Attribuzione 4.0 Internazionale"
+        projectReference: "Numero di riferimento del progetto"
     },
     mk: {
         start: "почеток",
@@ -115,8 +113,7 @@ const strings = new LocalizedStrings({
         defaultFont: "Стандардна големина на фонтот",
         reducefont: "Намали големина на фонтот",
         dyslexicFont: "Овозможете фонт за дислексичар",
-        projectReference: "Број на референца на проектот",
-        license: "Ова дело е лиценцирано под Креативна Комонс Атрибуција 4.0 Меѓународна Лиценца"
+        projectReference: "Број на референца на проектот"
     },
     pl: {
         start: "start",
@@ -154,8 +151,7 @@ const strings = new LocalizedStrings({
         defaultFont: "Domyślny rozmiar czcionki",
         reducefont: "Pomniejsz czcionkę",
         dyslexicFont: "Włącz czcionkę dla dyslektyków",
-        projectReference: "Numer referencyjny projektu",
-        license: "Ta praca jest objęta licencją Creative Commons Attribution 4.0 International"
+        projectReference: "Numer referencyjny projektu"
     },
     ro: {
         start: "start",
@@ -193,8 +189,7 @@ const strings = new LocalizedStrings({
         defaultFont: "Dimensiunea implicită a fontului",
         reducefont: "Micșorează fontul",
         dyslexicFont: "Activați fontul pentru dislexic",
-        projectReference: "Numărul de referință al proiectului",
-        license: "Dit werk is gelicentieerd onder een Creative Commons Naamsvermelding 4.0 Internationaal-licentie"
+        projectReference: "Numărul de referință al proiectului"
     },
     nl: {
         start: "begin",
@@ -232,8 +227,7 @@ const strings = new LocalizedStrings({
         defaultFont: "Standaard lettergrootte",
         reducefont: "Verklein lettertype",
         dyslexicFont: "Schakel dyslectisch lettertype in",
-        projectReference: "Projectreferentienummer",
-        license: "Dit werk is gelicentieerd onder een Creative Commons Naamsvermelding 4.0 Internationaal-licentie"
+        projectReference: "Projectreferentienummer"
     },
     tr: {
         start: "başla",
@@ -271,8 +265,7 @@ const strings = new LocalizedStrings({
         defaultFont: "Varsayılan font boyutu",
         reducefont: "Font boyutunu küçült",
         dyslexicFont: "Dizleksi fontu etkinleştir",
-        projectReference: "Proje referans numarası",
-        license: "Bu çalışma, Creative Commons Attribution 4.0 International License altında lisanslanmıştır"
+        projectReference: "Proje referans numarası"
     }
 });
 
